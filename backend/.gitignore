@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# FastAPI
+*.db
+*.sqlite
+
+# Загруженные и сгенерированные файлы
+uploads/
+outputs/
+*.docx
+*.pdf
+*.doc
+*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+# НЕ коммитьте .env файл с реальными ключами в git!
+
+# Logs
+*.log
+
