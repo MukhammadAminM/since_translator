@@ -32,19 +32,19 @@ const MODELS: ModelInfo[] = [
     id: "general",
     label: "General",
     hint: "Generic translation, mixed topics",
-    description: "Универсальная модель для повседневных текстов и смешанных тем",
+    description: "Universal model for everyday texts and mixed topics",
     bestFor: [
-      "Письма и сообщения",
-      "Блоги и статьи",
-      "Общая документация",
-      "Разговорная речь"
+      "Letters and messages",
+      "Blogs and articles",
+      "General documentation",
+      "Conversational speech"
     ],
     features: [
-      { name: "Универсальность", score: 95 },
-      { name: "Скорость", score: 90 },
-      { name: "Техническая точность", score: 60 },
-      { name: "Академический стиль", score: 55 },
-      { name: "Научная терминология", score: 50 }
+      { name: "Versatility", score: 95 },
+      { name: "Speed", score: 90 },
+      { name: "Technical accuracy", score: 60 },
+      { name: "Academic style", score: 55 },
+      { name: "Scientific terminology", score: 50 }
     ],
     icon: "🌐"
   },
@@ -52,19 +52,19 @@ const MODELS: ModelInfo[] = [
     id: "engineering",
     label: "Engineering",
     hint: "Technical and engineering terminology",
-    description: "Специализированная модель для технических и инженерных документов",
+    description: "Specialized model for technical and engineering documents",
     bestFor: [
-      "Технические спецификации",
-      "Инструкции по эксплуатации",
-      "Чертежи и схемы",
-      "Проектная документация"
+      "Technical specifications",
+      "User manuals",
+      "Blueprints and diagrams",
+      "Project documentation"
     ],
     features: [
-      { name: "Универсальность", score: 50 },
-      { name: "Скорость", score: 75 },
-      { name: "Техническая точность", score: 95 },
-      { name: "Академический стиль", score: 70 },
-      { name: "Научная терминология", score: 80 }
+      { name: "Versatility", score: 50 },
+      { name: "Speed", score: 75 },
+      { name: "Technical accuracy", score: 95 },
+      { name: "Academic style", score: 70 },
+      { name: "Scientific terminology", score: 80 }
     ],
     icon: "⚙️"
   },
@@ -72,19 +72,19 @@ const MODELS: ModelInfo[] = [
     id: "academic",
     label: "Academic",
     hint: "Academic texts, papers, essays",
-    description: "Оптимизирована для академических текстов, научных статей и эссе",
+    description: "Optimized for academic texts, scientific papers and essays",
     bestFor: [
-      "Научные статьи",
-      "Диссертации",
-      "Эссе и рефераты",
-      "Академические презентации"
+      "Scientific articles",
+      "Dissertations",
+      "Essays and reports",
+      "Academic presentations"
     ],
     features: [
-      { name: "Универсальность", score: 60 },
-      { name: "Скорость", score: 70 },
-      { name: "Техническая точность", score: 75 },
-      { name: "Академический стиль", score: 95 },
-      { name: "Научная терминология", score: 85 }
+      { name: "Versatility", score: 60 },
+      { name: "Speed", score: 70 },
+      { name: "Technical accuracy", score: 75 },
+      { name: "Academic style", score: 95 },
+      { name: "Scientific terminology", score: 85 }
     ],
     icon: "📚"
   },
@@ -92,19 +92,19 @@ const MODELS: ModelInfo[] = [
     id: "scientific",
     label: "Scientific",
     hint: "Scientific texts, terms, reports",
-    description: "Высокая точность для научных текстов и специализированной терминологии",
+    description: "High accuracy for scientific texts and specialized terminology",
     bestFor: [
-      "Научные отчеты",
-      "Исследовательские работы",
-      "Медицинские документы",
-      "Специализированные публикации"
+      "Scientific reports",
+      "Research papers",
+      "Medical documents",
+      "Specialized publications"
     ],
     features: [
-      { name: "Универсальность", score: 45 },
-      { name: "Скорость", score: 65 },
-      { name: "Техническая точность", score: 90 },
-      { name: "Академический стиль", score: 90 },
-      { name: "Научная терминология", score: 95 }
+      { name: "Versatility", score: 45 },
+      { name: "Speed", score: 65 },
+      { name: "Technical accuracy", score: 90 },
+      { name: "Academic style", score: 90 },
+      { name: "Scientific terminology", score: 95 }
     ],
     icon: "🔬"
   },
@@ -539,7 +539,7 @@ export default function App() {
 
                             {/* Диаграммы характеристик */}
                             <div className="mb-4 space-y-2.5">
-                              <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-2">Характеристики</p>
+                              <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-2">Features</p>
                               {m.features.map((feature, idx) => {
                                 // Определяем цвет в зависимости от значения
                                 const getColorClass = (score: number) => {
@@ -568,7 +568,7 @@ export default function App() {
 
                             {/* Лучше всего для */}
                             <div>
-                              <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-2">Лучше всего для</p>
+                              <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-2">Best for</p>
                               <div className="flex flex-wrap gap-1.5">
                                 {m.bestFor.map((item, idx) => (
                                   <span
@@ -883,7 +883,7 @@ export default function App() {
                   {/* Радарная диаграмма */}
                   <div className="mb-6 p-4 bg-slate-950/60 border border-slate-800 rounded-xl">
                     <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-4 text-center">
-                      Характеристики модели
+                      Model Features
                     </p>
                     <RadarChart features={selectedModel.features} size={280} />
                   </div>
@@ -891,7 +891,7 @@ export default function App() {
                   {/* Лучше всего для */}
                   <div className="mb-6">
                     <p className="text-[10px] uppercase tracking-wider text-slate-500 mb-3">
-                      Лучше всего для
+                      Best for
                     </p>
                     <div className="flex flex-wrap gap-2">
                       {selectedModel.bestFor.map((item, idx) => (
@@ -917,7 +917,7 @@ export default function App() {
                         : "bg-indigo-500 hover:bg-indigo-400 text-slate-50"
                     }`}
                   >
-                    {model === selectedModel.id ? "✓ Выбрано" : "Выбрать эту модель"}
+                    {model === selectedModel.id ? "✓ Selected" : "Select this model"}
                   </button>
                 </>
               );
