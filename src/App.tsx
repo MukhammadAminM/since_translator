@@ -1,40 +1,37 @@
 import React, { useState } from "react";
 
-// Базовый URL API (измените на ваш, если backend на другом порту)
-const API_BASE_URL = "http://localhost:8000";
-
-// Поддерживаемые языки ввода
+// Supported source languages
 type SupportedLang = "ru" | "ar" | "zh";
 
 const LANGS: { id: SupportedLang; label: string }[] = [
-  { id: "ru", label: "Русский" },
-  { id: "ar", label: "Арабский" },
-  { id: "zh", label: "Китайский" },
+  { id: "ru", label: "Russian" },
+  { id: "ar", label: "Arabic" },
+  { id: "zh", label: "Chinese" },
 ];
 
-// Модели LLM для разных доменов перевода
+// LLM models for different translation domains
 type ModelId = "general" | "engineering" | "academic" | "scientific";
 
 const MODELS: { id: ModelId; label: string; hint: string }[] = [
   {
     id: "general",
     label: "General",
-    hint: "Обычный перевод, смешанная тематика",
+    hint: "Generic translation, mixed topics",
   },
   {
     id: "engineering",
     label: "Engineering",
-    hint: "Техническая и инженерная лексика",
+    hint: "Technical and engineering terminology",
   },
   {
     id: "academic",
     label: "Academic",
-    hint: "Академические тексты, статьи, эссе",
+    hint: "Academic texts, papers, essays",
   },
   {
     id: "scientific",
     label: "Scientific",
-    hint: "Научные тексты, термины, отчёты",
+    hint: "Scientific texts, terms, reports",
   },
 ];
 
@@ -45,50 +42,44 @@ export default function App() {
 
   const [file, setFile] = useState<File | null>(null);
   const [fileName, setFileName] = useState("");
-  const [fileResult, setFileResult] = useState(""); // ожидаем ссылку/инфо о .docx
-  const [downloadUrl, setDownloadUrl] = useState(""); // URL для скачивания .docx
+  const [fileResult, setFileResult] = useState(""); // link/info for .docx
   const [isFileTranslating, setIsFileTranslating] = useState(false);
   const [fileError, setFileError] = useState("");
 
   const [model, setModel] = useState<ModelId>("general");
   const [showModels, setShowModels] = useState(false);
 
-  // Отправка текста на перевод (результат всё равно .docx)
+  // Text translation (result is still .docx)
   async function handleTranslate(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     if (!sourceText.trim()) return;
 
     setIsTranslating(true);
     setFileResult("");
-    setDownloadUrl("");
 
     try {
-      const res = await fetch(`${API_BASE_URL}/api/translate`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ 
-          sourceLang, 
-          text: sourceText, 
-          model 
-        }),
-      });
+      // YOUR TEXT→DOCX TRANSLATION API CALL GOES HERE
+      // Example call to your backend:
+      // const res = await fetch("/api/translate", {
+      //   method: "POST",
+      //   headers: { "Content-Type": "application/json" },
+      //   body: JSON.stringify({ sourceLang, text: sourceText, model }),
+      // });
+      // const data = await res.json();
+      // setFileResult(data.downloadUrl); // link to .docx
 
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({ detail: "Неизвестная ошибка" }));
-        throw new Error(errorData.detail || `Ошибка ${res.status}`);
-      }
-
-      const data = await res.json();
-      setDownloadUrl(`${API_BASE_URL}${data.downloadUrl}`);
-      setFileResult(
-        `✅ ${data.message}\n\n` +
-        `Файл готов к скачиванию. Нажмите кнопку "Скачать .docx" ниже.`
-      );
-      setIsTranslating(false);
+      // Demo placeholder so the UI works without backend
+      setTimeout(() => {
+        setFileResult(
+          "[Demo] This is where a link to a .docx file with the English translation of the text should appear.\n\n" +
+            `Selected model: ${model.toUpperCase()}.` +
+            "\nConnect your backend to /api/translate to return a real .docx file and download link based on the chosen model."
+        );
+        setIsTranslating(false);
+      }, 600);
     } catch (err) {
       console.error(err);
-      const errorMessage = err instanceof Error ? err.message : "Неизвестная ошибка";
-      setFileResult(`❌ Ошибка при переводе текста: ${errorMessage}\n\nПроверьте, что backend запущен на ${API_BASE_URL}`);
+      setFileResult("Error while translating text. Please check your server connection.");
       setIsTranslating(false);
     }
   }
@@ -96,7 +87,6 @@ export default function App() {
   function handleClear() {
     setSourceText("");
     setFileResult("");
-    setDownloadUrl("");
   }
 
   function handleFileChange(e: React.ChangeEvent<HTMLInputElement>) {
@@ -113,7 +103,7 @@ export default function App() {
     if (!allowed.includes(f.type)) {
       setFile(null);
       setFileName("");
-      setFileError("Поддерживаются только PDF, DOC, DOCX и TXT.");
+      setFileError("Only PDF, DOC, DOCX and TXT are supported.");
       return;
     }
 
@@ -121,14 +111,12 @@ export default function App() {
     setFile(f);
     setFileName(f.name);
     setFileResult("");
-    setDownloadUrl("");
   }
 
   async function handleFileTranslate() {
     if (!file) return;
     setIsFileTranslating(true);
     setFileResult("");
-    setDownloadUrl("");
 
     try {
       const formData = new FormData();
@@ -136,27 +124,27 @@ export default function App() {
       formData.append("sourceLang", sourceLang);
       formData.append("model", model);
 
-      const res = await fetch(`${API_BASE_URL}/api/translate-file`, {
-        method: "POST",
-        body: formData,
-      });
+      // YOUR FILE→DOCX TRANSLATION API CALL GOES HERE
+      // Example:
+      // const res = await fetch("/api/translate-file", {
+      //   method: "POST",
+      //   body: formData,
+      // });
+      // const data = await res.json();
+      // setFileResult(data.downloadUrl); // link to generated .docx
 
-      if (!res.ok) {
-        const errorData = await res.json().catch(() => ({ detail: "Неизвестная ошибка" }));
-        throw new Error(errorData.detail || `Ошибка ${res.status}`);
-      }
-
-      const data = await res.json();
-      setDownloadUrl(`${API_BASE_URL}${data.downloadUrl}`);
-      setFileResult(
-        `✅ ${data.message}\n\n` +
-        `Файл "${fileName}" успешно переведен. Нажмите кнопку "Скачать .docx" ниже.`
-      );
-      setIsFileTranslating(false);
+      // Demo placeholder for files
+      setTimeout(() => {
+        setFileResult(
+          "[Demo] This is where a link to a .docx file with the English translation of the uploaded document should appear.\n\n" +
+            `File: ${fileName}\nModel: ${model.toUpperCase()}.` +
+            "\nConnect your backend to /api/translate-file to generate a real .docx using the selected model."
+        );
+        setIsFileTranslating(false);
+      }, 800);
     } catch (err) {
       console.error(err);
-      const errorMessage = err instanceof Error ? err.message : "Неизвестная ошибка";
-      setFileResult(`❌ Ошибка при переводе файла: ${errorMessage}\n\nПроверьте, что backend запущен на ${API_BASE_URL}`);
+      setFileResult("Error while translating file. Please check your server.");
       setIsFileTranslating(false);
     }
   }
@@ -166,7 +154,6 @@ export default function App() {
     setFileName("");
     setFileResult("");
     setFileError("");
-    setDownloadUrl("");
   }
 
   return (
@@ -193,32 +180,32 @@ export default function App() {
         <div className="w-full max-w-4xl">
           <div className="mb-6">
             <h1 className="text-2xl sm:text-3xl font-semibold tracking-tight mb-2">
-              Сервис перевода на английский с результатом в .docx
+              Translation service to English with .docx output
             </h1>
             <p className="text-sm text-slate-300 max-w-2xl">
-              Введите текст на русском, арабском или китайском, либо загрузите файл
-              (PDF, DOC, DOCX, TXT). Результат перевода должен приходить только в
-              виде файла <span className="font-mono">.docx</span> для скачивания.
+              Enter text in Russian, Arabic or Chinese, or upload a document
+              (PDF, DOC, DOCX, TXT). The translation result is always returned as
+              an <span className="font-mono">.docx</span> file ready to download.
             </p>
           </div>
 
-          {/* Блок выбора модели LLM — сворачиваемый */}
+          {/* Collapsible LLM model selection */}
           <section className="mb-6 border border-slate-800 rounded-2xl bg-slate-900/70">
             <button
               type="button"
               onClick={() => setShowModels((prev) => !prev)}
               className="w-full flex items-center justify-between px-4 py-3 text-left text-xs uppercase tracking-[0.16em] text-slate-400 hover:bg-slate-900/60 transition"
             >
-              <span>Модель LLM для перевода</span>
+              <span>LLM model for translation</span>
               <span className="text-slate-400 text-lg">{showModels ? "▲" : "▼"}</span>
             </button>
 
             {showModels && (
               <div className="p-4 flex flex-col gap-3 border-t border-slate-800">
                 <p className="text-[11px] text-slate-500 max-w-xl">
-                  Выберите модель, которая лучше всего подходит под тематику текста:
-                  инженерная, академическая или научная лексика. Выбор модели
-                  будет отправляться на backend вместе с текстом или файлом.
+                  Choose the model that best matches the domain of your text:
+                  engineering, academic or scientific terminology. The selected
+                  model will be sent to the backend together with the text or file.
                 </p>
 
                 <div className="flex flex-wrap gap-2 mt-1">
@@ -246,7 +233,7 @@ export default function App() {
             )}
           </section>
 
-          {/* Текст + файл: две колонки */}
+          {/* Text + file: two columns */}
           <div className="grid md:grid-cols-2 gap-4 md:gap-6">
             {/* Left: text input */}
             <form
@@ -255,7 +242,7 @@ export default function App() {
             >
               <div className="flex items-center justify-between gap-2">
                 <label className="text-xs uppercase tracking-[0.16em] text-slate-400">
-                  Исходный текст
+                  Source text
                 </label>
                 <select
                   value={sourceLang}
@@ -273,15 +260,15 @@ export default function App() {
               <textarea
                 value={sourceText}
                 onChange={(e) => setSourceText(e.target.value)}
-                placeholder="Напишите текст для перевода..."
+                placeholder="Type text to translate..."
                 className="min-h-[180px] max-h-[260px] w-full text-sm bg-slate-950/60 border border-slate-800 rounded-xl px-3 py-2 resize-y outline-none focus:border-indigo-500"
               />
 
               <div className="flex flex-wrap gap-2 justify-between items-center pt-1">
                 <div className="flex gap-2 text-[11px] text-slate-500">
-                  <span>Язык: {sourceLang.toUpperCase()}</span>
+                  <span>Language: {sourceLang.toUpperCase()}</span>
                   <span>•</span>
-                  <span>Символов: {sourceText.length}</span>
+                  <span>Characters: {sourceText.length}</span>
                 </div>
                 <div className="flex gap-2">
                   <button
@@ -289,14 +276,14 @@ export default function App() {
                     onClick={handleClear}
                     className="px-3 py-1.5 text-xs rounded-xl border border-slate-700 hover:border-slate-500 text-slate-300 transition-colors"
                   >
-                    Очистить
+                    Clear
                   </button>
                   <button
                     type="submit"
                     disabled={!sourceText.trim() || isTranslating}
                     className="px-4 py-1.5 text-xs rounded-xl bg-indigo-500 hover:bg-indigo-400 disabled:opacity-60 disabled:cursor-not-allowed font-medium transition-colors"
                   >
-                    {isTranslating ? "Обработка..." : "Текст → .docx (EN)"}
+                    {isTranslating ? "Processing..." : "Text → .docx (EN)"}
                   </button>
                 </div>
               </div>
@@ -307,20 +294,20 @@ export default function App() {
               <div className="flex items-center justify-between gap-2 mb-1">
                 <div>
                   <p className="text-xs uppercase tracking-[0.16em] text-slate-400">
-                    Перевод файла
+                    File translation
                   </p>
                   <p className="text-[11px] text-slate-500">
-                    Поддерживаемые форматы: PDF, DOC, DOCX, TXT
+                    Supported formats: PDF, DOC, DOCX, TXT
                   </p>
                 </div>
               </div>
 
               <label className="flex flex-col items-center justify-center gap-2 border border-dashed border-slate-700 rounded-xl px-4 py-6 cursor-pointer hover:border-indigo-500 transition-colors">
                 <span className="text-xs text-slate-300">
-                  Нажмите, чтобы выбрать файл
+                  Click to choose a file
                 </span>
                 <span className="text-[11px] text-slate-500">
-                  или перетащите его сюда (drag & drop потребует отдельной обработки)
+                  or drag and drop it here (drag & drop handling not implemented yet)
                 </span>
                 <input
                   type="file"
@@ -332,13 +319,13 @@ export default function App() {
 
               {fileName && (
                 <div className="text-[11px] text-slate-300 flex items-center justify-between gap-2">
-                  <span className="truncate">Выбран файл: {fileName}</span>
+                  <span className="truncate">Selected file: {fileName}</span>
                   <button
                     type="button"
                     onClick={handleFileClear}
                     className="px-2 py-1 text-[11px] rounded-lg border border-slate-700 hover:border-slate-500 text-slate-300 transition-colors flex-shrink-0"
                   >
-                    Убрать
+                    Remove
                   </button>
                 </div>
               )}
@@ -355,23 +342,23 @@ export default function App() {
                   className="px-4 py-1.5 text-xs rounded-xl bg-indigo-500 hover:bg-indigo-400 disabled:opacity-60 disabled:cursor-not-allowed font-medium transition-colors"
                 >
                   {isFileTranslating
-                    ? "Обработка файла..."
-                    : "Файл → .docx (EN)"}
+                    ? "Processing file..."
+                    : "File → .docx (EN)"}
                 </button>
               </div>
             </div>
           </div>
 
-          {/* Result section: всегда про .docx */}
+          {/* Result section: always about .docx */}
           <div className="mt-6 border border-slate-800 rounded-2xl bg-slate-900/40 p-4 flex flex-col gap-3">
             <div className="flex items-center justify-between gap-2">
               <div>
                 <p className="text-xs uppercase tracking-[0.16em] text-slate-400">
-                  Результат (файл .docx)
+                  Result (.docx file)
                 </p>
                 <p className="text-[11px] text-slate-500">
-                  Здесь должна появиться ссылка или информация о скачивании файла
-                  с переводом на английский.
+                  This is where the download link or information about the
+                  generated .docx file will appear.
                 </p>
               </div>
             </div>
@@ -382,45 +369,32 @@ export default function App() {
                   fileResult
                 ) : (
                   <span className="text-slate-500 text-xs">
-                    Введите текст или загрузите файл для перевода. После успешного запроса
-                    здесь появится информация о результате и кнопка для скачивания
-                    <span className="font-mono"> .docx</span>-файла.
+                    After a successful backend request, you should return a link
+                    to a <span className="font-mono">.docx</span> file. You can
+                    show that link here or render a “Download .docx” button.
                   </span>
                 )}
               </div>
             </div>
 
-            {downloadUrl && (
-              <div className="flex justify-end">
-                <a
-                  href={downloadUrl}
-                  download
-                  className="px-4 py-2 text-sm rounded-xl bg-indigo-500 hover:bg-indigo-400 font-medium transition-colors inline-flex items-center gap-2"
-                >
-                  <span>📥</span>
-                  <span>Скачать .docx</span>
-                </a>
-              </div>
-            )}
-
             <p className="text-[11px] text-slate-500">
-              Backend API: endpoints
-              <span className="font-mono"> /api/translate</span> и
-              <span className="font-mono"> /api/translate-file</span> принимают
-              текст или файл и выбранную LLM-модель и возвращают ссылку на готовый
-              <span className="font-mono"> .docx</span>-документ с переводом на
-              английский.
+              Backend logic: endpoints
+              <span className="font-mono"> /api/translate</span> and
+              <span className="font-mono"> /api/translate-file</span> accept text
+              or a file plus the selected LLM model and return a link to the
+              generated <span className="font-mono">.docx</span> document with the
+              English translation.
             </p>
           </div>
 
           <div className="mt-6 text-[11px] text-slate-500 border-t border-slate-800 pt-3 flex flex-wrap gap-2 justify-between">
             <span>
-              Построено на <span className="font-mono">React</span> +
+              Built with <span className="font-mono">React</span> +
               <span className="font-mono"> Tailwind CSS</span>
             </span>
             <span>
-              Пример: RU / AR / ZH → EN — текст и файлы, выбор модели LLM, только
-              фронтенд, без реального API.
+              Example: RU / AR / ZH → EN — text and files, LLM model selection,
+              frontend-only demo without a real API.
             </span>
           </div>
         </div>
