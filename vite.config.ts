@@ -7,5 +7,11 @@ export default defineConfig({
     host: true,
     port: 5173,
     allowedHosts: true, // разрешить все
+    proxy: {
+      "/api": {
+        target: "http://localhost:8000",
+        changeOrigin: true,
+      },
+    },
   },
 });
