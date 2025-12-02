@@ -78,7 +78,8 @@ async def translate_text(request: TranslateRequest):
         output_filename = docx_generator.create_docx(
             translated_text=translated_text,
             source_lang=request.sourceLang,
-            model=request.model
+            model=request.model,
+            original_text=request.text  # Передаем оригинальный текст для сохранения структуры
         )
 
         # Возвращаем URL для скачивания
@@ -142,7 +143,8 @@ async def translate_file(
             translated_text=translated_text,
             source_lang=sourceLang,
             model=model,
-            original_filename=file.filename
+            original_filename=file.filename,
+            original_text=extracted_text  # Передаем оригинальный текст для сохранения структуры
         )
 
         # Удаляем временный загруженный файл
