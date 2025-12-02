@@ -1,0 +1,3770 @@
+{
+  "адх": {
+    "source": "АДХ",
+    "target": "aerodynamic characteristics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ам": {
+    "source": "АМ",
+    "target": "aggregate module",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ат": {
+    "source": "АТ",
+    "target": "nitrogen tetroxide",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ау": {
+    "source": "АУ",
+    "target": "active section",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "афу": {
+    "source": "АФУ",
+    "target": "antenna-feeder device",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ксу": {
+    "source": "КСУ",
+    "target": "integrated control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "басу": {
+    "source": "БАСУ",
+    "target": "onboard automated control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бик": {
+    "source": "БИК",
+    "target": "onboard measurement complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бкс": {
+    "source": "БКС",
+    "target": "Onboard cable network",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вкпс": {
+    "source": "ВКПС",
+    "target": "aerospace parachute system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "го": {
+    "source": "ГО",
+    "target": "Payload fairing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ду рсу": {
+    "source": "ДУ РСУ",
+    "target": "propulsion system of the reactive control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ду сооз": {
+    "source": "ДУ СООЗ",
+    "target": "propulsion system of stabilization, orientation, and launch support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ид": {
+    "source": "ИД",
+    "target": "initial data",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жрд": {
+    "source": "ЖРД",
+    "target": "liquid rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ка": {
+    "source": "КА",
+    "target": "Spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ки": {
+    "source": "КИ",
+    "target": "corrective impulse",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кп": {
+    "source": "КП",
+    "target": "lift-off contact",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "крк": {
+    "source": "КРК",
+    "target": "space rocket complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ксисо": {
+    "source": "КСИСО",
+    "target": "complex of means for measurement, collection, and processing of information",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кт": {
+    "source": "КТ",
+    "target": "fuel components",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ла": {
+    "source": "ЛА",
+    "target": "aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мд": {
+    "source": "МД",
+    "target": "main engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ндмг": {
+    "source": "НДМГ",
+    "target": "unsymmetric dimethylhydrazine (UDMH)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ноо": {
+    "source": "ноо",
+    "target": "low Earth orbit (LEO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "об": {
+    "source": "ОБ",
+    "target": "orbital block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оч": {
+    "source": "ОЧ",
+    "target": "detachable part",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пгсп": {
+    "source": "ПГСП",
+    "target": "pneumo-hydraulic feed system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пн": {
+    "source": "ПН",
+    "target": "Payload",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "по": {
+    "source": "ПО",
+    "target": "intermediate compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пс": {
+    "source": "ПС",
+    "target": "combustion products",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пут": {
+    "source": "ПУТ",
+    "target": "passive trajectory segment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рдсс": {
+    "source": "РДСС",
+    "target": "rocket-dynamic rescue scheme",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рдтт": {
+    "source": "РДТТ",
+    "target": "solid propellant rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ркн": {
+    "source": "РКН",
+    "target": "space launch vehicle",
+    "source_abbr": null,
+    "target_abbr": "РН+КГЧ"
+  },
+  "рн": {
+    "source": "РН",
+    "target": "launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рн слк": {
+    "source": "РН СЛК",
+    "target": "ultra-light class launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рп": {
+    "source": "РП",
+    "target": "impact area",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рсу": {
+    "source": "РСУ",
+    "target": "reactive control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ск": {
+    "source": "СК",
+    "target": "launch complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "спг": {
+    "source": "СПГ",
+    "target": "liquefied natural gas (LNG)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ссо": {
+    "source": "ссо",
+    "target": "sun-synchronous orbit (SSO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "су": {
+    "source": "СУ",
+    "target": "Guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сэп": {
+    "source": "СЭП",
+    "target": "power supply system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тк": {
+    "source": "ТК",
+    "target": "technical complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тлм": {
+    "source": "ТЛМ",
+    "target": "Telemetry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "экб": {
+    "source": "ЭКБ",
+    "target": "electronic component base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "эп": {
+    "source": "ЭП",
+    "target": "preliminary design",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ракета-носитель": {
+    "source": "Ракета-носитель",
+    "target": "Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ракетный блок первой ступени": {
+    "source": "Ракетный блок первой ступени",
+    "target": "First stage rocket block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ракетный блок второй ступени": {
+    "source": "Ракетный блок второй ступени",
+    "target": "Second stage rocket block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ракетный блок третьей ступени": {
+    "source": "Ракетный блок третьей ступени",
+    "target": "Third stage rocket block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "блок боковой №1–4": {
+    "source": "Блок боковой №1–4",
+    "target": "Side booster block №1–4",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "универсальный ракетный модуль": {
+    "source": "Универсальный ракетный модуль",
+    "target": "Universal rocket module",
+    "source_abbr": "УРМ",
+    "target_abbr": "URM"
+  },
+  "модифицированный урм-1": {
+    "source": "Модифицированный УРМ-1",
+    "target": "Modified URM-1",
+    "source_abbr": "УРМ-1М",
+    "target_abbr": "URM-1M"
+  },
+  "урм-2": {
+    "source": "УРМ-2",
+    "target": "Universal rocket module-2",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отсек передний": {
+    "source": "Отсек передний",
+    "target": "Forward compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отсек хвостовой": {
+    "source": "Отсек хвостовой",
+    "target": "Aft compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отсек промежуточный": {
+    "source": "Отсек промежуточный",
+    "target": "Intermediate compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отсек межбаковый": {
+    "source": "Отсек межбаковый",
+    "target": "Intertank section",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "проставка двигательная": {
+    "source": "Проставка двигательная",
+    "target": "Engine adapter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигательная установка": {
+    "source": "Двигательная установка",
+    "target": "Propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель рд-191м": {
+    "source": "Двигатель РД-191М",
+    "target": "RD-191M engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель рд-0124а": {
+    "source": "Двигатель РД-0124А",
+    "target": "RD-0124A engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель торможения 803дт": {
+    "source": "Двигатель торможения 803ДТ",
+    "target": "Retro rocket engine 803DT",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "камера сгорания": {
+    "source": "Камера сгорания",
+    "target": "Combustion chamber",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сопло": {
+    "source": "Сопло",
+    "target": "Nozzle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "турбонасосный агрегат": {
+    "source": "Турбонасосный агрегат",
+    "target": "Turbopump assembly",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "блок сопел крена": {
+    "source": "Блок сопел крена",
+    "target": "Roll control nozzle block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система управления": {
+    "source": "Система управления",
+    "target": "Guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовая аппаратура системы управления": {
+    "source": "Бортовая аппаратура системы управления",
+    "target": "Onboard control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система телеметрических измерений": {
+    "source": "Система телеметрических измерений",
+    "target": "Telemetry system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система аварийной защиты двигателя": {
+    "source": "Система аварийной защиты двигателя",
+    "target": "Engine emergency protection system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система разделения ступеней": {
+    "source": "Система разделения ступеней",
+    "target": "Stage separation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система термостатирования": {
+    "source": "Система термостатирования",
+    "target": "Thermal regulation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пневмогидросистема эгс": {
+    "source": "Пневмогидросистема ЭГС",
+    "target": "Pneumo-hydraulic system EGS",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "комплекс усурт": {
+    "source": "Комплекс УСУРТ",
+    "target": "USURT complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система с078": {
+    "source": "Система С078",
+    "target": "System S078",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система ба скз": {
+    "source": "Система БА СКЗ",
+    "target": "BA SKZ system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовая система видеонаблюдения": {
+    "source": "Бортовая система видеонаблюдения",
+    "target": "Onboard video monitoring system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовая кабельная сеть": {
+    "source": "Бортовая кабельная сеть",
+    "target": "Onboard cable network",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "абонентская аппаратура ретрансляции": {
+    "source": "Абонентская аппаратура ретрансляции",
+    "target": "Subscriber relay equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бак «г»": {
+    "source": "Бак «Г»",
+    "target": "Fuel tank “G”",
+    "source_abbr": "горючее",
+    "target_abbr": null
+  },
+  "бак «о»": {
+    "source": "Бак «О»",
+    "target": "Oxidizer tank “O”",
+    "source_abbr": "окислитель",
+    "target_abbr": null
+  },
+  "межбаковый отсек": {
+    "source": "Межбаковый отсек",
+    "target": "Intertank section",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "плита автостыка": {
+    "source": "Плита автостыка",
+    "target": "Autodocking plate",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "корпус ракеты": {
+    "source": "Корпус ракеты",
+    "target": "Rocket body / Airframe",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "люки доступа": {
+    "source": "Люки доступа",
+    "target": "Access hatches",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "стыкуемые части кабелей": {
+    "source": "Стыкуемые части кабелей",
+    "target": "Docking cable sections",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контрольные штыри": {
+    "source": "Контрольные штыри",
+    "target": "Alignment pins",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "маркировка осей стабилизации": {
+    "source": "Маркировка осей стабилизации",
+    "target": "Stabilization axis marking",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "средства пожаробезопасности": {
+    "source": "Средства пожаробезопасности",
+    "target": "Fire safety equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "стартовая масса": {
+    "source": "Стартовая масса",
+    "target": "Launch mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "полезная нагрузка": {
+    "source": "Полезная нагрузка",
+    "target": "Payload",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "низкая круговая орбита": {
+    "source": "Низкая круговая орбита",
+    "target": "Low circular orbit",
+    "source_abbr": "НКР",
+    "target_abbr": "LCO"
+  },
+  "геостационарная орбита": {
+    "source": "Геостационарная орбита",
+    "target": "Geostationary orbit",
+    "source_abbr": "ГСО",
+    "target_abbr": "GEO"
+  },
+  "переходная орбита": {
+    "source": "Переходная орбита",
+    "target": "Geostationary transfer orbit",
+    "source_abbr": "ГПО",
+    "target_abbr": "GTO"
+  },
+  "удельный импульс": {
+    "source": "Удельный импульс",
+    "target": "Specific impulse",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "угол качания камер": {
+    "source": "Угол качания камер",
+    "target": "Gimbal angle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "перегрузка": {
+    "source": "Перегрузка",
+    "target": "G-force",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "асупп": {
+    "source": "АСУПП",
+    "target": "automated preparation and launch control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бпла": {
+    "source": "БПЛА",
+    "target": "unmanned aerial vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "брс": {
+    "source": "БРС",
+    "target": "quick-disconnect coupling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вкрб": {
+    "source": "ВКРБ",
+    "target": "returnable cruise missile block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "впп": {
+    "source": "ВПП",
+    "target": "runway",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "врду": {
+    "source": "ВРДУ",
+    "target": "air-breathing propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жа": {
+    "source": "ЖА",
+    "target": "liquid nitrogen",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жк": {
+    "source": "ЖК",
+    "target": "liquid oxygen",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жрду": {
+    "source": "ЖРДУ",
+    "target": "liquid rocket propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кис": {
+    "source": "КИС",
+    "target": "control and test station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кпа": {
+    "source": "КПА",
+    "target": "control and test equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мбо": {
+    "source": "МБО",
+    "target": "intertank section",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нку": {
+    "source": "НКУ",
+    "target": "ground control complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пвб": {
+    "source": "ПВБ",
+    "target": "fire and explosion safety",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пгс": {
+    "source": "ПГС",
+    "target": "Pneumo-hydraulic system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пкп": {
+    "source": "ПКП",
+    "target": "mobile command post",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "стн": {
+    "source": "СТН",
+    "target": "television monitoring system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сти": {
+    "source": "СТИ",
+    "target": "Telemetry system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сэс": {
+    "source": "СЭС",
+    "target": "power supply system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сч": {
+    "source": "СЧ",
+    "target": "component",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тз": {
+    "source": "ТЗ",
+    "target": "technical assignment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тна": {
+    "source": "ТНА",
+    "target": "turbo-pump assembly",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "хит": {
+    "source": "ХИТ",
+    "target": "chemical current source",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "хо": {
+    "source": "ХО",
+    "target": "tail compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "6  .   .  . --2020-02.  . .   . . .  . .   \u0003\u0003 ": {
+    "source": "6  .   .  . --2020-02.  . .   . . .  . .   \u0003\u0003 ",
+    "target": "   -    -    -     -     -     -    -    -     -    -     -         -    -    -     -   -    -     -    - -    -      -     - -   - -    - -   -     -     -  ",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "7 лист подп. дата № докум. лист изм. кркслк-идэп-2020-02инв. № подл. подп. и дата взам. инв. №инв. № дубл. подп. и дата тз": {
+    "source": "7 Лист Подп. Дата № докум. Лист Изм. КРКСЛК-ИДЭП-2020-02Инв. № подл. Подп. и дата Взам. инв. №Инв. № дубл. Подп. и дата ТЗ",
+    "target": "technical assignment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аут": {
+    "source": "АУТ",
+    "target": "active trajectory segment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ач": {
+    "source": "АЧ",
+    "target": "aviation part",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "во": {
+    "source": "ВО",
+    "target": "vertical empennage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "врд": {
+    "source": "ВРД",
+    "target": "air-breathing engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ду": {
+    "source": "ДУ",
+    "target": "Propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кмлд": {
+    "source": "КМЛД",
+    "target": "Scalable Flight Demonstrator Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кпэо": {
+    "source": "КПЭО",
+    "target": "comprehensive experimental development program",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ли": {
+    "source": "ЛИ",
+    "target": "Flight trials",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лтх": {
+    "source": "ЛТХ",
+    "target": "flight performance characteristics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мвкрб": {
+    "source": "МВКРБ",
+    "target": "reusable returnable winged rocket block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мих": {
+    "source": "МИХ",
+    "target": "mass-inertial characteristics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "млд": {
+    "source": "МЛД",
+    "target": "scaled flight demonstrator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ок": {
+    "source": "ОК",
+    "target": "orbital ship",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рб": {
+    "source": "РБ",
+    "target": "booster block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рч": {
+    "source": "РЧ",
+    "target": "rocket part",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сах": {
+    "source": "САХ",
+    "target": "mean aerodynamic chord",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ттду": {
+    "source": "ТТДУ",
+    "target": "solid-propellant propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ступень": {
+    "source": "Ступень",
+    "target": "Stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ступени": {
+    "source": "Ступени",
+    "target": "Stages",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ракетный блок": {
+    "source": "Ракетный блок",
+    "target": "Rocket block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "урм-1": {
+    "source": "УРМ-1",
+    "target": "Universal rocket module-1",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отсек": {
+    "source": "Отсек",
+    "target": "Compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель": {
+    "source": "Двигатель",
+    "target": "Engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель торможения": {
+    "source": "Двигатель торможения",
+    "target": "Retro engine / Braking engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "автопилот": {
+    "source": "Автопилот",
+    "target": "Autopilot",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "телеметрия": {
+    "source": "Телеметрия",
+    "target": "Telemetry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пневмогидросистема": {
+    "source": "Пневмогидросистема",
+    "target": "Pneumo-hydraulic system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система пожаробезопасности": {
+    "source": "Система пожаробезопасности",
+    "target": "Fire safety system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бак": {
+    "source": "Бак",
+    "target": "Tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "криогенное топливо": {
+    "source": "Криогенное топливо",
+    "target": "Cryogenic propellant",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "заправка": {
+    "source": "Заправка",
+    "target": "Propellant loading",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кабельная сеть": {
+    "source": "Кабельная сеть",
+    "target": "Cable network",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "силовой набор": {
+    "source": "Силовой набор",
+    "target": "Structural frame",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "композитные материалы": {
+    "source": "Композитные материалы",
+    "target": "Composite materials",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "углепластик": {
+    "source": "Углепластик",
+    "target": "Carbon fiber",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "теплозащита": {
+    "source": "Теплозащита",
+    "target": "Thermal protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "испытания": {
+    "source": "Испытания",
+    "target": "Testing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пуск": {
+    "source": "Пуск",
+    "target": "Launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "предстартовая подготовка": {
+    "source": "Предстартовая подготовка",
+    "target": "Prelaunch preparation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "центр управления полётами": {
+    "source": "Центр управления полётами",
+    "target": "Mission control center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "стыковка": {
+    "source": "Стыковка",
+    "target": "Docking",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "навигационная система": {
+    "source": "Навигационная система",
+    "target": "Navigation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовой компьютер": {
+    "source": "Бортовой компьютер",
+    "target": "Onboard computer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "авиаоника": {
+    "source": "Авиаоника",
+    "target": "Avionics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "головной обтекатель": {
+    "source": "Головной обтекатель",
+    "target": "Payload fairing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "траектория": {
+    "source": "Траектория",
+    "target": "Trajectory",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "полёт": {
+    "source": "Полёт",
+    "target": "Flight",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "баллистический полёт": {
+    "source": "Баллистический полёт",
+    "target": "Ballistic flight",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "орбита": {
+    "source": "Орбита",
+    "target": "Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "низкая околоземная орбита": {
+    "source": "Низкая околоземная орбита",
+    "target": "Low Earth orbit",
+    "source_abbr": "НОО",
+    "target_abbr": "LEO"
+  },
+  "атмосферный вход": {
+    "source": "Атмосферный вход",
+    "target": "Atmospheric entry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тяга": {
+    "source": "Тяга",
+    "target": "Thrust",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "масса стартовая": {
+    "source": "Масса стартовая",
+    "target": "Launch mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "масса полезной нагрузки": {
+    "source": "Масса полезной нагрузки",
+    "target": "Payload mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "высота орбиты": {
+    "source": "Высота орбиты",
+    "target": "Orbit altitude",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "скорость": {
+    "source": "Скорость",
+    "target": "Velocity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "манёвр": {
+    "source": "Манёвр",
+    "target": "Maneuver",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гравитационный манёвр": {
+    "source": "Гравитационный манёвр",
+    "target": "Gravity assist",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "торможение": {
+    "source": "Торможение",
+    "target": "Deceleration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "разделение ступеней": {
+    "source": "Разделение ступеней",
+    "target": "Stage separation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "стабилизатор": {
+    "source": "Стабилизатор",
+    "target": "Stabilizer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аварийная система спасения": {
+    "source": "Аварийная система спасения",
+    "target": "Launch escape system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "исполнительный орган управления": {
+    "source": "Исполнительный орган управления",
+    "target": "Actuator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "навигационная аппаратура": {
+    "source": "Навигационная аппаратура",
+    "target": "Navigation equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "радиосвязь": {
+    "source": "Радиосвязь",
+    "target": "Radio communication",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "телекомандная система": {
+    "source": "Телекомандная система",
+    "target": "Telecommand system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "автоматическая система": {
+    "source": "Автоматическая система",
+    "target": "Automatic system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "система дистанционного управления": {
+    "source": "Система дистанционного управления",
+    "target": "Remote control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "электропитание": {
+    "source": "Электропитание",
+    "target": "Power supply",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аккумуляторная батарея": {
+    "source": "Аккумуляторная батарея",
+    "target": "Battery",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "солнечная батарея": {
+    "source": "Солнечная батарея",
+    "target": "Solar panel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ядерная энергетическая установка": {
+    "source": "Ядерная энергетическая установка",
+    "target": "Nuclear power unit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "спутник": {
+    "source": "Спутник",
+    "target": "Satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "космический аппарат": {
+    "source": "Космический аппарат",
+    "target": "Spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "орбитальная станция": {
+    "source": "Орбитальная станция",
+    "target": "Orbital station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зонд": {
+    "source": "Зонд",
+    "target": "Space probe",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "агрегат": {
+    "source": "Агрегат",
+    "target": "Assembly / Unit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "адаптер": {
+    "source": "Адаптер",
+    "target": "Adapter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аэродинамика": {
+    "source": "Аэродинамика",
+    "target": "Aerodynamics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аэродинамический обтекатель": {
+    "source": "Аэродинамический обтекатель",
+    "target": "Aerodynamic fairing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "амортизатор": {
+    "source": "Амортизатор",
+    "target": "Shock absorber",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аппаратная часть": {
+    "source": "Аппаратная часть",
+    "target": "Hardware",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "балка силовая": {
+    "source": "Балка силовая",
+    "target": "Structural beam",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "баллон высокого давления": {
+    "source": "Баллон высокого давления",
+    "target": "High-pressure tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "барометрический датчик": {
+    "source": "Барометрический датчик",
+    "target": "Barometric sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "безопасность полёта": {
+    "source": "Безопасность полёта",
+    "target": "Flight safety",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовая аппаратура": {
+    "source": "Бортовая аппаратура",
+    "target": "Onboard equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовой журнал": {
+    "source": "Бортовой журнал",
+    "target": "Onboard log",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вакуум": {
+    "source": "Вакуум",
+    "target": "Vacuum",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вакуумная камера": {
+    "source": "Вакуумная камера",
+    "target": "Vacuum chamber",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ввод в строй": {
+    "source": "Ввод в строй",
+    "target": "Commissioning",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вектор тяги": {
+    "source": "Вектор тяги",
+    "target": "Thrust vector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "винт регулировочный": {
+    "source": "Винт регулировочный",
+    "target": "Adjustment screw",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "воздушный поток": {
+    "source": "Воздушный поток",
+    "target": "Airflow",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "воздушный тормоз": {
+    "source": "Воздушный тормоз",
+    "target": "Airbrake",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "воспламенитель": {
+    "source": "Воспламенитель",
+    "target": "Igniter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "газогенератор": {
+    "source": "Газогенератор",
+    "target": "Gas generator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "газодинамика": {
+    "source": "Газодинамика",
+    "target": "Gas dynamics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гелиум": {
+    "source": "Гелиум",
+    "target": "Helium",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гироскоп": {
+    "source": "Гироскоп",
+    "target": "Gyroscope",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "давление": {
+    "source": "Давление",
+    "target": "Pressure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "давление статическое": {
+    "source": "Давление статическое",
+    "target": "Static pressure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "давление динамическое": {
+    "source": "Давление динамическое",
+    "target": "Dynamic pressure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик угловых скоростей": {
+    "source": "Датчик угловых скоростей",
+    "target": "Angular velocity sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик перегрузок": {
+    "source": "Датчик перегрузок",
+    "target": "G-sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик температуры": {
+    "source": "Датчик температуры",
+    "target": "Temperature sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик давления": {
+    "source": "Датчик давления",
+    "target": "Pressure sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель маршевый": {
+    "source": "Двигатель маршевый",
+    "target": "Main engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель маневровый": {
+    "source": "Двигатель маневровый",
+    "target": "Vernier engine / Thruster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дефлектор пламени": {
+    "source": "Дефлектор пламени",
+    "target": "Flame deflector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "диапазон высот": {
+    "source": "Диапазон высот",
+    "target": "Altitude range",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дозаправка": {
+    "source": "Дозаправка",
+    "target": "Refueling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "допустимая нагрузка": {
+    "source": "Допустимая нагрузка",
+    "target": "Allowable load",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дренаж": {
+    "source": "Дренаж",
+    "target": "Drainage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жгут кабельный": {
+    "source": "Жгут кабельный",
+    "target": "Cable harness",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита тепловая": {
+    "source": "Защита тепловая",
+    "target": "Heat shield",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита радиационная": {
+    "source": "Защита радиационная",
+    "target": "Radiation shielding",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита вибрационная": {
+    "source": "Защита вибрационная",
+    "target": "Vibration protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "задание полётное": {
+    "source": "Задание полётное",
+    "target": "Flight mission plan",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "замедлитель": {
+    "source": "Замедлитель",
+    "target": "Retarder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "замок пиротехнический": {
+    "source": "Замок пиротехнический",
+    "target": "Pyrotechnic lock",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "запуск автоматический": {
+    "source": "Запуск автоматический",
+    "target": "Automated launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "захват": {
+    "source": "Захват",
+    "target": "Clamp / Capture device",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "звено силовое": {
+    "source": "Звено силовое",
+    "target": "Structural link",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "изоляция тепловая": {
+    "source": "Изоляция тепловая",
+    "target": "Thermal insulation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "изоляция электрическая": {
+    "source": "Изоляция электрическая",
+    "target": "Electrical insulation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "исполнительный механизм": {
+    "source": "Исполнительный механизм",
+    "target": "Actuator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кабельный ввод": {
+    "source": "Кабельный ввод",
+    "target": "Cable entry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан обратный": {
+    "source": "Клапан обратный",
+    "target": "Check valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан предохранительный": {
+    "source": "Клапан предохранительный",
+    "target": "Relief valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "колебания продольные": {
+    "source": "Колебания продольные",
+    "target": "Longitudinal oscillations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "колебания поперечные": {
+    "source": "Колебания поперечные",
+    "target": "Lateral oscillations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "компенсатор": {
+    "source": "Компенсатор",
+    "target": "Compensator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контейнер транспортный": {
+    "source": "Контейнер транспортный",
+    "target": "Transport container",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контрольный датчик": {
+    "source": "Контрольный датчик",
+    "target": "Control sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кран заправочный": {
+    "source": "Кран заправочный",
+    "target": "Fueling valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лазерный дальномер": {
+    "source": "Лазерный дальномер",
+    "target": "Laser rangefinder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лазерный гироскоп": {
+    "source": "Лазерный гироскоп",
+    "target": "Laser gyroscope",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лента пиротехническая": {
+    "source": "Лента пиротехническая",
+    "target": "Pyrotechnic tape",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "магистраль топливная": {
+    "source": "Магистраль топливная",
+    "target": "Fuel line",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "магистраль окислителя": {
+    "source": "Магистраль окислителя",
+    "target": "Oxidizer line",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "манометр": {
+    "source": "Манометр",
+    "target": "Pressure gauge",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "масло насосное": {
+    "source": "Масло насосное",
+    "target": "Pump oil",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "маслопровод": {
+    "source": "Маслопровод",
+    "target": "Oil pipeline",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "модуль герметичный": {
+    "source": "Модуль герметичный",
+    "target": "Pressurized module",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "модуль негерметичный": {
+    "source": "Модуль негерметичный",
+    "target": "Unpressurized module",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "монтаж": {
+    "source": "Монтаж",
+    "target": "Installation / Assembly",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нагреватель": {
+    "source": "Нагреватель",
+    "target": "Heater",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насос": {
+    "source": "Насос",
+    "target": "Pump",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насос дренажный": {
+    "source": "Насос дренажный",
+    "target": "Drain pump",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насос заправочный": {
+    "source": "Насос заправочный",
+    "target": "Fueling pump",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оболочка корпуса": {
+    "source": "Оболочка корпуса",
+    "target": "Casing shell",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "огневые испытания": {
+    "source": "Огневые испытания",
+    "target": "Hot-fire tests",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ограничитель": {
+    "source": "Ограничитель",
+    "target": "Limiter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ожиженный газ": {
+    "source": "Ожиженный газ",
+    "target": "Liquefied gas",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "опора": {
+    "source": "Опора",
+    "target": "Support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "опора силовая": {
+    "source": "Опора силовая",
+    "target": "Load-bearing support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "опора подвижная": {
+    "source": "Опора подвижная",
+    "target": "Movable support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оптимизация траектории": {
+    "source": "Оптимизация траектории",
+    "target": "Trajectory optimization",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отделяемая часть": {
+    "source": "Отделяемая часть",
+    "target": "Detachable section",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отражатель": {
+    "source": "Отражатель",
+    "target": "Reflector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "панель солнечная": {
+    "source": "Панель солнечная",
+    "target": "Solar array panel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "панель теплоизоляционная": {
+    "source": "Панель теплоизоляционная",
+    "target": "Thermal insulation panel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "патрубок": {
+    "source": "Патрубок",
+    "target": "Pipe / Nozzle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "перегородка силовая": {
+    "source": "Перегородка силовая",
+    "target": "Bulkhead",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "перегрузочный стенд": {
+    "source": "Перегрузочный стенд",
+    "target": "Load testing stand",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "переключатель": {
+    "source": "Переключатель",
+    "target": "Switch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пироболт": {
+    "source": "Пироболт",
+    "target": "Pyrobolt",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пиропатрон": {
+    "source": "Пиропатрон",
+    "target": "Pyropatron / Pyro cartridge",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пирозамок": {
+    "source": "Пирозамок",
+    "target": "Pyrolock",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пиросредство": {
+    "source": "Пиросредство",
+    "target": "Pyrotechnic device",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "плата бортовая": {
+    "source": "Плата бортовая",
+    "target": "Onboard board",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "подвеска": {
+    "source": "Подвеска",
+    "target": "Suspension / Mount",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "подшипник": {
+    "source": "Подшипник",
+    "target": "Bearing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пусковая установка": {
+    "source": "Пусковая установка",
+    "target": "Launch pad / Launcher",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рулевой привод": {
+    "source": "Рулевой привод",
+    "target": "Steering actuator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "абляция": {
+    "source": "Абляция",
+    "target": "Ablation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "абляционный материал": {
+    "source": "Абляционный материал",
+    "target": "Ablative material",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "автоматизированный пуск": {
+    "source": "Автоматизированный пуск",
+    "target": "Automated launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "автоматическая стыковка": {
+    "source": "Автоматическая стыковка",
+    "target": "Automatic docking",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аэродинамический щит": {
+    "source": "Аэродинамический щит",
+    "target": "Aerodynamic shield",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "баллистическая капсула": {
+    "source": "Баллистическая капсула",
+    "target": "Ballistic capsule",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "баллон азотный": {
+    "source": "Баллон азотный",
+    "target": "Nitrogen tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "баллон кислородный": {
+    "source": "Баллон кислородный",
+    "target": "Oxygen tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "блок адаптера": {
+    "source": "Блок адаптера",
+    "target": "Adapter block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "блок отделяемый": {
+    "source": "Блок отделяемый",
+    "target": "Detachable block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовой регистратор": {
+    "source": "Бортовой регистратор",
+    "target": "Onboard recorder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовой сенсор": {
+    "source": "Бортовой сенсор",
+    "target": "Onboard sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бортовой привод": {
+    "source": "Бортовой привод",
+    "target": "Onboard drive",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вакуумный испытательный стенд": {
+    "source": "Вакуумный испытательный стенд",
+    "target": "Vacuum test stand",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вал приводной": {
+    "source": "Вал приводной",
+    "target": "Drive shaft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "виброиспытания": {
+    "source": "Виброиспытания",
+    "target": "Vibration testing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "виброзащита": {
+    "source": "Виброзащита",
+    "target": "Vibration protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "возвратный аппарат": {
+    "source": "Возвратный аппарат",
+    "target": "Reentry vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вскрытие обтекателя": {
+    "source": "Вскрытие обтекателя",
+    "target": "Fairing separation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "газовый генератор": {
+    "source": "Газовый генератор",
+    "target": "Gas generator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "газопровод": {
+    "source": "Газопровод",
+    "target": "Gas pipeline",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "герметизация": {
+    "source": "Герметизация",
+    "target": "Sealing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "герметичный отсек": {
+    "source": "Герметичный отсек",
+    "target": "Pressurized compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "герморазъем": {
+    "source": "Герморазъем",
+    "target": "Hermetic connector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик влажности": {
+    "source": "Датчик влажности",
+    "target": "Humidity sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик ускорений": {
+    "source": "Датчик ускорений",
+    "target": "Accelerometer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик расхода": {
+    "source": "Датчик расхода",
+    "target": "Flowmeter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "датчик инерциальный": {
+    "source": "Датчик инерциальный",
+    "target": "Inertial sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель рулевой": {
+    "source": "Двигатель рулевой",
+    "target": "Steering engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "двигатель ориентационный": {
+    "source": "Двигатель ориентационный",
+    "target": "Orientation thruster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "декомпрессия": {
+    "source": "Декомпрессия",
+    "target": "Decompression",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "десантный модуль": {
+    "source": "Десантный модуль",
+    "target": "Descent module",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "детонация": {
+    "source": "Детонация",
+    "target": "Detonation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "динамическая устойчивость": {
+    "source": "Динамическая устойчивость",
+    "target": "Dynamic stability",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дроссель": {
+    "source": "Дроссель",
+    "target": "Throttle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жидкость охлаждающая": {
+    "source": "Жидкость охлаждающая",
+    "target": "Coolant",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жидкостная система": {
+    "source": "Жидкостная система",
+    "target": "Liquid system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита от перегрева": {
+    "source": "Защита от перегрева",
+    "target": "Overheat protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита от вибраций": {
+    "source": "Защита от вибраций",
+    "target": "Vibration shielding",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защита от излучений": {
+    "source": "Защита от излучений",
+    "target": "Radiation protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "защитный экран": {
+    "source": "Защитный экран",
+    "target": "Protective screen",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зажигание": {
+    "source": "Зажигание",
+    "target": "Ignition",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зажигание пиротехническое": {
+    "source": "Зажигание пиротехническое",
+    "target": "Pyrotechnic ignition",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "задержка старта": {
+    "source": "Задержка старта",
+    "target": "Launch delay",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "замедлитель пламени": {
+    "source": "Замедлитель пламени",
+    "target": "Flame arrester",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "запуск дублированный": {
+    "source": "Запуск дублированный",
+    "target": "Redundant launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "запуск ручной": {
+    "source": "Запуск ручной",
+    "target": "Manual launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "захват механический": {
+    "source": "Захват механический",
+    "target": "Mechanical clamp",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "звуковой барьер": {
+    "source": "Звуковой барьер",
+    "target": "Sound barrier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "инерциальная система": {
+    "source": "Инерциальная система",
+    "target": "Inertial system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "инерциальная навигация": {
+    "source": "Инерциальная навигация",
+    "target": "Inertial navigation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "излучатель": {
+    "source": "Излучатель",
+    "target": "Emitter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ионизатор": {
+    "source": "Ионизатор",
+    "target": "Ionizer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "испытания наземные": {
+    "source": "Испытания наземные",
+    "target": "Ground tests",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "испытания огневые": {
+    "source": "Испытания огневые",
+    "target": "Firing tests",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "испытания летные": {
+    "source": "Испытания летные",
+    "target": "Flight tests",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "источник питания": {
+    "source": "Источник питания",
+    "target": "Power source",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кабина": {
+    "source": "Кабина",
+    "target": "Cabin",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан запорный": {
+    "source": "Клапан запорный",
+    "target": "Shutoff valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан регулирующий": {
+    "source": "Клапан регулирующий",
+    "target": "Control valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан дренажный": {
+    "source": "Клапан дренажный",
+    "target": "Drain valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "клапан вентиляционный": {
+    "source": "Клапан вентиляционный",
+    "target": "Vent valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "коллектор топливный": {
+    "source": "Коллектор топливный",
+    "target": "Fuel manifold",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "коллектор окислителя": {
+    "source": "Коллектор окислителя",
+    "target": "Oxidizer manifold",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "командный пункт": {
+    "source": "Командный пункт",
+    "target": "Command post",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "компоновка": {
+    "source": "Компоновка",
+    "target": "Layout",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "конструкция облегчённая": {
+    "source": "Конструкция облегчённая",
+    "target": "Lightweight structure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "конус аэродинамический": {
+    "source": "Конус аэродинамический",
+    "target": "Nose cone",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контур гидравлический": {
+    "source": "Контур гидравлический",
+    "target": "Hydraulic circuit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контур пневматический": {
+    "source": "Контур пневматический",
+    "target": "Pneumatic circuit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "контур электрический": {
+    "source": "Контур электрический",
+    "target": "Electric circuit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "коррозия": {
+    "source": "Коррозия",
+    "target": "Corrosion",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "коррозионная защита": {
+    "source": "Коррозионная защита",
+    "target": "Corrosion protection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кран ручной": {
+    "source": "Кран ручной",
+    "target": "Manual valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кран автоматический": {
+    "source": "Кран автоматический",
+    "target": "Automatic valve",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "крепёж": {
+    "source": "Крепёж",
+    "target": "Fasteners",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кронштейн": {
+    "source": "Кронштейн",
+    "target": "Bracket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "купол парашютный": {
+    "source": "Купол парашютный",
+    "target": "Parachute canopy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лазерный датчик": {
+    "source": "Лазерный датчик",
+    "target": "Laser sensor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лётные испытания": {
+    "source": "Лётные испытания",
+    "target": "Flight trials",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "линза оптическая": {
+    "source": "Линза оптическая",
+    "target": "Optical lens",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "магнитометр": {
+    "source": "Магнитометр",
+    "target": "Magnetometer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "магнитное поле": {
+    "source": "Магнитное поле",
+    "target": "Magnetic field",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "манёвр коррекции": {
+    "source": "Манёвр коррекции",
+    "target": "Correction maneuver",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "манёвр сближения": {
+    "source": "Манёвр сближения",
+    "target": "Rendezvous maneuver",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "манёвр ухода": {
+    "source": "Манёвр ухода",
+    "target": "Deorbit maneuver",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "масса сухая": {
+    "source": "Масса сухая",
+    "target": "Dry mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "масса заправленная": {
+    "source": "Масса заправленная",
+    "target": "Wet mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "механизм раскрытия": {
+    "source": "Механизм раскрытия",
+    "target": "Deployment mechanism",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "механизм стыковки": {
+    "source": "Механизм стыковки",
+    "target": "Docking mechanism",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "микродвигатель": {
+    "source": "Микродвигатель",
+    "target": "Microthruster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "микроспутник": {
+    "source": "Микроспутник",
+    "target": "Microsatellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "моноблок": {
+    "source": "Моноблок",
+    "target": "Monoblock",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нагрузки эксплуатационные": {
+    "source": "Нагрузки эксплуатационные",
+    "target": "Operational loads",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нагрузки критические": {
+    "source": "Нагрузки критические",
+    "target": "Critical loads",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насадка": {
+    "source": "Насадка",
+    "target": "Adapter nozzle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насос центробежный": {
+    "source": "Насос центробежный",
+    "target": "Centrifugal pump",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оболочка теплозащитная": {
+    "source": "Оболочка теплозащитная",
+    "target": "Heat shield shell",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "обтекатель": {
+    "source": "Обтекатель",
+    "target": "Fairing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "огневой стенд": {
+    "source": "Огневой стенд",
+    "target": "Firing stand",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "7 4-0000": {
+    "source": "7 4-0000",
+    "target": "0 ",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "  ": {
+    "source": "  ",
+    "target": "ɤɨɦɩɥɟɤɬ ɧɚɡɟɦɧɨɝɨ ɨɛɨɪɭɞɨɜɚɧɢɹ ɢ ɩɪɨɜɟɪɨɱɧɨɣ ɚɩɩɚɪɚɬɭɪɵ",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  " -": {
+    "source": " -",
+    "target": "ɩɥɚɬɚ ɨɬɪɵɜɧɵɯ ɫɨɟɞɢɧɢɬɟɥɟɣ ɬɟɯɧɨɥɨɝɢɱɟɫɤɚɹ",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  " ": {
+    "source": " ",
+    "target": "geocentric radius (vector of the center of mass of PH with)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "371кк68.0000": {
+    "source": "371КК68.0000",
+    "target": "Drawing number 371KK68.0000",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "апк аппаратно": {
+    "source": "АПК аппаратно",
+    "target": "hardware-software complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аппд": {
+    "source": "АППД",
+    "target": "M upgraded data transmission equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "апс аппаратно": {
+    "source": "АПС аппаратно",
+    "target": "hardware-software tools",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бэрп база эксплуатации района (": {
+    "source": "БЭРП база эксплуатации района (",
+    "target": "base of the exploitation of the fall area(s)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вко восточно": {
+    "source": "ВКО Восточно",
+    "target": "East Kazakhstan Region",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вок волоконно": {
+    "source": "ВОК волоконно",
+    "target": "fiber-optic cable",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "волп волоконно": {
+    "source": "ВОЛП волоконно",
+    "target": "fiber-optic transmission line",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "волс волоконно": {
+    "source": "ВОЛС волоконно",
+    "target": "fiber-optic communication lines",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "итр инженерно": {
+    "source": "ИТР инженерно",
+    "target": "engineering and technical worker",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "окр опытно": {
+    "source": "ОКР опытно",
+    "target": "Experimental Design Work",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "онтд отчетная научно": {
+    "source": "ОНТД отчетная научно",
+    "target": "reporting scientific and technical documentation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пак программно": {
+    "source": "ПАК программно",
+    "target": "software and hardware complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пнр пуско": {
+    "source": "ПНР пуско",
+    "target": "commissioning works",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ппк сс приемо": {
+    "source": "ППК СС приемо",
+    "target": "satellite communication receiving and transmitting complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рн ракета": {
+    "source": "РН ракета",
+    "target": "Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "српп стойка резервная приемо": {
+    "source": "СРПП стойка резервная приемо",
+    "target": "backup receiving and transmitting rack",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сч окр составная часть опытно": {
+    "source": "СЧ ОКР составная часть опытно",
+    "target": "component of Experimental Design Work",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ттх тактико": {
+    "source": "ТТХ тактико",
+    "target": "tactical and technical characteristics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тэо технико": {
+    "source": "ТЭО технико",
+    "target": "technical and economic justification",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "авд": {
+    "source": "АВД",
+    "target": "emergency engine shutdown",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ro": {
+    "source": "rO",
+    "target": "Payload fairing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гст": {
+    "source": "ГСТ",
+    "target": "main thrust stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кгч": {
+    "source": "КГЧ",
+    "target": "space head part",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кст": {
+    "source": "КСТ",
+    "target": "final thrust stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мсо": {
+    "source": "МСО",
+    "target": "interstage compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "орт": {
+    "source": "ОРТ",
+    "target": "main thrust mode",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ou": {
+    "source": "OU",
+    "target": "detachable part",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пст": {
+    "source": "ПСТ",
+    "target": "preliminary thrust stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пхо": {
+    "source": "Пхо",
+    "target": "transition compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "т рб": {
+    "source": "т РБ",
+    "target": "booster block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "= ркн": {
+    "source": "= РКН",
+    "target": "space launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "i ph": {
+    "source": "i PH",
+    "target": "Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "с рп": {
+    "source": "с РП",
+    "target": "impact area",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "8 c35": {
+    "source": "8 C35",
+    "target": "assembly-protective block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "& ck": {
+    "source": "& CK",
+    "target": "launch complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "е xo": {
+    "source": "Е XO",
+    "target": "tail compartment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "3 on": {
+    "source": "3 on",
+    "target": "draft design",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  ": mos": {
+    "source": ": Mos",
+    "target": "orbital block mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "5 |": {
+    "source": "5 |",
+    "target": "orbital inclination",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "= ha": {
+    "source": "= Ha",
+    "target": "apogee height",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "é t": {
+    "source": "é t",
+    "target": "time counted from the moment of lift-off contact",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "3 \\ vora": {
+    "source": "3 \\ Vora",
+    "target": "relative velocity of launch vehicle in the launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "хс, ус, ze": {
+    "source": "Хс, Ус, Ze",
+    "target": "projections of the radius vector and relative vector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "м». vey": {
+    "source": "М». Vey",
+    "target": "projections of the \"apparent\" velocity and acceleration vectors on",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "т": {
+    "source": "т",
+    "target": "mass",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "р": {
+    "source": "Р",
+    "target": "thrust",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "н": {
+    "source": "Н",
+    "target": "height",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "a": {
+    "source": "a",
+    "target": "angle of attack",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ф": {
+    "source": "ф",
+    "target": "pitch angle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "[0": {
+    "source": "[0",
+    "target": "yaw angle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "nx": {
+    "source": "Nx",
+    "target": "G-force along the longitudinal axis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "q": {
+    "source": "q",
+    "target": "dynamic pressure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "м": {
+    "source": "М",
+    "target": "Mach number",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "x": {
+    "source": "X",
+    "target": "drag force",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ue": {
+    "source": "Ue",
+    "target": "angle of inclination of the relative velocity vector to the local",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "р xr, yr, zr": {
+    "source": "р Xr, Yr, Zr",
+    "target": "projections of the radius vector and relative vector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "5 к": {
+    "source": "5 К",
+    "target": "distance from the center of mass of launch vehicle to the Earth's center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "a фсл, ал": {
+    "source": "a Фсл, Ал",
+    "target": "Geodetic latitude and longitude of the intersection point",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "= геоцентрического радиуса": {
+    "source": "= геоцентрического радиуса",
+    "target": "geocentric radius vector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  ": v": {
+    "source": ": V",
+    "target": "absolute velocity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "a 9": {
+    "source": "a 9",
+    "target": "angle of inclination of the absolute velocity vector to the local",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "абп": {
+    "source": "АБП",
+    "target": "emergency large spill",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "анппс": {
+    "source": "АНППС",
+    "target": "vapor and industrial waste neutralization unit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ао": {
+    "source": "АО",
+    "target": "joint-stock company",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аозт": {
+    "source": "АОЗТ",
+    "target": "closed joint-stock company",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ас": {
+    "source": "АС",
+    "target": "emergency situations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "асо": {
+    "source": "АСО",
+    "target": "emergency rescue squad",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "асу": {
+    "source": "АСУ",
+    "target": "automated control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "атин": {
+    "source": "АТИН",
+    "target": "inhibited nitrogen tetroxide",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аугп": {
+    "source": "АУГП",
+    "target": "automatic gas fire extinguishing installation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "аэс": {
+    "source": "АЭС",
+    "target": "Nuclear power plant (NPP)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бам": {
+    "source": "БАМ",
+    "target": "Baikal-Amur Mainline (BAM)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бб": {
+    "source": "ББ",
+    "target": "Side block (SB)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бвдг": {
+    "source": "БВДГ",
+    "target": "High-pressure fuel tank (HPFT)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бвдо": {
+    "source": "БВДО",
+    "target": "High-pressure oxidizer tank (HPOT)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бг": {
+    "source": "БГ",
+    "target": "Fuel tank (FT)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бндг": {
+    "source": "БНДГ",
+    "target": "Low-pressure fuel tank (LPFT)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бндо": {
+    "source": "БНДО",
+    "target": "Low-pressure oxidizer tank (LPOT)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "бц": {
+    "source": "БЦ",
+    "target": "Ballistic center (BC)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ввт": {
+    "source": "ВВТ",
+    "target": "Armament and military equipment (AME)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вко": {
+    "source": "ВКО",
+    "target": "High circular orbit (HCO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "воз": {
+    "source": "ВОЗ",
+    "target": "World Health Organization (WHO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "врп": {
+    "source": "ВРП",
+    "target": "Gross regional product (GRP)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "всотр": {
+    "source": "ВСОТР",
+    "target": "Air temperature control system (ATCS)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вти": {
+    "source": "ВТИ",
+    "target": "External trajectory measurements (ETM)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вув": {
+    "source": "ВУВ",
+    "target": "Air shock wave (ASW)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "вэо": {
+    "source": "ВЭО",
+    "target": "Highly elliptical orbit (HEO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "«г»": {
+    "source": "«Г»",
+    "target": "Fuel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гкнпц": {
+    "source": "ГКНПЦ",
+    "target": "State Space Scientific Production Center (SSSPC)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гост": {
+    "source": "ГОСТ",
+    "target": "State Standard (GOST)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "готв": {
+    "source": "ГОТВ",
+    "target": "Gaseous fire extinguishing agent (GFEA)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гпо": {
+    "source": "ГПО",
+    "target": "Geostationary transfer orbit (GTO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гсм": {
+    "source": "ГСМ",
+    "target": "Fuel and lubricants (F&L)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гсо": {
+    "source": "ГСО",
+    "target": "Geostationary orbit (GEO)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гфс": {
+    "source": "ГФС",
+    "target": "Geophysical service (GS)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гэс": {
+    "source": "ГЭС",
+    "target": "Hydroelectric power station (HPS)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "гээ": {
+    "source": "ГЭЭ",
+    "target": "State environmental expertise (SEE)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дзз": {
+    "source": "ДЗЗ",
+    "target": "Remote sensing of Earth (RSE)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дма": {
+    "source": "ДМА",
+    "target": "Dimethylamine (DMA)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дтс": {
+    "source": "ДТС",
+    "target": "Precision stabilization engine (PSE)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "дэс": {
+    "source": "ДЭС",
+    "target": "Diesel Power Plant",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ецуп": {
+    "source": "ЕЦУП",
+    "target": "Unified Flight Control Center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "жсотр": {
+    "source": "ЖСОТР",
+    "target": "Liquid System for Thermal Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зао": {
+    "source": "ЗАО",
+    "target": "Closed Joint-Stock Company",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зато": {
+    "source": "ЗАТО",
+    "target": "Closed Administrative-Territorial Formation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "зип": {
+    "source": "ЗИП",
+    "target": "Spare Tools and Accessories",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "знс": {
+    "source": "ЗНС",
+    "target": "Refueling and Neutralization Station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ибц": {
+    "source": "ИБЦ",
+    "target": "Intrinsically Safe Circuit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ик": {
+    "source": "ИК",
+    "target": "Measurement Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ип": {
+    "source": "ИП",
+    "target": "Measurement Point",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ипг": {
+    "source": "ИПГ",
+    "target": "Institute of Applied Geophysics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кб": {
+    "source": "КБ",
+    "target": "Design Bureau",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кврб": {
+    "source": "КВРБ",
+    "target": "Oxygen-Hydrogen Boost Stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "квио": {
+    "source": "КВИО",
+    "target": "Coefficient of Potential Inhalation Poisoning",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "квтк": {
+    "source": "КВТК",
+    "target": "Heavy-Class Oxygen-Hydrogen",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кд": {
+    "source": "КД",
+    "target": "Design Documentation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кзб": {
+    "source": "КЗБ",
+    "target": "Cable-Fueling Mast",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кк": {
+    "source": "КК",
+    "target": "Space Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "км": {
+    "source": "КМ",
+    "target": "Space Debris",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кмто": {
+    "source": "КМТО",
+    "target": "Set of Mechanical and Technological Equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кно": {
+    "source": "КНО",
+    "target": "ground equipment set",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ко": {
+    "source": "КО",
+    "target": "space object",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кпво": {
+    "source": "КПВО",
+    "target": "pneumatic-vacuum equipment set",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кпо": {
+    "source": "КПО",
+    "target": "test equipment set",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "крб": {
+    "source": "КРБ",
+    "target": "boost stage complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "крт": {
+    "source": "КРТ",
+    "target": "rocket propellant components",
+    "source_abbr": "КТ",
+    "target_abbr": "компоненты топлива"
+  },
+  "кср": {
+    "source": "КСр",
+    "target": "space assets",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "кц": {
+    "source": "КЦ",
+    "target": "tank container",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "лд": {
+    "source": "ЛД",
+    "target": "lethal dose",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мгд": {
+    "source": "МГД",
+    "target": "magnetohydrodynamic",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мдмг": {
+    "source": "МДМГ",
+    "target": "Methylene Dimethylhydrazine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мик": {
+    "source": "МИК",
+    "target": "Assembly and Testing Building",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мка": {
+    "source": "МКА",
+    "target": "Small Spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мкс": {
+    "source": "МКС",
+    "target": "International Space Station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "млм": {
+    "source": "МЛМ",
+    "target": "Multipurpose Laboratory Module",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мо": {
+    "source": "МО",
+    "target": "Ministry of Defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мп": {
+    "source": "МП",
+    "target": "Impact Point",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мпр": {
+    "source": "МПР",
+    "target": "Ministry of Natural Resources and Environment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "мчс": {
+    "source": "МЧС",
+    "target": "Ministry of Emergency Situations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "наку": {
+    "source": "НАКУ",
+    "target": "Ground Automated Control Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "насу": {
+    "source": "НАСУ",
+    "target": "Ground Control System Equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ндма": {
+    "source": "НДМА",
+    "target": "Nitrosodimethylamine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ник": {
+    "source": "НИК",
+    "target": "Ground Measurement Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нпб": {
+    "source": "НПБ",
+    "target": "Fire Safety Standards",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нпо": {
+    "source": "НПО",
+    "target": "Scientific and Production Association",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нпц": {
+    "source": "НПЦ",
+    "target": "Scientific and Production Center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нтд": {
+    "source": "НТД",
+    "target": "Regulatory and Technical Documentation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ншс": {
+    "source": "НШС",
+    "target": "Contingency Situations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "нц": {
+    "source": "НЦ",
+    "target": "Scientific Center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "«о»": {
+    "source": "«О»",
+    "target": "Oxidizer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оао": {
+    "source": "ОАО",
+    "target": "Open Joint Stock Company",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "обув": {
+    "source": "ОБУВ",
+    "target": "Tentative Safe Exposure Level",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "овос": {
+    "source": "ОВОС",
+    "target": "Environmental Impact Assessment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "оип": {
+    "source": "ОИП",
+    "target": "Artificial Origin Object",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "окик": {
+    "source": "ОКИК",
+    "target": "Separate Command and Measurement Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "окп": {
+    "source": "ОКП",
+    "target": "Near-Earth Space",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "окр": {
+    "source": "ОКР",
+    "target": "Experimental Design Work",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ооо": {
+    "source": "ООО",
+    "target": "Limited Liability Company",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ост": {
+    "source": "ОСТ",
+    "target": "Industry Standard",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "отт": {
+    "source": "ОТТ",
+    "target": "General Technical Requirements",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пдв": {
+    "source": "ПДВ",
+    "target": "Maximum Allowable Emission",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пдк": {
+    "source": "ПДК",
+    "target": "Maximum Allowable Concentration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пду": {
+    "source": "ПДУ",
+    "target": "Maximum Allowable Level",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пи": {
+    "source": "ПИ",
+    "target": "Fire Detector",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пк": {
+    "source": "ПК",
+    "target": "Natural Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ппб": {
+    "source": "ППБ",
+    "target": "Fire Safety Regulations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ппм": {
+    "source": "ППМ",
+    "target": "Power Flux Density",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ппэ": {
+    "source": "ППЭ",
+    "target": "Energy Flux Density",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "поэб": {
+    "source": "ПОЭБ",
+    "target": "Environmental Safety Assurance Program",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "птк": {
+    "source": "ПТК",
+    "target": "Natural Territorial Complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "пу": {
+    "source": "ПУ",
+    "target": "Launch pad / Launcher",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рамн": {
+    "source": "РАМН",
+    "target": "Russian Academy of Medical Sciences",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ран": {
+    "source": "РАН",
+    "target": "Russian Academy of Sciences",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ркд": {
+    "source": "РКД",
+    "target": "Rocket and Space Activities",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ркз": {
+    "source": "РКЗ",
+    "target": "Rocket and Space Plant of GKNPC",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ркт": {
+    "source": "РКТ",
+    "target": "Rocket and Space Technology",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рлс": {
+    "source": "РЛС",
+    "target": "Radar Station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "рсти": {
+    "source": "РСТИ",
+    "target": "Radio Engineering Telemetry System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "свч": {
+    "source": "СВЧ",
+    "target": "Microwave Frequency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сг": {
+    "source": "СГ",
+    "target": "Compressed Gases",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сд": {
+    "source": "СД",
+    "target": "Daily Dose",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сев": {
+    "source": "СЕВ",
+    "target": "Unified Time System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сзжв": {
+    "source": "СЗЖВ",
+    "target": "Liquid Hydrogen Refueling System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сзжк": {
+    "source": "СЗЖК",
+    "target": "Liquid Oxygen Refueling System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сзз": {
+    "source": "СЗЗ",
+    "target": "Sanitary Protection Zone",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сккп": {
+    "source": "СККП",
+    "target": "Space Control System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "скск": {
+    "source": "СКСК",
+    "target": "Oxygen Content Control System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сми": {
+    "source": "СМИ",
+    "target": "Mass Media",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "снитов": {
+    "source": "СНИТОВ",
+    "target": "System for Neutralizing Products, Technological",
+    "source_abbr": null,
+    "target_abbr": "КА и РБ"
+  },
+  "снк": {
+    "source": "СнК",
+    "target": "Hydrocyanic Acid",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "снэст": {
+    "source": "СНЭСТ",
+    "target": "Ground Special Current Power Supply System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "соз": {
+    "source": "СОЗ",
+    "target": "system for launch support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сооз": {
+    "source": "СООЗ",
+    "target": "orientation and launch support system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сотр": {
+    "source": "СОТР",
+    "target": "temperature regime support system",
+    "source_abbr": null,
+    "target_abbr": "средства"
+  },
+  "сос": {
+    "source": "СОС",
+    "target": "orientation and stabilization system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "спав": {
+    "source": "СПАВ",
+    "target": "synthetic surfactants",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "спвп": {
+    "source": "СПВП",
+    "target": "fire and explosion prevention system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "спрн": {
+    "source": "СПРН",
+    "target": "missile attack warning system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ссев": {
+    "source": "ССЕВ",
+    "target": "synchronization and unified time system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сснппг": {
+    "source": "ССНППГ",
+    "target": "fuel vapor and industrial effluent collection and neutralization system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сснппо": {
+    "source": "ССНППО",
+    "target": "oxidizer vapor and industrial effluent collection and neutralization system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "сспд": {
+    "source": "ССПД",
+    "target": "communication and data transmission system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тбо": {
+    "source": "ТБО",
+    "target": "solid household waste",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тзк": {
+    "source": "ТЗК",
+    "target": "transport and refueling container",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тми": {
+    "source": "ТМИ",
+    "target": "telemetry measurements",
+    "source_abbr": null,
+    "target_abbr": "информация"
+  },
+  "тмт": {
+    "source": "ТМТ",
+    "target": "tetramethyltetrazene",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тп": {
+    "source": "ТП",
+    "target": "technical position",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "тпк": {
+    "source": "ТПК",
+    "target": "transport and launch container",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ттз": {
+    "source": "ТТЗ",
+    "target": "tactical and technical assignment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "туа": {
+    "source": "ТУА",
+    "target": "transport and installation assembly",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "упрза": {
+    "source": "УПРЗА",
+    "target": "universal atmospheric pollution calculation program",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "урм": {
+    "source": "УРМ",
+    "target": "Universal rocket module (URM)",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "утк": {
+    "source": "УТК",
+    "target": "unified technical complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "уф": {
+    "source": "УФ",
+    "target": "ultraviolet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "фа": {
+    "source": "ФА",
+    "target": "formaldehyde",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "фгбу": {
+    "source": "ФГБУ",
+    "target": "federal state budgetary institution",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "фка": {
+    "source": "ФКА",
+    "target": "Federal Space Agency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "фкп": {
+    "source": "ФКП",
+    "target": "Federal Space Program",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "цб": {
+    "source": "ЦБ",
+    "target": "central block",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "цвк": {
+    "source": "ЦВК",
+    "target": "digital computing complex",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "цнии": {
+    "source": "ЦНИИ",
+    "target": "Central Scientific Research Institute",
+    "source_abbr": null,
+    "target_abbr": null
+  }
+}

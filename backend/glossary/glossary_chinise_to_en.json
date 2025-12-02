@@ -1,0 +1,3290 @@
+{
+  "aircraft type s": {
+    "source": "Aircraft Type s",
+    "target": "航空器类型",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "飞机": {
+    "source": "飞机",
+    "target": "Aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "民用飞机": {
+    "source": "民用飞机",
+    "target": "Civil aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军用飞机": {
+    "source": "军用飞机",
+    "target": "Military aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "战斗机": {
+    "source": "战斗机",
+    "target": "Fighter jet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轰炸机": {
+    "source": "轰炸机",
+    "target": "Bomber aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "运输机": {
+    "source": "运输机",
+    "target": "Transport aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "客机": {
+    "source": "客机",
+    "target": "Airliner",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "公务机": {
+    "source": "公务机",
+    "target": "Business j et",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "货机": {
+    "source": "货机",
+    "target": "Cargo aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "直升机": {
+    "source": "直升机",
+    "target": "Helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "攻击直升机": {
+    "source": "攻击直升机",
+    "target": "Attack helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "通用直升机": {
+    "source": "通用直升机",
+    "target": "Utility helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "无人机": {
+    "source": "无人机",
+    "target": "Unmanned Aerial Vehicle",
+    "source_abbr": null,
+    "target_abbr": "UAV"
+  },
+  "侦察机": {
+    "source": "侦察机",
+    "target": "Reconnaissance aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "加油机": {
+    "source": "加油机",
+    "target": "Aerial Refueling tanker",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "教练机": {
+    "source": "教练机",
+    "target": "Trainer aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "水上飞机": {
+    "source": "水上飞机",
+    "target": "Seaplane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "滑翔机": {
+    "source": "滑翔机",
+    "target": "Glider",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "aircraft structure": {
+    "source": "Aircraft Structure",
+    "target": "飞机结构",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机身": {
+    "source": "机身",
+    "target": "Fuselage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机翼": {
+    "source": "机翼",
+    "target": "Wing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "尾翼": {
+    "source": "尾翼",
+    "target": "Empennage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "水平尾翼": {
+    "source": "水平尾翼",
+    "target": "Horizontal stabilizer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "垂直尾翼": {
+    "source": "垂直尾翼",
+    "target": "Vertical stabilizer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发动机": {
+    "source": "发动机",
+    "target": "Engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发动机短舱": {
+    "source": "发动机短舱",
+    "target": "Nacelle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "起落架": {
+    "source": "起落架",
+    "target": "Landing gear",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "驾驶舱": {
+    "source": "驾驶舱",
+    "target": "Cockpit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "客舱": {
+    "source": "客舱",
+    "target": "Passenger cabin",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "货舱": {
+    "source": "货舱",
+    "target": "Cargo hold",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "副翼": {
+    "source": "副翼",
+    "target": "Aileron",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "襟翼": {
+    "source": "襟翼",
+    "target": "Flap",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "前缘缝翼": {
+    "source": "前缘缝翼",
+    "target": "Slat",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "扰流板": {
+    "source": "扰流板",
+    "target": "Spoiler",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "方向舵": {
+    "source": "方向舵",
+    "target": "Rudder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "升降舵": {
+    "source": "升降舵",
+    "target": "Elevator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "avionics and systems": {
+    "source": "Avionics and Systems",
+    "target": "航空电子与系统",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "飞行管理系统": {
+    "source": "飞行管理系统",
+    "target": "Flight Management System",
+    "source_abbr": null,
+    "target_abbr": "FMS"
+  },
+  "自动驾驶仪": {
+    "source": "自动驾驶仪",
+    "target": "Autopilot",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "惯性导航系统": {
+    "source": "惯性导航系统",
+    "target": "Inertial Navigation System",
+    "source_abbr": null,
+    "target_abbr": "INS"
+  },
+  "全球定位系统": {
+    "source": "全球定位系统",
+    "target": "Global Positioning System",
+    "source_abbr": null,
+    "target_abbr": "GPS"
+  },
+  "仪表着陆系统": {
+    "source": "仪表着陆系统",
+    "target": "Instrument Landing System",
+    "source_abbr": null,
+    "target_abbr": "ILS"
+  },
+  "无线电高度表": {
+    "source": "无线电高度表",
+    "target": "Radio altimeter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空速表": {
+    "source": "空速表",
+    "target": "Airspeed indicator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "姿态指示器": {
+    "source": "姿态指示器",
+    "target": "Attitude Director Indicator",
+    "source_abbr": null,
+    "target_abbr": "ADI"
+  },
+  "航向指示器": {
+    "source": "航向指示器",
+    "target": "Heading indicator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "气象雷达": {
+    "source": "气象雷达",
+    "target": "Weather radar",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "地面迫近警告系統": {
+    "source": "地面迫近警告系統",
+    "target": "Ground Proximity Warning System",
+    "source_abbr": null,
+    "target_abbr": "GPWS"
+  },
+  "空中防撞系统": {
+    "source": "空中防撞系统",
+    "target": "Traffic Collision Avoidance System",
+    "source_abbr": null,
+    "target_abbr": "TCAS"
+  },
+  "转发器": {
+    "source": "转发器",
+    "target": "Transponder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "飞行数据记录器": {
+    "source": "飞行数据记录器",
+    "target": "Flight Data Recorder",
+    "source_abbr": null,
+    "target_abbr": "FDR"
+  },
+  "平视显示器": {
+    "source": "平视显示器",
+    "target": "Head -Up Display",
+    "source_abbr": null,
+    "target_abbr": "HUD"
+  },
+  "液压系统": {
+    "source": "液压系统",
+    "target": "Hydraulic system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "燃油系统": {
+    "source": "燃油系统",
+    "target": "Fuel s ystem",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电气系统": {
+    "source": "电气系统",
+    "target": "Electrical system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "环境控制系统": {
+    "source": "环境控制系统",
+    "target": "Environmental Control System",
+    "source_abbr": null,
+    "target_abbr": "ECS"
+  },
+  "防冰系统": {
+    "source": "防冰系统",
+    "target": "Anti-icing system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "增压系统": {
+    "source": "增压系统",
+    "target": "Pressurization system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "airport operations": {
+    "source": "Airport Operations",
+    "target": "机场运营",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "航站楼": {
+    "source": "航站楼",
+    "target": "Terminal building",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "跑道": {
+    "source": "跑道",
+    "target": "Runway",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "滑行道": {
+    "source": "滑行道",
+    "target": "Taxiway",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "停机坪": {
+    "source": "停机坪",
+    "target": "Apron",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "登机桥": {
+    "source": "登机桥",
+    "target": "Aircraft boarding bridge",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空中交通管制": {
+    "source": "空中交通管制",
+    "target": "Air Traffic Control",
+    "source_abbr": null,
+    "target_abbr": "ATC"
+  },
+  "塔台": {
+    "source": "塔台",
+    "target": "Control tower",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "区域管制中心": {
+    "source": "区域管制中心",
+    "target": "Area Control Center",
+    "source_abbr": null,
+    "target_abbr": "ACC"
+  },
+  "飞行计划": {
+    "source": "飞行计划",
+    "target": "Flight plan",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "放行许可": {
+    "source": "放行许可",
+    "target": "Clearance delivery",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "地勤服务": {
+    "source": "地勤服务",
+    "target": "Ground handling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "加油服务": {
+    "source": "加油服务",
+    "target": "Refueling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "除冰": {
+    "source": "除冰",
+    "target": "Deicing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "行李处理": {
+    "source": "行李处理",
+    "target": "Baggage handling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "flight operations": {
+    "source": "Flight Operations",
+    "target": "飞行操作",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "起飞": {
+    "source": "起飞",
+    "target": "Lift-off",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "着陆": {
+    "source": "着陆",
+    "target": "Landing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "爬升": {
+    "source": "爬升",
+    "target": "Climb",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "巡航": {
+    "source": "巡航",
+    "target": "Cruise",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "下降": {
+    "source": "下降",
+    "target": "Descent",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "复飞": {
+    "source": "复飞",
+    "target": "Go-around",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "等待航线": {
+    "source": "等待航线",
+    "target": "Holding pattern",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "仪表飞行规则": {
+    "source": "仪表飞行规则",
+    "target": "Instrument Flight Rules",
+    "source_abbr": null,
+    "target_abbr": "IFR"
+  },
+  "目视飞行规则": {
+    "source": "目视飞行规则",
+    "target": "Visual Flight Rules",
+    "source_abbr": null,
+    "target_abbr": "VFR"
+  },
+  "最低天气标准": {
+    "source": "最低天气标准",
+    "target": "Meteorological minima",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "湍流": {
+    "source": "湍流",
+    "target": "Turbulence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "能见度": {
+    "source": "能见度",
+    "target": "Visibility",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "侧风": {
+    "source": "侧风",
+    "target": "Crosswind",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "尾流": {
+    "source": "尾流",
+    "target": "Wake turbulence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "aviation abbreviations": {
+    "source": "Aviation Abbreviations",
+    "target": "航空缩写",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "atc": {
+    "source": "ATC",
+    "target": "空管 – Air Traffic Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fms": {
+    "source": "FMS",
+    "target": "飞行管理系统 – Flight Management System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ins": {
+    "source": "INS",
+    "target": "惯性导航系统 – Inertial Navigation System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "gps": {
+    "source": "GPS",
+    "target": "全球定位系统 – Global Positioning System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ils": {
+    "source": "ILS",
+    "target": "仪表着陆系统 – Instrument Landing System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "gpws": {
+    "source": "GPWS",
+    "target": "近地警告系统 – Ground Proximity Warning System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "tcas": {
+    "source": "TCAS",
+    "target": "空中防撞系统 – Traffic Collision Avoidance System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fdr": {
+    "source": "FDR",
+    "target": "飞行数据记录器 – Flight Data Recorder",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "hud": {
+    "source": "HUD",
+    "target": "平视显示器 – Head -Up Display",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "uav": {
+    "source": "UAV",
+    "target": "无人机 – Unmanned Aerial Vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ifr": {
+    "source": "IFR",
+    "target": "仪表飞行规则 – Instrument Flight Rules",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "vfr": {
+    "source": "VFR",
+    "target": "目视飞行规则 – Visual Flight Rules",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "eta": {
+    "source": "ETA",
+    "target": "预计到达时间 – Estimated Time of Arrival",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "etd": {
+    "source": "ETD",
+    "target": "预计起飞时间 / 预计出发时间 – Estimated Time of Departure",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "armed forces": {
+    "source": "Armed Forces",
+    "target": "武装力量",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军队": {
+    "source": "军队",
+    "target": "Army",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "武装力量": {
+    "source": "武装力量",
+    "target": "Armed forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "陆军": {
+    "source": "陆军",
+    "target": "Ground forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "海军": {
+    "source": "海军",
+    "target": "Naval forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空军": {
+    "source": "空军",
+    "target": "Air forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "特种部队": {
+    "source": "特种部队",
+    "target": "Special forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "步兵部队": {
+    "source": "步兵部队",
+    "target": "Infantry forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "炮兵部队": {
+    "source": "炮兵部队",
+    "target": "Artillery forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防空部队": {
+    "source": "防空部队",
+    "target": "Air defense forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "装甲兵": {
+    "source": "装甲兵",
+    "target": "Armored forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空降兵": {
+    "source": "空降兵",
+    "target": "Paratroopers",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "侦察部队": {
+    "source": "侦察部队",
+    "target": "Reconnaissance forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ranks and positions": {
+    "source": "Ranks and Positions",
+    "target": "军衔与职位",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "士兵": {
+    "source": "士兵",
+    "target": "Soldier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军官": {
+    "source": "军官",
+    "target": "Officer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "列兵": {
+    "source": "列兵",
+    "target": "Private /Seaman",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军士": {
+    "source": "军士",
+    "target": "Non-commissioned officer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "上尉": {
+    "source": "上尉",
+    "target": "Captain",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "中校": {
+    "source": "中校",
+    "target": "Lieutenant Colonel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "上校": {
+    "source": "上校",
+    "target": "Colonel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "准将": {
+    "source": "准将",
+    "target": "Brigadier General",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "少将": {
+    "source": "少将",
+    "target": "Major General",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "将军": {
+    "source": "将军",
+    "target": "General",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "元帅": {
+    "source": "元帅",
+    "target": "Field Marshal",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "指挥官": {
+    "source": "指挥官",
+    "target": "Commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "参谋长": {
+    "source": "参谋长",
+    "target": "Chief of staff",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "总队长": {
+    "source": "总队长",
+    "target": "Division commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "准尉": {
+    "source": "准尉",
+    "target": "Warrant Officer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "equipment and gear": {
+    "source": "Equipment and Gear",
+    "target": "武器与装备",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "武器": {
+    "source": "武器",
+    "target": "Weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "重型武器": {
+    "source": "重型武器",
+    "target": "Heavy weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轻型武器": {
+    "source": "轻型武器",
+    "target": "Light weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "步枪": {
+    "source": "步枪",
+    "target": "Rifle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "手枪": {
+    "source": "手枪",
+    "target": "Pistol",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机枪": {
+    "source": "机枪",
+    "target": "Machine gun",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "榴弹发射器": {
+    "source": "榴弹发射器",
+    "target": "Grenade launcher",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "炸弹": {
+    "source": "炸弹",
+    "target": "Bomb",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "榴弹": {
+    "source": "榴弹",
+    "target": "Grenade",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "火箭": {
+    "source": "火箭",
+    "target": "Rocket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导弹": {
+    "source": "导弹",
+    "target": "Missile/ Guided missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "远程导弹": {
+    "source": "远程导弹",
+    "target": "Long -range missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "常规导弹": {
+    "source": "常规导弹",
+    "target": "Conventional missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "坦克": {
+    "source": "坦克",
+    "target": "Tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "装甲车": {
+    "source": "装甲车",
+    "target": "Armored vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "人员输送车": {
+    "source": "人员输送车",
+    "target": "Personnel carrier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事直升飞机": {
+    "source": "军事直升飞机",
+    "target": "Military helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "潜艇": {
+    "source": "潜艇",
+    "target": "Submarine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军舰": {
+    "source": "军舰",
+    "target": "Warship",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "火炮": {
+    "source": "火炮",
+    "target": "Artillery gun",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "雷达": {
+    "source": "雷达",
+    "target": "Radar",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防空系统": {
+    "source": "防空系统",
+    "target": "Air defense system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "制导系统": {
+    "source": "制导系统",
+    "target": "Guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "控制系统": {
+    "source": "控制系统",
+    "target": "Control s ystem",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射系统": {
+    "source": "发射系统",
+    "target": "Launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事通讯系统": {
+    "source": "军事通讯系统",
+    "target": "Military communication system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "侦察设备": {
+    "source": "侦察设备",
+    "target": "Reconnaissance equipment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "装甲": {
+    "source": "装甲",
+    "target": "Armor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "头盔": {
+    "source": "头盔",
+    "target": "Helmet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军装": {
+    "source": "军装",
+    "target": "Military uniform",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防弹衣": {
+    "source": "防弹衣",
+    "target": "Bulletproof vest",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "operations and tactics": {
+    "source": "Operations and Tactics",
+    "target": "行动与战术",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "战斗": {
+    "source": "战斗",
+    "target": "Battle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "战争": {
+    "source": "战争",
+    "target": "War",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "冲突": {
+    "source": "冲突",
+    "target": "Conflict",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "进攻": {
+    "source": "进攻",
+    "target": "Attack",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防御": {
+    "source": "防御",
+    "target": "Defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "袭击": {
+    "source": "袭击",
+    "target": "Raid",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "行动": {
+    "source": "行动",
+    "target": "Operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事行动": {
+    "source": "军事行动",
+    "target": "Military operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "救援行动": {
+    "source": "救援行动",
+    "target": "Rescue operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "撤离行动": {
+    "source": "撤离行动",
+    "target": "Evacuation operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "侦察行动": {
+    "source": "侦察行动",
+    "target": "Reconnaissance operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "任务": {
+    "source": "任务",
+    "target": "Mission",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "停火": {
+    "source": "停火",
+    "target": "Ceasefire",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "胜利": {
+    "source": "胜利",
+    "target": "Victory",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "失败": {
+    "source": "失败",
+    "target": "Defeat",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空袭": {
+    "source": "空袭",
+    "target": "Air raid",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轰炸": {
+    "source": "轰炸",
+    "target": "Bombardment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防空": {
+    "source": "防空",
+    "target": "Air defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事训练": {
+    "source": "军事训练",
+    "target": "Military training",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "演习": {
+    "source": "演习",
+    "target": "Military exercise",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "战术": {
+    "source": "战术",
+    "target": "Tactic",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "战略": {
+    "source": "战略",
+    "target": "Strategy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "前线": {
+    "source": "前线",
+    "target": "Frontline",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "阵地": {
+    "source": "阵地",
+    "target": "Position",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事基地": {
+    "source": "军事基地",
+    "target": "Military base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "指挥中心": {
+    "source": "指挥中心",
+    "target": "Command center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "控制中心": {
+    "source": "控制中心",
+    "target": "Control center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "监控中心": {
+    "source": "监控中心",
+    "target": "Monitoring center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军用机场": {
+    "source": "军用机场",
+    "target": "Military airfield",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军营": {
+    "source": "军营",
+    "target": "Military camp",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事检查站": {
+    "source": "军事检查站",
+    "target": "Military checkpoint",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "intelligence and security": {
+    "source": "Intelligence and Security",
+    "target": "情报与安全",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军事情报": {
+    "source": "军事情报",
+    "target": "Military intelligence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "间谍": {
+    "source": "间谍",
+    "target": "Spy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "间谍活动": {
+    "source": "间谍活动",
+    "target": "Espionage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "监视": {
+    "source": "监视",
+    "target": "Surveillance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "情报分析": {
+    "source": "情报分析",
+    "target": "Information analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "窃听": {
+    "source": "窃听",
+    "target": "Wiretap",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "加密": {
+    "source": "加密",
+    "target": "Encryption",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "保密档案": {
+    "source": "保密档案",
+    "target": "Security file",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "安全威胁": {
+    "source": "安全威胁",
+    "target": "Security threat",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "advanced weapons and systems": {
+    "source": "Advanced Weapons and Systems",
+    "target": "先进武器系统",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "弹道导弹": {
+    "source": "弹道导弹",
+    "target": "Ballistic missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "高超音速导弹": {
+    "source": "高超音速导弹",
+    "target": "Hypersonic missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "核武器": {
+    "source": "核武器",
+    "target": "Nuclear weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "化学武器": {
+    "source": "化学武器",
+    "target": "Chemical weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "生物武器": {
+    "source": "生物武器",
+    "target": "Biological weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导弹防御系统": {
+    "source": "导弹防御系统",
+    "target": "Missile defense system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "自动发射系统": {
+    "source": "自动发射系统",
+    "target": "Automatic launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "跟踪系统": {
+    "source": "跟踪系统",
+    "target": "Tracking system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "遥控系统": {
+    "source": "遥控系统",
+    "target": "Remote control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "目标识别系统": {
+    "source": "目标识别系统",
+    "target": "Target identification system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "military abbreviations": {
+    "source": "Military Abbreviations",
+    "target": "军事缩写",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "nato": {
+    "source": "NATO",
+    "target": "北约 – North Atlantic Treaty Organization",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "un": {
+    "source": "UN",
+    "target": "联合国 – United Nations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "usaf": {
+    "source": "USAF",
+    "target": "美国空军 – United States Air Force",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "icbm": {
+    "source": "ICBM",
+    "target": "洲际弹道导弹 – Intercontinental Ballistic Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "sam": {
+    "source": "SAM",
+    "target": "地对空导弹 – Surface -to-Air Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "atgm": {
+    "source": "ATGM",
+    "target": "反坦克导弹 – Anti-Tank Guided Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "rpg": {
+    "source": "RPG",
+    "target": "火箭推进榴弹 – Rocket -Propelled Grenade",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "hq": {
+    "source": "HQ",
+    "target": "总部 – Headquarters",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fob": {
+    "source": "FOB",
+    "target": "前方作战基地 – Forward Operating Base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ao": {
+    "source": "AO",
+    "target": "作战区域 – Area of Operations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cas": {
+    "source": "CAS",
+    "target": "近距离空中支援 – Close Air Support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "roe": {
+    "source": "ROE",
+    "target": "交战规则 – Rules of Engagement",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "pow": {
+    "source": "POW",
+    "target": "战俘 – Prisoner of War",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "mia": {
+    "source": "MIA",
+    "target": "战斗失踪人员 – Missing in Action",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "kia": {
+    "source": "KIA",
+    "target": "阵亡 – Killed in Action",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "engine type s": {
+    "source": "Engine Type s",
+    "target": "发动机类型",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "活塞发动机": {
+    "source": "活塞发动机",
+    "target": "Piston engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮发动机": {
+    "source": "涡轮发动机",
+    "target": "Turbine engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮风扇发动机": {
+    "source": "涡轮风扇发动机",
+    "target": "Turbofan engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮喷气发动机": {
+    "source": "涡轮喷气发动机",
+    "target": "Turbojet engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮螺旋桨发动机": {
+    "source": "涡轮螺旋桨发动机",
+    "target": "Turboprop engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮轴发动机": {
+    "source": "涡轮轴发动机",
+    "target": "Turboshaft engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "冲压发动机": {
+    "source": "冲压发动机",
+    "target": "Ramjet engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "超燃冲压发动机": {
+    "source": "超燃冲压发动机",
+    "target": "Scramjet engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "火箭发动机": {
+    "source": "火箭发动机",
+    "target": "Rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电机": {
+    "source": "电机",
+    "target": "Electric engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "转子发动机": {
+    "source": "转子发动机",
+    "target": "Rotary engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "柴油发动机": {
+    "source": "柴油发动机",
+    "target": "Diesel engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "汽油发动机": {
+    "source": "汽油发动机",
+    "target": "Gasoline engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "燃气轮机": {
+    "source": "燃气轮机",
+    "target": "Gas turbine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "辅助动力装置": {
+    "source": "辅助动力装置",
+    "target": "Auxiliary Power Unit",
+    "source_abbr": null,
+    "target_abbr": "APU"
+  },
+  "双转子发动机": {
+    "source": "双转子发动机",
+    "target": "Two-spool engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "三转子发动机": {
+    "source": "三转子发动机",
+    "target": "Triple -spool engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "变循环发动机": {
+    "source": "变循环发动机",
+    "target": "Variable cycle engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "升力发动机": {
+    "source": "升力发动机",
+    "target": "Lift engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "engine components": {
+    "source": "Engine Components",
+    "target": "发动机部件",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "压气机": {
+    "source": "压气机",
+    "target": "Compressor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮": {
+    "source": "涡轮",
+    "target": "Turbine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "燃烧室": {
+    "source": "燃烧室",
+    "target": "Combustor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "风扇": {
+    "source": "风扇",
+    "target": "Fan",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "进气口": {
+    "source": "进气口",
+    "target": "Air inlet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "喷管": {
+    "source": "喷管",
+    "target": "Nozzle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "扩散器": {
+    "source": "扩散器",
+    "target": "Diffuser",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "静子叶片": {
+    "source": "静子叶片",
+    "target": "Stator vane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "转子叶片": {
+    "source": "转子叶片",
+    "target": "Rotor vane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导向叶片": {
+    "source": "导向叶片",
+    "target": "Guide vane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轴承": {
+    "source": "轴承",
+    "target": "Bearing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轴": {
+    "source": "轴",
+    "target": "Shaft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "齿轮箱": {
+    "source": "齿轮箱",
+    "target": "Gearbox",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "燃油喷嘴": {
+    "source": "燃油喷嘴",
+    "target": "Fuel nozzle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "点火器": {
+    "source": "点火器",
+    "target": "Igniter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机匣": {
+    "source": "机匣",
+    "target": "Casing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涡轮盘": {
+    "source": "涡轮盘",
+    "target": "Turbine disk",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "密封装置": {
+    "source": "密封装置",
+    "target": "Sealing device",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "滑油系统": {
+    "source": "滑油系统",
+    "target": "Oil system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "engine systems": {
+    "source": "Engine Systems",
+    "target": "发动机系统",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "启动系统": {
+    "source": "启动系统",
+    "target": "Start -up system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空气系统": {
+    "source": "空气系统",
+    "target": "Air system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "灭火系统": {
+    "source": "灭火系统",
+    "target": "Fire-extinguishing system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "监测系统": {
+    "source": "监测系统",
+    "target": "Monitoring system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "冷却系统": {
+    "source": "冷却系统",
+    "target": "Cooling system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "排气系统": {
+    "source": "排气系统",
+    "target": "Exhaust system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "推进系统": {
+    "source": "推进系统",
+    "target": "Propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "功率提取系统": {
+    "source": "功率提取系统",
+    "target": "Power take-off system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "状态监控系统": {
+    "source": "状态监控系统",
+    "target": "Condition monitoring system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "全权数字发动机控制": {
+    "source": "全权数字发动机控制",
+    "target": "Full Authority Digital Engine Control",
+    "source_abbr": null,
+    "target_abbr": "FADEC"
+  },
+  "发动机指示和机组告警系统": {
+    "source": "发动机指示和机组告警系统",
+    "target": "Engine Indicating and Crew Alerting System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "performance parame ters": {
+    "source": "Performance Parame ters",
+    "target": "性能参数",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "推力": {
+    "source": "推力",
+    "target": "Thrust",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "功率": {
+    "source": "功率",
+    "target": "Power",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "燃油消耗率": {
+    "source": "燃油消耗率",
+    "target": "Specific fuel consumption",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "推重比": {
+    "source": "推重比",
+    "target": "Thrust -to-weight ratio",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "功率重量比": {
+    "source": "功率重量比",
+    "target": "Power -to-weight ratio",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "效率": {
+    "source": "效率",
+    "target": "Efficiency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "热效率": {
+    "source": "热效率",
+    "target": "Thermal efficiency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "推进效率": {
+    "source": "推进效率",
+    "target": "Propulsive efficiency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "总效率": {
+    "source": "总效率",
+    "target": "Overall efficiency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "压力比": {
+    "source": "压力比",
+    "target": "Pressure ratio",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "涵道比 / 旁通比": {
+    "source": "涵道比 / 旁通比",
+    "target": "By-pass ratio",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "转速": {
+    "source": "转速",
+    "target": "Rotational speed",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "振动": {
+    "source": "振动",
+    "target": "Vibration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "排气温度": {
+    "source": "排气温度",
+    "target": "Exhaust gas temperature",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "maintenance and testing": {
+    "source": "Maintenance and Testing",
+    "target": "维护与测试",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "大修": {
+    "source": "大修",
+    "target": "Overhaul",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "平衡": {
+    "source": "平衡",
+    "target": "Balancing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发动机试车": {
+    "source": "发动机试车",
+    "target": "Engine run",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "性能测试": {
+    "source": "性能测试",
+    "target": "Performance test",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "耐久性测试": {
+    "source": "耐久性测试",
+    "target": "Endurance test",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "振动测试": {
+    "source": "振动测试",
+    "target": "Vibration test",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "环境测试": {
+    "source": "环境测试",
+    "target": "Environmental test",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "故障诊断": {
+    "source": "故障诊断",
+    "target": "Fault diagnosis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "状态监控": {
+    "source": "状态监控",
+    "target": "Condition monitoring",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "寿命预测": {
+    "source": "寿命预测",
+    "target": "Lifetime prediction",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "修理": {
+    "source": "修理",
+    "target": "Repair",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "校准": {
+    "source": "校准",
+    "target": "Calibration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "engine abbreviations": {
+    "source": "Engine Abbreviations",
+    "target": "发动机缩写",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "apu": {
+    "source": "APU",
+    "target": "辅助动力装置 – Auxiliary Power Unit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fadec": {
+    "source": "FADEC",
+    "target": "全权数字式发动机控制 – Full Authority Digital Engine Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "eicas": {
+    "source": "EICAS",
+    "target": "发动机指示和机组告警系统 – Engine Indicating and Crew Alerting",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "egt": {
+    "source": "EGT",
+    "target": "排气温度 – Exhaust Gas Temperature",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "epr": {
+    "source": "EPR",
+    "target": "发动机压力比 – Engine Pressure Ratio",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "n1": {
+    "source": "N1",
+    "target": "低压转子转速 – Low Pressure Rotor Speed",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "n2": {
+    "source": "N2",
+    "target": "高压转子转速 – High Pressure Rotor Speed",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "tit": {
+    "source": "TIT",
+    "target": "涡轮机进口温度 – Turbine Inlet Temperature",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "sfc": {
+    "source": "SFC",
+    "target": "燃油消耗率 – Specific Fuel Consumption",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "tbo": {
+    "source": "TBO",
+    "target": "大修间隔时间 – Time Between Overhauls",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "hsi": {
+    "source": "HSI",
+    "target": "热部段检验 – Hot Section Inspection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cbm": {
+    "source": "CBM",
+    "target": "视情维护 – Condition -Based Maintenance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "vg": {
+    "source": "VG",
+    "target": "可变几何形状 – Variable Geometry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "igv": {
+    "source": "IGV",
+    "target": "进口导流叶片 – Inlet Guide Vane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "engineering disciplines": {
+    "source": "Engineering Disciplines",
+    "target": "工程学科",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机械工程": {
+    "source": "机械工程",
+    "target": "Mechanical engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "航空航天工程": {
+    "source": "航空航天工程",
+    "target": "Aerospace engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电气工程": {
+    "source": "电气工程",
+    "target": "Electrical engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电子工程": {
+    "source": "电子工程",
+    "target": "Electronic engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "土木工程": {
+    "source": "土木工程",
+    "target": "Civil engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "化学工程": {
+    "source": "化学工程",
+    "target": "Chemical engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "材料工程": {
+    "source": "材料工程",
+    "target": "Materials engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "软件工程": {
+    "source": "软件工程",
+    "target": "Software engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "系统工程": {
+    "source": "系统工程",
+    "target": "Systems engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "制造工程": {
+    "source": "制造工程",
+    "target": "Manufacturing engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "工业工程": {
+    "source": "工业工程",
+    "target": "Industrial engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "质量工程": {
+    "source": "质量工程",
+    "target": "Quality engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "可靠性工程": {
+    "source": "可靠性工程",
+    "target": "Reliability engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "安全工程": {
+    "source": "安全工程",
+    "target": "Safety engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "环境工程": {
+    "source": "环境工程",
+    "target": "Environmental engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "design and development": {
+    "source": "Design and Development",
+    "target": "设计与开发",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "计算机辅助设计": {
+    "source": "计算机辅助设计",
+    "target": "Computer -Aided Design",
+    "source_abbr": null,
+    "target_abbr": "CAD"
+  },
+  "计算机辅助工程": {
+    "source": "计算机辅助工程",
+    "target": "Computer -Aided Engineering",
+    "source_abbr": null,
+    "target_abbr": "CAE"
+  },
+  "计算机辅助制造": {
+    "source": "计算机辅助制造",
+    "target": "Computer -Aided Manufacturing",
+    "source_abbr": null,
+    "target_abbr": "CAM"
+  },
+  "有限元分析": {
+    "source": "有限元分析",
+    "target": "Finite Element Analysis",
+    "source_abbr": null,
+    "target_abbr": "FEA"
+  },
+  "计算流体动力学": {
+    "source": "计算流体动力学",
+    "target": "Computational Fluid Dynamics",
+    "source_abbr": null,
+    "target_abbr": "CFD"
+  },
+  "产品生命周期管理": {
+    "source": "产品生命周期管理",
+    "target": "Product Lifecycle Management",
+    "source_abbr": null,
+    "target_abbr": "PLM"
+  },
+  "技术要求": {
+    "source": "技术要求",
+    "target": "Technical requirements",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "规格": {
+    "source": "规格",
+    "target": "Specifications",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "图纸": {
+    "source": "图纸",
+    "target": "Drawing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "三维模型": {
+    "source": "三维模型",
+    "target": "3D Model",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "原型": {
+    "source": "原型",
+    "target": "Prototype",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "测试": {
+    "source": "测试",
+    "target": "Testing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "验证": {
+    "source": "验证",
+    "target": "Verification",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "确认": {
+    "source": "确认",
+    "target": "Validation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "优化": {
+    "source": "优化",
+    "target": "Optimization",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "仿真": {
+    "source": "仿真",
+    "target": "Simulation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "建模": {
+    "source": "建模",
+    "target": "Modeling",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "逆向工程": {
+    "source": "逆向工程",
+    "target": "Reverse engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "人因工程": {
+    "source": "人因工程",
+    "target": "Human factors engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "价值工程": {
+    "source": "价值工程",
+    "target": "Value engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "materials and properties": {
+    "source": "Materials and Properties",
+    "target": "材料与性能",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "铝合金": {
+    "source": "铝合金",
+    "target": "Aluminum alloy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "钛合金": {
+    "source": "钛合金",
+    "target": "Titanium alloy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "镍基合金": {
+    "source": "镍基合金",
+    "target": "Nickel -base alloy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "复合材料": {
+    "source": "复合材料",
+    "target": "Composite material",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "陶瓷材料": {
+    "source": "陶瓷材料",
+    "target": "Ceramic material",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "聚合物": {
+    "source": "聚合物",
+    "target": "Polymer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "强度": {
+    "source": "强度",
+    "target": "Strength",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "刚度": {
+    "source": "刚度",
+    "target": "Stiffness",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "硬度": {
+    "source": "硬度",
+    "target": "Hardness",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "韧性": {
+    "source": "韧性",
+    "target": "Toughness",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "塑性": {
+    "source": "塑性",
+    "target": "Plasticity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "疲劳强度": {
+    "source": "疲劳强度",
+    "target": "Fatigue strength",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "蠕变": {
+    "source": "蠕变",
+    "target": "Creep",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "腐蚀": {
+    "source": "腐蚀",
+    "target": "Corrosion",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "热膨胀": {
+    "source": "热膨胀",
+    "target": "Thermal expansion",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导热性": {
+    "source": "导热性",
+    "target": "Thermal conductivity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导电性": {
+    "source": "导电性",
+    "target": "Electrical conductivity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "密度": {
+    "source": "密度",
+    "target": "Density",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "熔点": {
+    "source": "熔点",
+    "target": "Melting point",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "manufacturing proce sses": {
+    "source": "Manufacturing Proce sses",
+    "target": "制作过程",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "机械加工": {
+    "source": "机械加工",
+    "target": "Machining",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "铸造": {
+    "source": "铸造",
+    "target": "Casting",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "锻造": {
+    "source": "锻造",
+    "target": "Forging",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "焊接": {
+    "source": "焊接",
+    "target": "Welding",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "钣金": {
+    "source": "钣金",
+    "target": "Sheet metal forming",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "热处理": {
+    "source": "热处理",
+    "target": "Heat treatment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "表面处理": {
+    "source": "表面处理",
+    "target": "Surface treatment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电镀": {
+    "source": "电镀",
+    "target": "Electroplating",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "喷涂": {
+    "source": "喷涂",
+    "target": "Spray coating",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "3d打印": {
+    "source": "3D打印",
+    "target": "3D printing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "数控机床加工": {
+    "source": "数控机床加工",
+    "target": "CNC machining",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "注塑成型": {
+    "source": "注塑成型",
+    "target": "Injection molding",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "自动化纤维铺放技术": {
+    "source": "自动化纤维铺放技术",
+    "target": "Automated fiber placement",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "超声波检测": {
+    "source": "超声波检测",
+    "target": "Ultrasonic testing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "射线检测": {
+    "source": "射线检测",
+    "target": "Radiographic testing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "measurements and tools": {
+    "source": "Measurements and Tools",
+    "target": "测量与工具",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "千分尺": {
+    "source": "千分尺",
+    "target": "Micrometer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "游标卡尺": {
+    "source": "游标卡尺",
+    "target": "Vernier caliper",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "高度规": {
+    "source": "高度规",
+    "target": "Height gauge",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "三坐标测量机": {
+    "source": "三坐标测量机",
+    "target": "Coordinate Measuring Machine",
+    "source_abbr": null,
+    "target_abbr": "CMM"
+  },
+  "光学比较仪": {
+    "source": "光学比较仪",
+    "target": "Optical comparator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "硬度计": {
+    "source": "硬度计",
+    "target": "Hardness tester",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "应变仪": {
+    "source": "应变仪",
+    "target": "Strain tester",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "加速度计 / 加速计": {
+    "source": "加速度计 / 加速计",
+    "target": "Accelerometer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "热电偶": {
+    "source": "热电偶",
+    "target": "Thermocouple",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "压力传感器": {
+    "source": "压力传感器",
+    "target": "Pressure transducer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "流量计": {
+    "source": "流量计",
+    "target": "Flow meter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "示波器": {
+    "source": "示波器",
+    "target": "Oscilloscope",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "万用表": {
+    "source": "万用表",
+    "target": "Multimeter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "扭矩扳手": {
+    "source": "扭矩扳手",
+    "target": "Torque wrench",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "quality and standards": {
+    "source": "Quality and Standards",
+    "target": "质量与标准",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "质量管理体系": {
+    "source": "质量管理体系",
+    "target": "Quality Management System",
+    "source_abbr": null,
+    "target_abbr": "QMS"
+  },
+  "国际标准化组织": {
+    "source": "国际标准化组织",
+    "target": "International Organization for Standardization",
+    "source_abbr": null,
+    "target_abbr": "ISO"
+  },
+  "美国机械工程师协会": {
+    "source": "美国机械工程师协会",
+    "target": "American Society of Mechanical Engineers",
+    "source_abbr": null,
+    "target_abbr": "ASME"
+  },
+  "美国材料与试验协会": {
+    "source": "美国材料与试验协会",
+    "target": "American Society for Testing and Materials",
+    "source_abbr": null,
+    "target_abbr": "ASTM"
+  },
+  "统计过程控制": {
+    "source": "统计过程控制",
+    "target": "Statistical Process Control",
+    "source_abbr": null,
+    "target_abbr": "SPC"
+  },
+  "六西格玛": {
+    "source": "六西格玛",
+    "target": "Six Sigma",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "根本原因分析": {
+    "source": "根本原因分析",
+    "target": "Root cause analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "故障模式与影响分析": {
+    "source": "故障模式与影响分析",
+    "target": "Failure Mode and Effects Analysis",
+    "source_abbr": null,
+    "target_abbr": "FMEA"
+  },
+  "证明": {
+    "source": "证明",
+    "target": "Certification",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "审核": {
+    "source": "审核",
+    "target": "Audit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "检验": {
+    "source": "检验",
+    "target": "Inspection",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "公差": {
+    "source": "公差",
+    "target": "Tolerance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "配合": {
+    "source": "配合",
+    "target": "Fit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "几何尺寸与公差": {
+    "source": "几何尺寸与公差",
+    "target": "Geometric Dimensioning and Tolerancing",
+    "source_abbr": null,
+    "target_abbr": "GD&T"
+  },
+  "engineering abbreviations": {
+    "source": "Engineering Abbreviations",
+    "target": "工程缩写",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cad": {
+    "source": "CAD",
+    "target": "计算机辅助设计 – Computer -Aided Design",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cae": {
+    "source": "CAE",
+    "target": "计算机辅助工程 – Computer -Aided Engineering",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cam": {
+    "source": "CAM",
+    "target": "计算机辅助制造 – Computer -Aided Manufacturing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fea": {
+    "source": "FEA",
+    "target": "有限元分析 – Finite Element Analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cfd": {
+    "source": "CFD",
+    "target": "计算流体动力学 – Computational Fluid Dynamics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "plm": {
+    "source": "PLM",
+    "target": "产品生命周期管理 – Product Lifecycle Management",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cnc": {
+    "source": "CNC",
+    "target": "计算机数控 – Computer Numerical Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cmm": {
+    "source": "CMM",
+    "target": "三坐标测量机 – Coordinate Measuring Machine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "iso": {
+    "source": "ISO",
+    "target": "国际标准化组织 – International Organization for Standardization",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "asme": {
+    "source": "ASME",
+    "target": "美国机械工程师协会 – American Society of Mechanical Engineers",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "astm": {
+    "source": "ASTM",
+    "target": "美国材料与试验协会 – American Society for Testing and Materials",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "spc": {
+    "source": "SPC",
+    "target": "统计过程控制 – Statistical Process Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "fmea": {
+    "source": "FMEA",
+    "target": "故障模式与影响分析 – Failure Mode and Effects Analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "gd&t": {
+    "source": "GD&T",
+    "target": "几何尺寸与公差 – Geometric Dimensioning and Tolerancing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "qms": {
+    "source": "QMS",
+    "target": "质量管理体系 – Quality Management System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "spacecraft and vehicles": {
+    "source": "Spacecraft and Vehicles",
+    "target": "航天器与运载工具",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "航天器": {
+    "source": "航天器",
+    "target": "Spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "人造卫星": {
+    "source": "人造卫星",
+    "target": "Artificial satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "通信卫星": {
+    "source": "通信卫星",
+    "target": "Communications satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "导航卫星": {
+    "source": "导航卫星",
+    "target": "Navigation satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "遥感卫星": {
+    "source": "遥感卫星",
+    "target": "Remote sensing satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "气象卫星": {
+    "source": "气象卫星",
+    "target": "Meteorological satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "科学卫星": {
+    "source": "科学卫星",
+    "target": "Scientific satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "军用卫星": {
+    "source": "军用卫星",
+    "target": "Military satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空间站": {
+    "source": "空间站",
+    "target": "Space station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "货运飞船": {
+    "source": "货运飞船",
+    "target": "Cargo spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "载人飞船": {
+    "source": "载人飞船",
+    "target": "Manned spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "月球探测器": {
+    "source": "月球探测器",
+    "target": "Lunar probe",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "行星探测器": {
+    "source": "行星探测器",
+    "target": "Planetary probe",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轨道器": {
+    "source": "轨道器",
+    "target": "Orbiter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "着陆器": {
+    "source": "着陆器",
+    "target": "Lander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "巡视器 / 探测车": {
+    "source": "巡视器 / 探测车",
+    "target": "Rover",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "运载火箭": {
+    "source": "运载火箭",
+    "target": "Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "可重复使用运载火箭": {
+    "source": "可重复使用运载火箭",
+    "target": "Reusable launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "固体火箭": {
+    "source": "固体火箭",
+    "target": "Solid rocket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "液体火箭": {
+    "source": "液体火箭",
+    "target": "Liquid rocket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "上面级": {
+    "source": "上面级",
+    "target": "Upper stage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "助推器": {
+    "source": "助推器",
+    "target": "Booster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "space systems and technology": {
+    "source": "Space Systems and Technology",
+    "target": "航天系统与技术",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "液体火箭发动机": {
+    "source": "液体火箭发动机",
+    "target": "Liquid rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "固体火箭发动机": {
+    "source": "固体火箭发动机",
+    "target": "Solid rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "离子推进器": {
+    "source": "离子推进器",
+    "target": "Ion thruster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "霍尔效应推进器": {
+    "source": "霍尔效应推进器",
+    "target": "Hall-effect thruster",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "姿态控制系统": {
+    "source": "姿态控制系统",
+    "target": "Attitude control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "制导导航与控制系统": {
+    "source": "制导导航与控制系统",
+    "target": "Guidance, Navigation and Control System",
+    "source_abbr": null,
+    "target_abbr": "GNC"
+  },
+  "热控制系统": {
+    "source": "热控制系统",
+    "target": "Thermal control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "生命保障系统": {
+    "source": "生命保障系统",
+    "target": "Life support system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "环境控制与生命保障系统": {
+    "source": "环境控制与生命保障系统",
+    "target": "Environmental Control and Life Support System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "热防护系统": {
+    "source": "热防护系统",
+    "target": "Thermal protection system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "防热罩": {
+    "source": "防热罩",
+    "target": "Heat shield",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "电源系统": {
+    "source": "电源系统",
+    "target": "Power supply system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "太阳能电池阵": {
+    "source": "太阳能电池阵",
+    "target": "Solar array",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "蓄电池": {
+    "source": "蓄电池",
+    "target": "Battery",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "有效载荷": {
+    "source": "有效载荷",
+    "target": "Payload",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "通信系统": {
+    "source": "通信系统",
+    "target": "Communication system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "遥测系统": {
+    "source": "遥测系统",
+    "target": "Telemetry system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "指令系统": {
+    "source": "指令系统",
+    "target": "Command system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "space missions and operations": {
+    "source": "Space Missions and Operations",
+    "target": "航天任务与操作",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射": {
+    "source": "发射",
+    "target": "Launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射窗口": {
+    "source": "发射窗口",
+    "target": "Launch window",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "点火": {
+    "source": "点火",
+    "target": "Ignition action",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "级间分离": {
+    "source": "级间分离",
+    "target": "Stage separation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "入轨": {
+    "source": "入轨",
+    "target": "Orbit insertion",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轨道": {
+    "source": "轨道",
+    "target": "Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "近地轨道": {
+    "source": "近地轨道",
+    "target": "Low Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": "LEO"
+  },
+  "中地球轨道": {
+    "source": "中地球轨道",
+    "target": "Medium Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": "MEO"
+  },
+  "地球同步轨道": {
+    "source": "地球同步轨道",
+    "target": "Geostationary Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": "GEO"
+  },
+  "太阳同步轨道": {
+    "source": "太阳同步轨道",
+    "target": "Sun-synchronous Orbit",
+    "source_abbr": null,
+    "target_abbr": "SSO"
+  },
+  "转移轨道": {
+    "source": "转移轨道",
+    "target": "Transfer orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轨道修正": {
+    "source": "轨道修正",
+    "target": "Orbit correction",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "交会": {
+    "source": "交会",
+    "target": "Rendezvous",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "对接": {
+    "source": "对接",
+    "target": "Docking",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "停泊": {
+    "source": "停泊",
+    "target": "Berthing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "再入": {
+    "source": "再入",
+    "target": "Reentry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "溅落": {
+    "source": "溅落",
+    "target": "Splashdown",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "舱外活动": {
+    "source": "舱外活动",
+    "target": "Extravehicular Activity",
+    "source_abbr": null,
+    "target_abbr": "EVA"
+  },
+  "在轨服务": {
+    "source": "在轨服务",
+    "target": "On-orbit servic e",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "space infrastructure": {
+    "source": "Space Infrastructure",
+    "target": "航天基础设施",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射场": {
+    "source": "发射场",
+    "target": "Launch site",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射工位": {
+    "source": "发射工位",
+    "target": "Launch pad",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "发射台": {
+    "source": "发射台",
+    "target": "Launch stand",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "勤务塔": {
+    "source": "勤务塔",
+    "target": "Service tower",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "脐带塔": {
+    "source": "脐带塔",
+    "target": "Umbilical tower",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "指挥控制中心": {
+    "source": "指挥控制中心",
+    "target": "Command and control center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "任务控制中心": {
+    "source": "任务控制中心",
+    "target": "Mission control center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "测控站": {
+    "source": "测控站",
+    "target": "Tracking telemetry and command station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "测控网": {
+    "source": "测控网",
+    "target": "Measuring -control network",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "着陆场": {
+    "source": "着陆场",
+    "target": "Landing site",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "回收区": {
+    "source": "回收区",
+    "target": "Recovery area",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "space concepts and phenomena": {
+    "source": "Space Concepts and Phenomena",
+    "target": "航天概念与现象",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "微重力": {
+    "source": "微重力",
+    "target": "Microgravity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "失重": {
+    "source": "失重",
+    "target": "Weightlessness",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "宇宙辐射": {
+    "source": "宇宙辐射",
+    "target": "Cosmic radiation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "近地天体": {
+    "source": "近地天体",
+    "target": "Near -Earth Object",
+    "source_abbr": null,
+    "target_abbr": "NEO"
+  },
+  "小行星": {
+    "source": "小行星",
+    "target": "Asteroid",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "彗星": {
+    "source": "彗星",
+    "target": "Comet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "深空": {
+    "source": "深空",
+    "target": "Deep space",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "拉格朗日点": {
+    "source": "拉格朗日点",
+    "target": "Lagrangian points",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "霍曼转移轨道": {
+    "source": "霍曼转移轨道",
+    "target": "Hohmann transfer orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "大气阻力": {
+    "source": "大气阻力",
+    "target": "Atmospheric drag",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "轨道衰变": {
+    "source": "轨道衰变",
+    "target": "Orbital decay",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "空间碎片": {
+    "source": "空间碎片",
+    "target": "Space debris",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "黑障区": {
+    "source": "黑障区",
+    "target": "Blackout range",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "space abbreviations": {
+    "source": "Space Abbreviations",
+    "target": "航天缩写",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "leo": {
+    "source": "LEO",
+    "target": "近地轨道 – Low Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "meo": {
+    "source": "MEO",
+    "target": "中地球轨道 – Medium Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "geo": {
+    "source": "GEO",
+    "target": "地球同步轨道 – Geostationary Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "eva": {
+    "source": "EVA",
+    "target": "舱外活动 – Extravehicular Activity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "gnc": {
+    "source": "GNC",
+    "target": "导航制导控制 – Guidance, Navigation and Control",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "eclss": {
+    "source": "ECLSS",
+    "target": "环境控制与生命保障系统 – Environmental Control and Life Support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "neo": {
+    "source": "NEO",
+    "target": "近地天体 – Near -Earth Object",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "nasa": {
+    "source": "NASA",
+    "target": "美国宇航局 – National Aeronautics and Space Administration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "esa": {
+    "source": "ESA",
+    "target": "欧洲空间局 – European Space Agency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "cnsa": {
+    "source": "CNSA",
+    "target": "中国国家航天局 – China National Space Administration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "iss": {
+    "source": "ISS",
+    "target": "国际空间站 – International Space Station",
+    "source_abbr": null,
+    "target_abbr": null
+  }
+}

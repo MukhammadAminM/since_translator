@@ -830,14 +830,8 @@ export default function App() {
           )}
 
           <div className="mt-6 text-[11px] text-slate-500 border-t border-slate-800 pt-3 flex flex-wrap gap-2 justify-between">
-            <span>
-              Built with <span className="font-mono">React</span> +
-              <span className="font-mono"> Tailwind CSS</span>
-            </span>
-            <span>
-              Example: RU / AR / ZH → EN — text and files, LLM model selection,
-              frontend-only demo without a real API.
-            </span>
+
+
           </div>
         </div>
       </main>

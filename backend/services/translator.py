@@ -10,6 +10,9 @@ try:
 except ImportError:
     OPENAI_AVAILABLE = False
 
+# Глоссарий
+from services.glossary_manager import GlossaryManager
+
 # Для извлечения текста из файлов
 try:
     import PyPDF2
@@ -50,6 +53,13 @@ class TranslationService:
         else:
             self.client = None
             print("⚠️  OpenAI библиотека не установлена. Установите: pip install openai")
+        
+        # Инициализация менеджера глоссария
+        try:
+            self.glossary_manager = GlossaryManager()
+        except Exception as e:
+            print(f"⚠️  Не удалось загрузить глоссарий: {str(e)}")
+            self.glossary_manager = None
     
     async def translate(
         self,
@@ -86,12 +96,25 @@ class TranslationService:
             "scientific": "Translate scientific texts with utmost precision. Maintain scientific terminology, preserve formulas and technical notation exactly."
         }
         
+        # Добавляем глоссарий в промпт, если он доступен
+        # Используем умный поиск релевантных терминов из текста
+        glossary_text = ""
+        if self.glossary_manager:
+            glossary_summary = self.glossary_manager.get_glossary_summary(
+                source_lang, 
+                text=text,  # Передаем текст для поиска релевантных терминов
+                max_terms=200
+            )
+            if glossary_summary:
+                glossary_text = f"\n\n{glossary_summary}"
+        
         system_prompt = (
             f"You are a professional translator specializing in {model} translation. "
             f"Translate the following text from {lang_names[source_lang]} to {target_lang.upper()}. "
             f"{model_instructions[model]} "
             f"Maintain the original formatting, paragraph structure, and line breaks. "
             f"Do not add any explanations, comments, or notes - provide only the translation."
+            f"{glossary_text}"
         )
         
         try:

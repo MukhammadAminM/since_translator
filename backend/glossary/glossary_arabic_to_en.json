@@ -1,0 +1,1832 @@
+{
+  "اﻟطﱠﯾَرَانُ وَاﻟطﱠﺎﺋِرَاتُ": {
+    "source": "اﻟطﱠﯾَرَانُ وَاﻟطﱠﺎﺋِرَاتُ",
+    "target": "Aviation and Aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةٌ": {
+    "source": "طَﺎﺋِرَةٌ",
+    "target": "Aircraft Plane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةٌ ﻣَدَﻧِﯾﱠﺔٌ": {
+    "source": "طَﺎﺋِرَةٌ ﻣَدَﻧِﯾﱠﺔٌ",
+    "target": "Civil aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةٌ ﺣَرْﺑِﯾﱠﺔٌ": {
+    "source": "طَﺎﺋِرَةٌ ﺣَرْﺑِﯾﱠﺔٌ",
+    "target": "Fighter jet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةٌ ﻧَﻔﱠﺎﺛَﺔٌ": {
+    "source": "طَﺎﺋِرَةٌ ﻧَﻔﱠﺎﺛَﺔٌ",
+    "target": "Jet aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةٌ ﺑِﻼَ طَﯾﱠﺎرٍ": {
+    "source": "طَﺎﺋِرَةٌ ﺑِﻼَ طَﯾﱠﺎرٍ",
+    "target": "Unmanned Aerial Vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِرْوَﺣِﯾﱠﺔٌ": {
+    "source": "ﻣِرْوَﺣِﯾﱠﺔٌ",
+    "target": "Helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِرْوَﺣِﯾﱠﺔٌ ھُﺟُوﻣِﯾﱠﺔٌ": {
+    "source": "ﻣِرْوَﺣِﯾﱠﺔٌ ھُﺟُوﻣِﯾﱠﺔٌ",
+    "target": "Attack helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ ﻧَﻘْلٍ": {
+    "source": "طَﺎﺋِرَةُ ﻧَﻘْلٍ",
+    "target": "Transport aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ اﺳْﺗِطْﻼَعٍ": {
+    "source": "طَﺎﺋِرَةُ اﺳْﺗِطْﻼَعٍ",
+    "target": "Reconnaissance aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ ﺗَزْوِﯾدٍ ﺑِﺎﻟْوَﻗُودِ": {
+    "source": "طَﺎﺋِرَةُ ﺗَزْوِﯾدٍ ﺑِﺎﻟْوَﻗُودِ",
+    "target": "Aerial refueling aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ رُﻛﱠﺎبٍ": {
+    "source": "طَﺎﺋِرَةُ رُﻛﱠﺎبٍ",
+    "target": "Passenger plane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ ﺷَﺣْنٍ": {
+    "source": "طَﺎﺋِرَةُ ﺷَﺣْنٍ",
+    "target": "Cargo plane",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ ﺗَدْرِﯾبٍ": {
+    "source": "طَﺎﺋِرَةُ ﺗَدْرِﯾبٍ",
+    "target": "Training aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﻘَﺎﺗِﻠَﺔٌ": {
+    "source": "ﻣُﻘَﺎﺗِﻠَﺔٌ",
+    "target": "Fighter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎذِﻓَﺔٌ": {
+    "source": "ﻗَﺎذِﻓَﺔٌ",
+    "target": "Bomber",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِظَﻠﱠﺔٌ": {
+    "source": "ﻣِظَﻠﱠﺔٌ",
+    "target": "Parachute",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ھُﺑُوطٌ": {
+    "source": "ھُﺑُوطٌ",
+    "target": "Landing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "إِﻗْﻼَعٌ": {
+    "source": "إِﻗْﻼَعٌ",
+    "target": "Take-off",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَدْرَجُ اﻹِْﻗْﻼَعِ وَاﻟْﮭُﺑُوطِ": {
+    "source": "ﻣَدْرَجُ اﻹِْﻗْﻼَعِ وَاﻟْﮭُﺑُوطِ",
+    "target": "Runway",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺑُرْجُ اﻟْﻣُرَاﻗَﺑَﺔِ": {
+    "source": "ﺑُرْجُ اﻟْﻣُرَاﻗَﺑَﺔِ",
+    "target": "Control tower",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَادَارٌ": {
+    "source": "رَادَارٌ",
+    "target": "Radar",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَﻧَﺎحٌ": {
+    "source": "ﺟَﻧَﺎحٌ",
+    "target": "Wing",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ذَﯾْلٌ": {
+    "source": "ذَﯾْلٌ",
+    "target": "Tail",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُﻣْرَةُ اﻟْﻘِﯾَﺎدَةِ": {
+    "source": "ﻗُﻣْرَةُ اﻟْﻘِﯾَﺎدَةِ",
+    "target": "Cockpit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﺣَرﱢكٌ ﻧَﻔﱠﺎثٌ": {
+    "source": "ﻣُﺣَرﱢكٌ ﻧَﻔﱠﺎثٌ",
+    "target": "Jet engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﻧْظِﻣَﺔُ اﻟْﻣَﻼَﺣَﺔِ": {
+    "source": "أَﻧْظِﻣَﺔُ اﻟْﻣَﻼَﺣَﺔِ",
+    "target": "Navigation systems",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَدَاءٌ ﺟَوﱢيﱞ": {
+    "source": "أَدَاءٌ ﺟَوﱢيﱞ",
+    "target": "Aerodynamic performance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﻧْﺣِدَارٌ": {
+    "source": "اِﻧْﺣِدَارٌ",
+    "target": "Descent",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ارْﺗِﻔَﺎعٌ": {
+    "source": "ارْﺗِﻔَﺎعٌ",
+    "target": "Altitude",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳُرْﻋَﺔُ اﻟﺻﱠوْتِ": {
+    "source": "ﺳُرْﻋَﺔُ اﻟﺻﱠوْتِ",
+    "target": "Speed of sound",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَوﱞ ﺳُﻔْﻠِﻲﱞ": {
+    "source": "ﺟَوﱞ ﺳُﻔْﻠِﻲﱞ",
+    "target": "Lower atmosphere",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَوﱞ ﻋُﻠْوِيﱞ": {
+    "source": "ﺟَوﱞ ﻋُﻠْوِيﱞ",
+    "target": "Upper atmosphere",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﻔَﺿَﺎءُ وَاﻟرﱠوَادُ": {
+    "source": "اﻟﻔَﺿَﺎءُ وَاﻟرﱠوَادُ",
+    "target": "Space and Astronautics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَﺿَﺎءٌ": {
+    "source": "ﻓَﺿَﺎءٌ",
+    "target": "Space",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْﻔَﺿَﺎءُ اﻟْﺧَﺎرِﺟِﻲﱡ": {
+    "source": "اﻟْﻔَﺿَﺎءُ اﻟْﺧَﺎرِﺟِﻲﱡ",
+    "target": "Outer space",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻏُﻼَفٌ ﺟَوﱢيﱞ": {
+    "source": "ﻏُﻼَفٌ ﺟَوﱢيﱞ",
+    "target": "Atmosphere",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳَﻔِﯾﻧَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ": {
+    "source": "ﺳَﻔِﯾﻧَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ",
+    "target": "Spacecraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَﺑَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ": {
+    "source": "ﻣَرْﻛَﺑَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ",
+    "target": "Space vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﻓَﺿَﺎﺋِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﻓَﺿَﺎﺋِﻲﱞ",
+    "target": "Space rocket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺣَﺎﻣِلٌ": {
+    "source": "ﺻَﺎرُوخٌ ﺣَﺎﻣِلٌ",
+    "target": "Carrier rocket Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻛﱡوكٌ ﻓَﺿَﺎﺋِﻲﱞ": {
+    "source": "ﻣَﻛﱡوكٌ ﻓَﺿَﺎﺋِﻲﱞ",
+    "target": "Space shuttle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﻣَرٌ ﺻِﻧَﺎﻋِﻲﱞ": {
+    "source": "ﻗَﻣَرٌ ﺻِﻧَﺎﻋِﻲﱞ",
+    "target": "Satellite",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﺣَطﱠﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ": {
+    "source": "ﻣَﺣَطﱠﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ",
+    "target": "Space station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَاﺋِدُ ﻓَﺿَﺎءٍ": {
+    "source": "رَاﺋِدُ ﻓَﺿَﺎءٍ",
+    "target": "Astronaut",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رِﺣْﻠَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ": {
+    "source": "رِﺣْﻠَﺔٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ",
+    "target": "Space mission",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "إِطْﻼَقٌ": {
+    "source": "إِطْﻼَقٌ",
+    "target": "Launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِﺿْﻣَﺎرُ اﻟْﻣُدَارِ": {
+    "source": "ﻣِﺿْﻣَﺎرُ اﻟْﻣُدَارِ",
+    "target": "Orbit path",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَدَارٌ أَرْﺿِﻲﱞ ﻣُﻧْﺧَﻔِضٌ": {
+    "source": "ﻣَدَارٌ أَرْﺿِﻲﱞ ﻣُﻧْﺧَﻔِضٌ",
+    "target": "Low Earth Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَدَارٌ ﺟَﻐْرَاﻓِﻲﱞ ﺛَﺎﺑِتٌ": {
+    "source": "ﻣَدَارٌ ﺟَﻐْرَاﻓِﻲﱞ ﺛَﺎﺑِتٌ",
+    "target": "Geostationary Orbit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟِﺳْمٌ ﺳَﻣَﺎوِيﱞ": {
+    "source": "ﺟِﺳْمٌ ﺳَﻣَﺎوِيﱞ",
+    "target": "Celestial body",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗِﻠِﺳْﻛُوبٌ ﻓَﺿَﺎﺋِﻲﱞ": {
+    "source": "ﺗِﻠِﺳْﻛُوبٌ ﻓَﺿَﺎﺋِﻲﱞ",
+    "target": "Space telescope",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِﺿْﻣَﺎرٌ ﻓَﺿَﺎﺋِﻲﱞ": {
+    "source": "ﻣِﺿْﻣَﺎرٌ ﻓَﺿَﺎﺋِﻲﱞ",
+    "target": "Space trajectory",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دُﺧُولُ اﻟْﻐِﻼَفِ اﻟْﺟَوﱢيﱢ": {
+    "source": "دُﺧُولُ اﻟْﻐِﻼَفِ اﻟْﺟَوﱢيﱢ",
+    "target": "Re-entry",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﻧْﻌِدَامُ اﻟْﺟَﺎذِﺑِﯾﱠﺔِ": {
+    "source": "اِﻧْﻌِدَامُ اﻟْﺟَﺎذِﺑِﯾﱠﺔِ",
+    "target": "Zero gravity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَﺎذِﺑِﯾﱠﺔٌ": {
+    "source": "ﺟَﺎذِﺑِﯾﱠﺔٌ",
+    "target": "Gravity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻛَوْﻛَبٌ": {
+    "source": "ﻛَوْﻛَبٌ",
+    "target": "Planet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمٌ ﺷَﻣْﺳِﻲﱞ": {
+    "source": "ﻧِظَﺎمٌ ﺷَﻣْﺳِﻲﱞ",
+    "target": "Solar system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَﺻْدٌ ﻓَﻠَﻛِﻲﱞ": {
+    "source": "رَﺻْدٌ ﻓَﻠَﻛِﻲﱞ",
+    "target": "Astronomical observation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﻧْﻔِﺟَﺎرٌ ﻧَﺟْﻣِﻲﱞ": {
+    "source": "اِﻧْﻔِﺟَﺎرٌ ﻧَﺟْﻣِﻲﱞ",
+    "target": "Stellar explosion",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَزُ اﻟﺗﱠﺣَﻛﱡمِ": {
+    "source": "ﻣَرْﻛَزُ اﻟﺗﱠﺣَﻛﱡمِ",
+    "target": "Control center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﻗُودٌ ﺻَﺎرُوﺧِﻲﱞ": {
+    "source": "وَﻗُودٌ ﺻَﺎرُوﺧِﻲﱞ",
+    "target": "Rocket fuel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﺧْﺗِﺑَﺎرَاتٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ": {
+    "source": "اِﺧْﺗِﺑَﺎرَاتٌ ﻓَﺿَﺎﺋِﯾﱠﺔٌ",
+    "target": "Space tests",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﺗﱢﻘْﻧِﯾَﺎتُ وَاﻟﻧﱡظُمُ": {
+    "source": "اﻟﺗﱢﻘْﻧِﯾَﺎتُ وَاﻟﻧﱡظُمُ",
+    "target": "Technologies and Systems",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟْﻣَﻼَﺣَﺔِ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔِ": {
+    "source": "ﻧِظَﺎمُ اﻟْﻣَﻼَﺣَﺔِ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔِ",
+    "target": "Space navigation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠوْﺟِﯾﮫِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠوْﺟِﯾﮫِ",
+    "target": "Guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠﺣَﻛﱡمِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠﺣَﻛﱡمِ",
+    "target": "Control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِْطْﻼَقِ": {
+    "source": "ﻧِظَﺎمُ اﻹِْطْﻼَقِ",
+    "target": "Launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِْﺗﱢﺻَﺎﻻَتِ": {
+    "source": "ﻧِظَﺎمُ اﻹِْﺗﱢﺻَﺎﻻَتِ",
+    "target": "Communication system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟْﻣُرَاﻗَﺑَﺔِ": {
+    "source": "ﻧِظَﺎمُ اﻟْﻣُرَاﻗَﺑَﺔِ",
+    "target": "Monitoring system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟدﱢﻓْﻊِ": {
+    "source": "ﻧِظَﺎمُ اﻟدﱢﻓْﻊِ",
+    "target": "Propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠﺑْرِﯾدِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠﺑْرِﯾدِ",
+    "target": "Cooling system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِْﻧْذَارِ": {
+    "source": "ﻧِظَﺎمُ اﻹِْﻧْذَارِ",
+    "target": "Warning system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﺣَرﱢكٌ ﺻَﺎرُوﺧِﻲﱞ": {
+    "source": "ﻣُﺣَرﱢكٌ ﺻَﺎرُوﺧِﻲﱞ",
+    "target": "Rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﻗُودٌ ﺳَﺎﺋِلٌ": {
+    "source": "وَﻗُودٌ ﺳَﺎﺋِلٌ",
+    "target": "Liquid fuel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﻗُودٌ ﺻُﻠْبٌ": {
+    "source": "وَﻗُودٌ ﺻُﻠْبٌ",
+    "target": "Solid fuel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗِﺳْمُ اﻷَْﺑْﺣَﺎثِ وَاﻟﺗﱠطْوِﯾرِ": {
+    "source": "ﻗِﺳْمُ اﻷَْﺑْﺣَﺎثِ وَاﻟﺗﱠطْوِﯾرِ",
+    "target": "Research Development Department",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِرَاعٌ رُوﺑُوﺗِﯾﱠﺔٌ": {
+    "source": "دِرَاعٌ رُوﺑُوﺗِﯾﱠﺔٌ",
+    "target": "Robotic arm",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺣَﺎﺳُوبٌ ﻣَرْﻛَزِيﱞ": {
+    "source": "ﺣَﺎﺳُوبٌ ﻣَرْﻛَزِيﱞ",
+    "target": "Central computer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺟْﮭِزَةُ اﻻِﺳْﺗِﺷْﻌَﺎرِ": {
+    "source": "أَﺟْﮭِزَةُ اﻻِﺳْﺗِﺷْﻌَﺎرِ",
+    "target": "Sensors",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﺣْﻠِﯾلُ اﻟْﺑَﯾَﺎﻧَﺎتِ": {
+    "source": "ﺗَﺣْﻠِﯾلُ اﻟْﺑَﯾَﺎﻧَﺎتِ",
+    "target": "Data analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻِﯾَﺎﻧَﺔٌ ﻓَﻧﱢﯾﱠﺔٌ": {
+    "source": "ﺻِﯾَﺎﻧَﺔٌ ﻓَﻧﱢﯾﱠﺔٌ",
+    "target": "Technical maintenance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﻘَﺎﻧَﺔُ اﻟْﻔَﺿَﺎءِ": {
+    "source": "ﺗَﻘَﺎﻧَﺔُ اﻟْﻔَﺿَﺎءِ",
+    "target": "Space technology",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْﻌَﺎﻣِﻠُونَ وَاﻟْﻌَﻣَﻠِﯾﱠﺎتُ": {
+    "source": "اﻟْﻌَﺎﻣِﻠُونَ وَاﻟْﻌَﻣَﻠِﯾﱠﺎتُ",
+    "target": "Personnel and Operations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﮭَﻧْدِسٌ ﻓَﺿَﺎﺋِﻲﱞ": {
+    "source": "ﻣُﮭَﻧْدِسٌ ﻓَﺿَﺎﺋِﻲﱞ",
+    "target": "Aerospace engineer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﯾﱠﺎرٌ": {
+    "source": "طَﯾﱠﺎرٌ",
+    "target": "Pilot",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَﻧﱢﻲﱞ ﺟَوﱢيﱞ": {
+    "source": "ﻓَﻧﱢﻲﱞ ﺟَوﱢيﱞ",
+    "target": "Air technician",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﺷَﻐﱢلُ ﻧِظَﺎمٍ": {
+    "source": "ﻣُﺷَﻐﱢلُ ﻧِظَﺎمٍ",
+    "target": "System operator",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَرِﯾقُ اﻹِْطْﻼَقِ": {
+    "source": "ﻓَرِﯾقُ اﻹِْطْﻼَقِ",
+    "target": "Launch crew",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُرَاﻗِبُ اﻟْﻣَﮭَﺎمﱢ": {
+    "source": "ﻣُرَاﻗِبُ اﻟْﻣَﮭَﺎمﱢ",
+    "target": "Mission controller",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﺋِدُ اﻟْﻣَﮭَﻣﱠﺔِ": {
+    "source": "ﻗَﺎﺋِدُ اﻟْﻣَﮭَﻣﱠﺔِ",
+    "target": "Mission commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَرِﯾقُ اﻹِﻧْﻘَﺎذِ": {
+    "source": "ﻓَرِﯾقُ اﻹِﻧْﻘَﺎذِ",
+    "target": "Rescue team",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ إِطْﻼَقٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ إِطْﻼَقٍ",
+    "target": "Launch operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ اﺳْﺗِﻌَﺎدَةٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ اﺳْﺗِﻌَﺎدَةٍ",
+    "target": "Recovery operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ اِﺧْﺗِﺑَﺎرٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ اِﺧْﺗِﺑَﺎرٍ",
+    "target": "Test operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺑَﺣْثٌ وَﺗَطْوِﯾرٌ": {
+    "source": "ﺑَﺣْثٌ وَﺗَطْوِﯾرٌ",
+    "target": "Research and Development",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَزُ اﻹِْطْﻼَقِ": {
+    "source": "ﻣَرْﻛَزُ اﻹِْطْﻼَقِ",
+    "target": "Launch center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَزُ اﻟْﻣُرَاﻗَﺑَﺔِ": {
+    "source": "ﻣَرْﻛَزُ اﻟْﻣُرَاﻗَﺑَﺔِ",
+    "target": "Monitoring center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﺟَﺎرِبُ ﻣِﺧْﺑَرِﯾﱠﺔٌ": {
+    "source": "ﺗَﺟَﺎرِبُ ﻣِﺧْﺑَرِﯾﱠﺔٌ",
+    "target": "Laboratory experiments",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﺻْطَﻠَﺣَﺎتٌ وَاﺧْﺗِﺻَﺎرَاتٌ": {
+    "source": "ﻣُﺻْطَﻠَﺣَﺎتٌ وَاﺧْﺗِﺻَﺎرَاتٌ",
+    "target": "Common Abbreviations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﻛَﺎﻟَﺔُ اﻟْﻔَﺿَﺎءِ اﻷَﻣِﯾرِﻛِﯾﱠﺔُ": {
+    "source": "وَﻛَﺎﻟَﺔُ اﻟْﻔَﺿَﺎءِ اﻷَﻣِﯾرِﻛِﯾﱠﺔُ",
+    "target": "National Aeronautics and Space Administration",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْوَﻛَﺎﻟَﺔُ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔُ اﻷُورُوﺑِﯾﱠﺔُ": {
+    "source": "اﻟْوَﻛَﺎﻟَﺔُ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔُ اﻷُورُوﺑِﯾﱠﺔُ",
+    "target": "European Space Agency",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْﻣَﺣَطﱠﺔُ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔُ اﻟدﱡوَﻟِﯾﱠﺔُ": {
+    "source": "اﻟْﻣَﺣَطﱠﺔُ اﻟْﻔَﺿَﺎﺋِﯾﱠﺔُ اﻟدﱡوَﻟِﯾﱠﺔُ",
+    "target": "International Space Station",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺧُرُوجٌ ﻓِﻲ اﻟْﻔَﺿَﺎءِ": {
+    "source": "ﺧُرُوجٌ ﻓِﻲ اﻟْﻔَﺿَﺎءِ",
+    "target": "Extra-Vehicular Activity",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَﺣْدِﯾدِ اﻟْﻣَوَاﻗِﻊِ اﻟْﻌَﺎﻟَﻣِﻲﱢ": {
+    "source": "ﻧِظَﺎمُ ﺗَﺣْدِﯾدِ اﻟْﻣَوَاﻗِﻊِ اﻟْﻌَﺎﻟَﻣِﻲﱢ",
+    "target": "Global Positioning System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ذَﻛَﺎءٌ اِﺻْطِﻧَﺎﻋِﻲﱞ": {
+    "source": "ذَﻛَﺎءٌ اِﺻْطِﻧَﺎﻋِﻲﱞ",
+    "target": "Artificial Intelligence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﺣْدَةُ اﻟطﱠﺎﻗَﺔِ اﻟْﮭَﯾْدْرُوﻟِﯾﻛِﯾﱠﺔِ": {
+    "source": "وَﺣْدَةُ اﻟطﱠﺎﻗَﺔِ اﻟْﮭَﯾْدْرُوﻟِﯾﻛِﯾﱠﺔِ",
+    "target": "Hydraulic Power Unit",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِﯾﻧَﺎﻣِﯾﻛِﯾﱠﺎتُ اﻟﺳﱠوَاﺋِلِ اﻟْﺣَﺎﺳُوﺑِﯾﱠﺔُ": {
+    "source": "دِﯾﻧَﺎﻣِﯾﻛِﯾﱠﺎتُ اﻟﺳﱠوَاﺋِلِ اﻟْﺣَﺎﺳُوﺑِﯾﱠﺔُ",
+    "target": "Computational Fluid Dynamics",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟْﻣِﻼَﺣَﺔِ اﻷَْﻗْﻣَﺎرِيﱢ اﻟْﻌَﺎﻟَﻣِﻲﱢ": {
+    "source": "ﻧِظَﺎمُ اﻟْﻣِﻼَﺣَﺔِ اﻷَْﻗْﻣَﺎرِيﱢ اﻟْﻌَﺎﻟَﻣِﻲﱢ",
+    "target": "Global Navigation Satellite System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﻘُوﱠاتُ اﻟْﻣُﺳَﻠﱠﺣَﺔُ": {
+    "source": "اﻟﻘُوﱠاتُ اﻟْﻣُﺳَﻠﱠﺣَﺔُ",
+    "target": "Armed Forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَﯾْشٌ": {
+    "source": "ﺟَﯾْشٌ",
+    "target": "Army",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتٌ ﻣُﺳَﻠﱠﺣَﺔٌ": {
+    "source": "ﻗُوﱠاتٌ ﻣُﺳَﻠﱠﺣَﺔٌ",
+    "target": "Armed forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتٌ ﺑَرﱢﯾﱠﺔٌ": {
+    "source": "ﻗُوﱠاتٌ ﺑَرﱢﯾﱠﺔٌ",
+    "target": "Ground forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتٌ ﺑَﺣْرِﯾﱠﺔٌ": {
+    "source": "ﻗُوﱠاتٌ ﺑَﺣْرِﯾﱠﺔٌ",
+    "target": "Naval forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتٌ ﺟَوﱢﯾﱠﺔٌ": {
+    "source": "ﻗُوﱠاتٌ ﺟَوﱢﯾﱠﺔٌ",
+    "target": "Air forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتٌ ﺧَﺎﺻﱠﺔٌ": {
+    "source": "ﻗُوﱠاتٌ ﺧَﺎﺻﱠﺔٌ",
+    "target": "Special forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟْﻣُﺷَﺎةِ": {
+    "source": "ﻗُوﱠاتُ اﻟْﻣُﺷَﺎةِ",
+    "target": "Infantry forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟْﻣَدْﻓَﻌِﯾﱠﺔِ": {
+    "source": "ﻗُوﱠاتُ اﻟْﻣَدْﻓَﻌِﯾﱠﺔِ",
+    "target": "Artillery forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟدﱢﻓَﺎعِ اﻟْﺟَوﱢيﱢ": {
+    "source": "ﻗُوﱠاتُ اﻟدﱢﻓَﺎعِ اﻟْﺟَوﱢيﱢ",
+    "target": "Air defense forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟدﱠرﱠاﺟَﺎتِ اﻟْﻣُدَرﱠﻋَﺔِ": {
+    "source": "ﻗُوﱠاتُ اﻟدﱠرﱠاﺟَﺎتِ اﻟْﻣُدَرﱠﻋَﺔِ",
+    "target": "Armored forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟْﺑَﺣْرِﯾﱠﺔِ": {
+    "source": "ﻗُوﱠاتُ اﻟْﺑَﺣْرِﯾﱠﺔِ",
+    "target": "Navy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻟْﻣَظَﻼﱠتِ": {
+    "source": "ﻗُوﱠاتُ اﻟْﻣَظَﻼﱠتِ",
+    "target": "Paratroopers",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُوﱠاتُ اﻹِْﺳْﺗِطْﻼَعِ": {
+    "source": "ﻗُوﱠاتُ اﻹِْﺳْﺗِطْﻼَعِ",
+    "target": "Reconnaissance forces",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟرﱡﺗَبُ وَاﻟْﻣَﻧَﺎﺻِبُ": {
+    "source": "اﻟرﱡﺗَبُ وَاﻟْﻣَﻧَﺎﺻِبُ",
+    "target": "Ranks and Positions",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟُﻧْدِيﱞ": {
+    "source": "ﺟُﻧْدِيﱞ",
+    "target": "Soldier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺿَﺎﺑِطٌ": {
+    "source": "ﺿَﺎﺑِطٌ",
+    "target": "Officer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺿَﺎﺑِطُ ﺻَفﱟ": {
+    "source": "ﺿَﺎﺑِطُ ﺻَفﱟ",
+    "target": "Non-commissioned officer",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧَﻘِﯾبٌ": {
+    "source": "ﻧَﻘِﯾبٌ",
+    "target": "Captain",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﻘَدﱢمٌ": {
+    "source": "ﻣُﻘَدﱢمٌ",
+    "target": "Lieutenant Colonel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻘِﯾدٌ": {
+    "source": "ﻋَﻘِﯾدٌ",
+    "target": "Colonel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣِﯾدٌ": {
+    "source": "ﻋَﻣِﯾدٌ",
+    "target": "Brigadier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻟِوَاءٌ": {
+    "source": "ﻟِوَاءٌ",
+    "target": "Major General",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَرِﯾقٌ": {
+    "source": "ﻓَرِﯾقٌ",
+    "target": "General",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻓَرِﯾقٌ أَوﱠلٌ": {
+    "source": "ﻓَرِﯾقٌ أَوﱠلٌ",
+    "target": "Field Marshal",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﺋِدٌ": {
+    "source": "ﻗَﺎﺋِدٌ",
+    "target": "Commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﺋِدُ اﻟْﻔِرْﻗَﺔِ": {
+    "source": "ﻗَﺎﺋِدُ اﻟْﻔِرْﻗَﺔِ",
+    "target": "Division commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﺋِدُ اﻟﺳﱢرْبِ": {
+    "source": "ﻗَﺎﺋِدُ اﻟﺳﱢرْبِ",
+    "target": "Squadron commander",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﺗﱠﺟْﮭِﯾزَاتُ وَاﻟْﻣُﻌَدﱠاتُ": {
+    "source": "اﻟﺗﱠﺟْﮭِﯾزَاتُ وَاﻟْﻣُﻌَدﱠاتُ",
+    "target": "Equipment and Gear",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﻼَحٌ": {
+    "source": "ﺳِﻼَحٌ",
+    "target": "Weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺳْﻠِﺣَﺔٌ ﺛَﻘِﯾﻠَﺔٌ": {
+    "source": "أَﺳْﻠِﺣَﺔٌ ﺛَﻘِﯾﻠَﺔٌ",
+    "target": "Heavy weapons",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺳْﻠِﺣَﺔٌ ﺧَﻔِﯾﻔَﺔٌ": {
+    "source": "أَﺳْﻠِﺣَﺔٌ ﺧَﻔِﯾﻔَﺔٌ",
+    "target": "Light weapons",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺑُﻧْدُﻗِﯾﱠﺔٌ": {
+    "source": "ﺑُﻧْدُﻗِﯾﱠﺔٌ",
+    "target": "Rifle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِﺳْدَسٌ": {
+    "source": "ﻣِﺳْدَسٌ",
+    "target": "Pistol",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَﺷﱠﺎشٌ": {
+    "source": "رَﺷﱠﺎشٌ",
+    "target": "Machine gun",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎذِفُ ﻗَﻧَﺎﺑِلَ": {
+    "source": "ﻗَﺎذِفُ ﻗَﻧَﺎﺑِلَ",
+    "target": "Grenade launcher",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُﻧْﺑُﻠَﺔٌ": {
+    "source": "ﻗُﻧْﺑُﻠَﺔٌ",
+    "target": "Bomb",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﻧَﺎﺑِلُ ﯾَدَوِﯾﱠﺔٌ": {
+    "source": "ﻗَﻧَﺎﺑِلُ ﯾَدَوِﯾﱠﺔٌ",
+    "target": "Hand grenades",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ": {
+    "source": "ﺻَﺎرُوخٌ",
+    "target": "Missile Rocket",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﻣُوَﺟﱠﮫٌ": {
+    "source": "ﺻَﺎرُوخٌ ﻣُوَﺟﱠﮫٌ",
+    "target": "Guided missile",
+    "source_abbr": null,
+    "target_abbr": "GM"
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻌِﯾدُ اﻟْﻣَدَى": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻌِﯾدُ اﻟْﻣَدَى",
+    "target": "Long-range missile",
+    "source_abbr": null,
+    "target_abbr": "LRBM"
+  },
+  "ﺻَﺎرُوخٌ ﺑِﻼَ رَأْسٍ ﻧَوَوِيﱟ": {
+    "source": "ﺻَﺎرُوخٌ ﺑِﻼَ رَأْسٍ ﻧَوَوِيﱟ",
+    "target": "Non-nuclear missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دَﺑﱠﺎﺑَﺔٌ": {
+    "source": "دَﺑﱠﺎﺑَﺔٌ",
+    "target": "Tank",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَﺑَﺔٌ ﻣُدَرﱠﻋَﺔٌ": {
+    "source": "ﻣَرْﻛَﺑَﺔٌ ﻣُدَرﱠﻋَﺔٌ",
+    "target": "Armored vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧَﺎﻗِﻠَﺔُ ﺟُﻧُودٍ": {
+    "source": "ﻧَﺎﻗِﻠَﺔُ ﺟُﻧُودٍ",
+    "target": "Personnel carrier",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِرْوَﺣِﯾﱠﺔٌ ﺣَرْﺑِﯾﱠﺔٌ": {
+    "source": "ﻣِرْوَﺣِﯾﱠﺔٌ ﺣَرْﺑِﯾﱠﺔٌ",
+    "target": "Military helicopter",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "طَﺎﺋِرَةُ ﻗَﺎذِﻓَﺔٌ": {
+    "source": "طَﺎﺋِرَةُ ﻗَﺎذِﻓَﺔٌ",
+    "target": "Bomber aircraft",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻏَوﱠاﺻَﺔٌ": {
+    "source": "ﻏَوﱠاﺻَﺔٌ",
+    "target": "Submarine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳَﻔِﯾﻧَﺔٌ ﺣَرْﺑِﯾﱠﺔٌ": {
+    "source": "ﺳَﻔِﯾﻧَﺔٌ ﺣَرْﺑِﯾﱠﺔٌ",
+    "target": "Warship",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِدْﻓَﻊٌ": {
+    "source": "ﻣِدْﻓَﻊٌ",
+    "target": "Cannon Artillery gun",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ اﻟْﺟَوﱢيﱢ": {
+    "source": "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ اﻟْﺟَوﱢيﱢ",
+    "target": "Air defense system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ": {
+    "source": "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ",
+    "target": "Guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَﺣَﻛﱡمٍ": {
+    "source": "ﻧِظَﺎمُ ﺗَﺣَﻛﱡمٍ",
+    "target": "Control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ إِطْﻼَقٍ": {
+    "source": "ﻧِظَﺎمُ إِطْﻼَقٍ",
+    "target": "Launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِْﺗﱢﺻَﺎﻻَتِ اﻟْﻌَﺳْﻛَرِﯾﱠﺔِ": {
+    "source": "ﻧِظَﺎمُ اﻹِْﺗﱢﺻَﺎﻻَتِ اﻟْﻌَﺳْﻛَرِﯾﱠﺔِ",
+    "target": "Military communication system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺟْﮭِزَةُ ﺗَﺟَﺳﱡسٍ": {
+    "source": "أَﺟْﮭِزَةُ ﺗَﺟَﺳﱡسٍ",
+    "target": "Spy devices",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِرْعٌ": {
+    "source": "دِرْعٌ",
+    "target": "Shield Armor",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺧُوذَةٌ": {
+    "source": "ﺧُوذَةٌ",
+    "target": "Helmet",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺑَدْﻟَﺔٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ": {
+    "source": "ﺑَدْﻟَﺔٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ",
+    "target": "Military uniform",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﺗْرَةٌ ﻣُﺿَﺎدﱠةٌ ﻟِﻠرﱠﺻَﺎصِ": {
+    "source": "ﺳِﺗْرَةٌ ﻣُﺿَﺎدﱠةٌ ﻟِﻠرﱠﺻَﺎصِ",
+    "target": "Bulletproof vest",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﻌَﻣَﻠِﯾﱠﺎتُ وَاﻟْﻣَﮭَﺎمﱡ": {
+    "source": "اﻟﻌَﻣَﻠِﯾﱠﺎتُ وَاﻟْﻣَﮭَﺎمﱡ",
+    "target": "Operations and Missions",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻌْرَﻛَﺔٌ": {
+    "source": "ﻣَﻌْرَﻛَﺔٌ",
+    "target": "Battle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺣَرْبٌ": {
+    "source": "ﺣَرْبٌ",
+    "target": "War",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِزَاعٌ": {
+    "source": "ﻧِزَاعٌ",
+    "target": "Conflict",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ھُﺟُومٌ": {
+    "source": "ھُﺟُومٌ",
+    "target": "Attack",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِﻓَﺎعٌ": {
+    "source": "دِﻓَﺎعٌ",
+    "target": "Defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻏَﺎرَةٌ": {
+    "source": "ﻏَﺎرَةٌ",
+    "target": "Raid",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔٌ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔٌ",
+    "target": "Operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ",
+    "target": "Military operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ إِﻧْﻘَﺎذٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ إِﻧْﻘَﺎذٍ",
+    "target": "Rescue operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ إِﺟْﻼَءٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ إِﺟْﻼَءٍ",
+    "target": "Evacuation operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻋَﻣَﻠِﯾﱠﺔُ اﺳْﺗِطْﻼَعٍ": {
+    "source": "ﻋَﻣَﻠِﯾﱠﺔُ اﺳْﺗِطْﻼَعٍ",
+    "target": "Reconnaissance operation",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﮭِﻣﱠﺔٌ": {
+    "source": "ﻣُﮭِﻣﱠﺔٌ",
+    "target": "Mission",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ھُدْﻧَﺔٌ": {
+    "source": "ھُدْﻧَﺔٌ",
+    "target": "Ceasefire",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧَﺻْرٌ": {
+    "source": "ﻧَﺻْرٌ",
+    "target": "Victory",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ھَزِﯾﻣَﺔٌ": {
+    "source": "ھَزِﯾﻣَﺔٌ",
+    "target": "Defeat",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ھُﺟُومٌ ﺟَوﱢيﱞ": {
+    "source": "ھُﺟُومٌ ﺟَوﱢيﱞ",
+    "target": "Airstrike",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺻْفٌ": {
+    "source": "ﻗَﺻْفٌ",
+    "target": "Bombardment",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِﻓَﺎعٌ ﺟَوﱢيﱞ": {
+    "source": "دِﻓَﺎعٌ ﺟَوﱢيﱞ",
+    "target": "Air defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَدْرِﯾبٌ ﻋَﺳْﻛَرِيﱞ": {
+    "source": "ﺗَدْرِﯾبٌ ﻋَﺳْﻛَرِيﱞ",
+    "target": "Military training",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣُﻧَﺎوَرَةٌ": {
+    "source": "ﻣُﻧَﺎوَرَةٌ",
+    "target": "Maneuver Drill",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﻛْﺗِﯾكٌ": {
+    "source": "ﺗَﻛْﺗِﯾكٌ",
+    "target": "Tactic",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "إِﺳْﺗِرَاﺗِﯾﺟِﯾﱠﺔٌ": {
+    "source": "إِﺳْﺗِرَاﺗِﯾﺟِﯾﱠﺔٌ",
+    "target": "Strategy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَﺑْﮭَﺔٌ": {
+    "source": "ﺟَﺑْﮭَﺔٌ",
+    "target": "Frontline",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَوْﻗِﻊٌ": {
+    "source": "ﻣَوْﻗِﻊٌ",
+    "target": "Position Site",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﻋِدَةٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ": {
+    "source": "ﻗَﺎﻋِدَةٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ",
+    "target": "Military base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَرْﻛَزُ اﻟْﻘِﯾَﺎدَةِ": {
+    "source": "ﻣَرْﻛَزُ اﻟْﻘِﯾَﺎدَةِ",
+    "target": "Command center",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَطَﺎرٌ ﻋَﺳْﻛَرِيﱞ": {
+    "source": "ﻣَطَﺎرٌ ﻋَﺳْﻛَرِيﱞ",
+    "target": "Military airport",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻌْﺳَﻛَرٌ": {
+    "source": "ﻣَﻌْﺳَﻛَرٌ",
+    "target": "Camp",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺣَﺎﺟِزٌ ﻋَﺳْﻛَرِيﱞ": {
+    "source": "ﺣَﺎﺟِزٌ ﻋَﺳْﻛَرِيﱞ",
+    "target": "Military checkpoint",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻻِﺳْﺗِﺧْﺑَﺎرَاتُ وَاﻷَﻣْنُ": {
+    "source": "اﻻِﺳْﺗِﺧْﺑَﺎرَاتُ وَاﻷَﻣْنُ",
+    "target": "Intelligence and Security",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﺳْﺗِﺧْﺑَﺎرَاتٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ": {
+    "source": "اِﺳْﺗِﺧْﺑَﺎرَاتٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ",
+    "target": "Military intelligence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟَﺎﺳُوسٌ": {
+    "source": "ﺟَﺎﺳُوسٌ",
+    "target": "Spy",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﺟَﺳﱡسٌ": {
+    "source": "ﺗَﺟَﺳﱡسٌ",
+    "target": "Espionage",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَﺻْدٌ": {
+    "source": "رَﺻْدٌ",
+    "target": "Surveillance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﺣْﻠِﯾلُ اﻟْﻣَﻌْﻠُوﻣَﺎتِ": {
+    "source": "ﺗَﺣْﻠِﯾلُ اﻟْﻣَﻌْﻠُوﻣَﺎتِ",
+    "target": "Information analysis",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﻧْﺻِﯾتٌ": {
+    "source": "ﺗَﻧْﺻِﯾتٌ",
+    "target": "Wiretapping",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَﺷْﻔِﯾرٌ": {
+    "source": "ﺗَﺷْﻔِﯾرٌ",
+    "target": "Encryption",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻠَفﱞ أَﻣْﻧِﻲﱞ": {
+    "source": "ﻣَﻠَفﱞ أَﻣْﻧِﻲﱞ",
+    "target": "Security file",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﺧَﺎطِرُ أَﻣْﻧِﯾﱠﺔٌ": {
+    "source": "ﻣَﺧَﺎطِرُ أَﻣْﻧِﯾﱠﺔٌ",
+    "target": "Security threats",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺳْﻠِﺣَﺔٌ وَأَﻧْظِﻣَﺔٌ ﻣُﺗَﻘَدﱢﻣَﺔٌ": {
+    "source": "أَﺳْﻠِﺣَﺔٌ وَأَﻧْظِﻣَﺔٌ ﻣُﺗَﻘَدﱢﻣَﺔٌ",
+    "target": "Advanced Weapons and Systems",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ",
+    "target": "Ballistic missile",
+    "source_abbr": null,
+    "target_abbr": "BM"
+  },
+  "ﺻَﺎرُوخٌ ﻓَوْقَ ﺻَوْﺗِﻲﱟ": {
+    "source": "ﺻَﺎرُوخٌ ﻓَوْقَ ﺻَوْﺗِﻲﱟ",
+    "target": "Hypersonic Cruise Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﻼَحٌ ﻧَوَوِيﱞ": {
+    "source": "ﺳِﻼَحٌ ﻧَوَوِيﱞ",
+    "target": "Nuclear weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﻼَحٌ ﻛِﯾﻣْﯾَﺎﺋِﻲﱞ": {
+    "source": "ﺳِﻼَحٌ ﻛِﯾﻣْﯾَﺎﺋِﻲﱞ",
+    "target": "Chemical weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﻼَحٌ ﺑَﯾُوﻟُوﺟِﻲﱞ": {
+    "source": "ﺳِﻼَحٌ ﺑَﯾُوﻟُوﺟِﻲﱞ",
+    "target": "Biological weapon",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ اﻟﺻﱠﺎرُوﺧِﻲﱢ": {
+    "source": "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ اﻟﺻﱠﺎرُوﺧِﻲﱢ",
+    "target": "Missile defense system",
+    "source_abbr": null,
+    "target_abbr": "MDS"
+  },
+  "ﻧِظَﺎمُ إِطْﻼَقٍ ذَاﺗِﻲﱟ": {
+    "source": "ﻧِظَﺎمُ إِطْﻼَقٍ ذَاﺗِﻲﱟ",
+    "target": "Automatic launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَﻌَﻘﱡبٍ": {
+    "source": "ﻧِظَﺎمُ ﺗَﻌَﻘﱡبٍ",
+    "target": "Tracking system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠﺣَﻛﱡمِ ﻋَن ﺑُﻌْدٍ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠﺣَﻛﱡمِ ﻋَن ﺑُﻌْدٍ",
+    "target": "Remote control system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠﻌَرﱡفِ ﻋَﻠَﻰ اﻟْﮭَدَفِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠﻌَرﱡفِ ﻋَﻠَﻰ اﻟْﮭَدَفِ",
+    "target": "Target identification system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﺧْﺗِﺻَﺎرَاتٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ": {
+    "source": "اِﺧْﺗِﺻَﺎرَاتٌ ﻋَﺳْﻛَرِﯾﱠﺔٌ",
+    "target": "Military Abbreviations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺣِﻠْفُ ﺷَﻣَﺎلِ اﻷَطْﻠَﺳِﻲﱢ": {
+    "source": "ﺣِﻠْفُ ﺷَﻣَﺎلِ اﻷَطْﻠَﺳِﻲﱢ",
+    "target": "North Atlantic Treaty Organization",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻷُﻣَمُ اﻟْﻣُﺗﱠﺣِدَةُ": {
+    "source": "اﻷُﻣَمُ اﻟْﻣُﺗﱠﺣِدَةُ",
+    "target": "United Nations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺳِﻼَحُ اﻟْﺟَوﱢ اﻷَﻣِﯾرِﻛِﻲﱡ": {
+    "source": "ﺳِﻼَحُ اﻟْﺟَوﱢ اﻷَﻣِﯾرِﻛِﻲﱡ",
+    "target": "United States Air Force",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﺑَﯾْنَ اﻟْﻘَﺎرﱠاتِ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﺑَﯾْنَ اﻟْﻘَﺎرﱠاتِ",
+    "target": "Intercontinental Ballistic Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ أَرْضٌ-ﺟَوﱟ": {
+    "source": "ﺻَﺎرُوخٌ أَرْضٌ-ﺟَوﱟ",
+    "target": "Surface-to-Air Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﻣُوَﺟﱠﮫٌ ﻣُﺿَﺎدﱞ ﻟِﻠدﱠﺑﱠﺎﺑَﺎتِ": {
+    "source": "ﺻَﺎرُوخٌ ﻣُوَﺟﱠﮫٌ ﻣُﺿَﺎدﱞ ﻟِﻠدﱠﺑﱠﺎﺑَﺎتِ",
+    "target": "Anti-Tank Guided Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎذِفُ ﻗَﻧَﺎﺑِلَ ﺻَﺎرُوﺧِﻲﱞ": {
+    "source": "ﻗَﺎذِفُ ﻗَﻧَﺎﺑِلَ ﺻَﺎرُوﺧِﻲﱞ",
+    "target": "Rocket-Propelled Grenade",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْﻘِﯾَﺎدَةُ اﻟْﻌَﺎﻣﱠﺔُ": {
+    "source": "اﻟْﻘِﯾَﺎدَةُ اﻟْﻌَﺎﻣﱠﺔُ",
+    "target": "Headquarters",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﻋِدَةٌ ﻣُﺗَﻘَدﱢﻣَﺔٌ": {
+    "source": "ﻗَﺎﻋِدَةٌ ﻣُﺗَﻘَدﱢﻣَﺔٌ",
+    "target": "Forward Operating Base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻧْطِﻘَﺔُ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ": {
+    "source": "ﻣَﻧْطِﻘَﺔُ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ",
+    "target": "Area of Operations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟْوَﻗْتُ اﻟْﻣُﻘَدﱠرُ ﻟِﻠوُﺻُولِ": {
+    "source": "اﻟْوَﻗْتُ اﻟْﻣُﻘَدﱠرُ ﻟِﻠوُﺻُولِ",
+    "target": "Estimated Time of Arrival",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دَﻋْمٌ ﺟَوﱢيﱞ ﻗَرِﯾبٌ": {
+    "source": "دَﻋْمٌ ﺟَوﱢيﱞ ﻗَرِﯾبٌ",
+    "target": "Close Air Support",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَوَاﻋِدُ اﻻﺷْﺗِﺑَﺎكِ": {
+    "source": "ﻗَوَاﻋِدُ اﻻﺷْﺗِﺑَﺎكِ",
+    "target": "Rules of Engagement",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﺳِﯾرُ ﺣَرْبٍ": {
+    "source": "أَﺳِﯾرُ ﺣَرْبٍ",
+    "target": "Prisoner of War",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﻔْﻘُودٌ ﻓِﻲ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ": {
+    "source": "ﻣَﻔْﻘُودٌ ﻓِﻲ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ",
+    "target": "Missing in Action",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗُﺗِلَ ﻓِﻲ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ": {
+    "source": "ﻗُﺗِلَ ﻓِﻲ اﻟْﻌَﻣَﻠِﯾﱠﺎتِ",
+    "target": "Killed in Action",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻟﺻﱠوَارِﯾﺦُ وَاﻷَْﻧْظِﻣَﺔُ اﻟﺻﱠﺎرُوﺧِﯾﱠﺔُ": {
+    "source": "اﻟﺻﱠوَارِﯾﺦُ وَاﻷَْﻧْظِﻣَﺔُ اﻟﺻﱠﺎرُوﺧِﯾﱠﺔُ",
+    "target": "Rockets and Missile Systems",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺗَﻛْﺗِﯾﻛِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺗَﻛْﺗِﯾﻛِﻲﱞ",
+    "target": "Tactical missile",
+    "source_abbr": null,
+    "target_abbr": "TM"
+  },
+  "ﺻَﺎرُوخٌ ﻗَﺻِﯾرُ اﻟْﻣَدَى": {
+    "source": "ﺻَﺎرُوخٌ ﻗَﺻِﯾرُ اﻟْﻣَدَى",
+    "target": "Short-range missile",
+    "source_abbr": null,
+    "target_abbr": "SRBM"
+  },
+  "ﺻَﺎرُوخٌ ﻣُﺗَوَﺳﱢطُ اﻟْﻣَدَى": {
+    "source": "ﺻَﺎرُوخٌ ﻣُﺗَوَﺳﱢطُ اﻟْﻣَدَى",
+    "target": "Medium-range missile",
+    "source_abbr": null,
+    "target_abbr": "MRBM"
+  },
+  "ﺻَﺎرُوخٌ ﻛَرُوزِيﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﻛَرُوزِيﱞ",
+    "target": "Cruise missile",
+    "source_abbr": null,
+    "target_abbr": "CM"
+  },
+  "ﺻَﺎرُوخٌ ﻏَﯾْرُ ﻣُوَﺟﱠﮫٍ": {
+    "source": "ﺻَﺎرُوخٌ ﻏَﯾْرُ ﻣُوَﺟﱠﮫٍ",
+    "target": "Unguided missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺟَوﱞ-أَرْضٍ": {
+    "source": "ﺻَﺎرُوخٌ ﺟَوﱞ-أَرْضٍ",
+    "target": "Air-to-Ground Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﺣْرٌ-ﺑَﺣْرٍ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﺣْرٌ-ﺑَﺣْرٍ",
+    "target": "Ship-to-Ship Missile",
+    "source_abbr": null,
+    "target_abbr": "SSM"
+  },
+  "ﺻَﺎرُوخٌ ﺑَﺣْرٌ-ﺟَوﱟ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﺣْرٌ-ﺟَوﱟ",
+    "target": "Ship-to-Air Missile",
+    "source_abbr": null,
+    "target_abbr": "SAM-N"
+  },
+  "ﺻَﺎرُوخٌ أَرْضٌ-أَرْضٍ": {
+    "source": "ﺻَﺎرُوخٌ أَرْضٌ-أَرْضٍ",
+    "target": "Surface-to-Surface Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﻣُﺿَﺎدﱞ ﻟِﻠدﱠﺑﱠﺎﺑَﺎتِ": {
+    "source": "ﺻَﺎرُوخٌ ﻣُﺿَﺎدﱞ ﻟِﻠدﱠﺑﱠﺎﺑَﺎتِ",
+    "target": "Anti-tank missile",
+    "source_abbr": null,
+    "target_abbr": "ATGM"
+  },
+  "ﺻَﺎرُوخٌ ﻣُﺿَﺎدﱞ ﻟِﻠﺳﱡﻔُنِ": {
+    "source": "ﺻَﺎرُوخٌ ﻣُﺿَﺎدﱞ ﻟِﻠﺳﱡﻔُنِ",
+    "target": "Anti-ship missile",
+    "source_abbr": null,
+    "target_abbr": "ASM"
+  },
+  "ﺻَﺎرُوخٌ ﻧَوَوِيﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﻧَوَوِيﱞ",
+    "target": "Nuclear missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺗَﺟْرِﯾﺑِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺗَﺟْرِﯾﺑِﻲﱞ",
+    "target": "Test missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺗَدْرِﯾﺑِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺗَدْرِﯾﺑِﻲﱞ",
+    "target": "Training missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ إِﺳْﺗِطْﻼَﻋِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ إِﺳْﺗِطْﻼَﻋِﻲﱞ",
+    "target": "Reconnaissance missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ دِﻓَﺎﻋِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ دِﻓَﺎﻋِﻲﱞ",
+    "target": "Defensive missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ھُﺟُوﻣِﻲﱞ": {
+    "source": "ﺻَﺎرُوخٌ ھُﺟُوﻣِﻲﱞ",
+    "target": "Offensive missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﺣْرِيﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﺣْرِيﱞ",
+    "target": "Naval missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَرﱢيﱞ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَرﱢيﱞ",
+    "target": "Ground-launched missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﻣُﻧْطَﻠِقٌ ﻣِنْ ﻏَوﱠاﺻَﺔٍ": {
+    "source": "ﺻَﺎرُوخٌ ﻣُﻧْطَﻠِقٌ ﻣِنْ ﻏَوﱠاﺻَﺔٍ",
+    "target": "Submarine-launched missile",
+    "source_abbr": null,
+    "target_abbr": "SLBM"
+  },
+  "أَﺟْزَاءُ اﻟﺻﱠﺎرُوخِ": {
+    "source": "أَﺟْزَاءُ اﻟﺻﱠﺎرُوخِ",
+    "target": "Parts of a Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَأْسٌ ﺣَرْﺑِﻲﱞ": {
+    "source": "رَأْسٌ ﺣَرْﺑِﻲﱞ",
+    "target": "Warhead",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَأْسٌ ﻧَوَوِيﱞ": {
+    "source": "رَأْسٌ ﻧَوَوِيﱞ",
+    "target": "Nuclear warhead",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "رَأْسٌ ﺗَﻔْﺟِﯾرِيﱞ": {
+    "source": "رَأْسٌ ﺗَﻔْﺟِﯾرِيﱞ",
+    "target": "Explosive head",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﺣْرِكٌ ﺻَﺎرُوﺧِﻲﱞ": {
+    "source": "ﻣَﺣْرِكٌ ﺻَﺎرُوﺧِﻲﱞ",
+    "target": "Rocket engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﺣْرِكٌ ﻧَﻔﱠﺎثٌ": {
+    "source": "ﻣَﺣْرِكٌ ﻧَﻔﱠﺎثٌ",
+    "target": "Jet engine",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣَﺣْرِكٌ ذُرﱢيﱞ": {
+    "source": "ﻣَﺣْرِكٌ ذُرﱢيﱞ",
+    "target": "Nuclear propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "وَﻗُودٌ ﺻَﻠْبٌ": {
+    "source": "وَﻗُودٌ ﺻَﻠْبٌ",
+    "target": "Solid fuel",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺟِﺳْمُ اﻟﺻﱠﺎرُوخِ": {
+    "source": "ﺟِﺳْمُ اﻟﺻﱠﺎرُوخِ",
+    "target": "Missile body",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "زَﻋَﺎﻧِفُ اﻟﺗﱠوَازُنِ": {
+    "source": "زَﻋَﺎﻧِفُ اﻟﺗﱠوَازُنِ",
+    "target": "Stabilizing fins",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟدﱠﻓْﻊِ": {
+    "source": "ﻧِظَﺎمُ اﻟدﱠﻓْﻊِ",
+    "target": "Propulsion system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠﻌَﻘﱡبِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠﻌَﻘﱡبِ",
+    "target": "Tracking system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِطْﻼَقِ": {
+    "source": "ﻧِظَﺎمُ اﻹِطْﻼَقِ",
+    "target": "Launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟْﻣِﻼَﺣَﺔِ": {
+    "source": "ﻧِظَﺎمُ اﻟْﻣِﻼَﺣَﺔِ",
+    "target": "Navigation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِﺷْﻌَﺎعِ": {
+    "source": "ﻧِظَﺎمُ اﻹِﺷْﻌَﺎعِ",
+    "target": "Radar Radiation system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اﻹِطْﻼَقُ وَاﻟﺗﱠوْﺟِﯾﮫُ": {
+    "source": "اﻹِطْﻼَقُ وَاﻟﺗﱠوْﺟِﯾﮫُ",
+    "target": "Launch Guidance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِﺧْﻠَﻊُ إِطْﻼَقٍ": {
+    "source": "ﻣِﺧْﻠَﻊُ إِطْﻼَقٍ",
+    "target": "Launch pad",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻗَﺎﻋِدَةُ إِطْﻼَقٍ": {
+    "source": "ﻗَﺎﻋِدَةُ إِطْﻼَقٍ",
+    "target": "Launch base",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻣِرْﻛَﺑَﺔُ إِطْﻼَقٍ": {
+    "source": "ﻣِرْﻛَﺑَﺔُ إِطْﻼَقٍ",
+    "target": "Launch vehicle",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "إِطْﻼَقٌ أُﻓُﻘِﻲﱞ": {
+    "source": "إِطْﻼَقٌ أُﻓُﻘِﻲﱞ",
+    "target": "Horizontal launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "إِطْﻼَقٌ ﻋَﻣُودِيﱞ": {
+    "source": "إِطْﻼَقٌ ﻋَﻣُودِيﱞ",
+    "target": "Vertical launch",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ إِطْﻼَقٍ ﻣِنَ اﻟﺳﱡﻔُنِ": {
+    "source": "ﻧِظَﺎمُ إِطْﻼَقٍ ﻣِنَ اﻟﺳﱡﻔُنِ",
+    "target": "Ship-based launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ إِطْﻼَقٍ ﻣُﺗَﻧَﻘﱢلٍ": {
+    "source": "ﻧِظَﺎمُ إِطْﻼَقٍ ﻣُﺗَﻧَﻘﱢلٍ",
+    "target": "Mobile launch system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻟرﱠادَارِ": {
+    "source": "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻟرﱠادَارِ",
+    "target": "Radar guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻟﻠﱠﯾْزَرِ": {
+    "source": "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻟﻠﱠﯾْزَرِ",
+    "target": "Laser guidance system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻷَْﻗْﻣَﺎرِ": {
+    "source": "ﻧِظَﺎمُ ﺗَوْﺟِﯾﮫٍ ﺑِﺎﻷَْﻗْﻣَﺎرِ",
+    "target": "Satellite guidance system",
+    "source_abbr": null,
+    "target_abbr": "GPS"
+  },
+  "ﺗَوْﺟِﯾﮫٌ ﺳِﻠْﺳِﻠِﻲﱞ": {
+    "source": "ﺗَوْﺟِﯾﮫٌ ﺳِﻠْﺳِﻠِﻲﱞ",
+    "target": "Inertial guidance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَوْﺟِﯾﮫٌ ﻧَﺷِطٌ": {
+    "source": "ﺗَوْﺟِﯾﮫٌ ﻧَﺷِطٌ",
+    "target": "Active guidance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَوْﺟِﯾﮫٌ ﺳَﻠْﺑِﻲﱞ": {
+    "source": "ﺗَوْﺟِﯾﮫٌ ﺳَﻠْﺑِﻲﱞ",
+    "target": "Passive guidance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺗَوْﺟِﯾﮫٌ ﻧِﺻْفُ ﻧَﺷِطٍ": {
+    "source": "ﺗَوْﺟِﯾﮫٌ ﻧِﺻْفُ ﻧَﺷِطٍ",
+    "target": "Semi-active guidance",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "أَﻧْظِﻣَﺔُ اﻟدﱢﻓَﺎعِ وَاﻟرﱠدْعِ": {
+    "source": "أَﻧْظِﻣَﺔُ اﻟدﱢﻓَﺎعِ وَاﻟرﱠدْعِ",
+    "target": "Defense and Deterrence Systems",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِرْعٌ ﺻَﺎرُوﺧِﻲﱞ": {
+    "source": "دِرْعٌ ﺻَﺎرُوﺧِﻲﱞ",
+    "target": "Missile shield",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ إِﻋَﺎدَةِ اﻻِﺳْﺗِﮭْدَافِ": {
+    "source": "ﻧِظَﺎمُ إِﻋَﺎدَةِ اﻻِﺳْﺗِﮭْدَافِ",
+    "target": "Retargeting system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻻِﺳْﺗِﺷْﻌَﺎرِ اﻟْﻣُﺑَﻛﱢرِ": {
+    "source": "ﻧِظَﺎمُ اﻻِﺳْﺗِﺷْﻌَﺎرِ اﻟْﻣُﺑَﻛﱢرِ",
+    "target": "Early warning system",
+    "source_abbr": null,
+    "target_abbr": "EWS"
+  },
+  "ﻧِظَﺎمُ اﻟﺗﱠرْﺻﱡدِ وَاﻟرﱠﺻْدِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺗﱠرْﺻﱡدِ وَاﻟرﱠﺻْدِ",
+    "target": "Surveillance and tracking system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟرﱠدْعِ": {
+    "source": "ﻧِظَﺎمُ اﻟرﱠدْعِ",
+    "target": "Deterrence system",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟﺣِﻣَﺎﯾَﺔِ اﻟﻧﱠﺷِطَﺔِ": {
+    "source": "ﻧِظَﺎمُ اﻟﺣِﻣَﺎﯾَﺔِ اﻟﻧﱠﺷِطَﺔِ",
+    "target": "Active Protection System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "دِرَاﻋَﺔٌ إِﺳْﺗِرَاﺗِﯾﺟِﯾﱠﺔٌ": {
+    "source": "دِرَاﻋَﺔٌ إِﺳْﺗِرَاﺗِﯾﺟِﯾﱠﺔٌ",
+    "target": "Strategic deterrence",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "اِﺧْﺗِﺻَﺎرَاتٌ": {
+    "source": "اِﺧْﺗِﺻَﺎرَاتٌ",
+    "target": "Common Abbreviations",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﯾُطْﻠَقُ ﻣِنَ اﻟْﻐَوﱠاﺻَﺎتِ": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﯾُطْﻠَقُ ﻣِنَ اﻟْﻐَوﱠاﺻَﺎتِ",
+    "target": "Submarine-Launched Ballistic Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﻣُﺗَوَﺳﱢطُ اﻟْﻣَدَى": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﻣُﺗَوَﺳﱢطُ اﻟْﻣَدَى",
+    "target": "Medium-Range Ballistic Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﻗَﺻِﯾرُ اﻟْﻣَدَى": {
+    "source": "ﺻَﺎرُوخٌ ﺑَﻠِﯾﺳْﺗِﻲﱞ ﻗَﺻِﯾرُ اﻟْﻣَدَى",
+    "target": "Short-Range Ballistic Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﺟَوﱞ-ﺟَوﱟ": {
+    "source": "ﺻَﺎرُوخٌ ﺟَوﱞ-ﺟَوﱟ",
+    "target": "Air-to-Air Missile",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ ﺿِدﱠ اﻟﺻﱠوَارِﯾﺦِ": {
+    "source": "ﻧِظَﺎمُ اﻟدﱢﻓَﺎعِ ﺿِدﱠ اﻟﺻﱠوَارِﯾﺦِ",
+    "target": "Ballistic Missile Defense",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ ﺗَﺣْدِﯾدِ اﻟْﻣَوَاﻗِﻊِ": {
+    "source": "ﻧِظَﺎمُ ﺗَﺣْدِﯾدِ اﻟْﻣَوَاﻗِﻊِ",
+    "target": "Global Positioning System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﻧِظَﺎمُ اﻹِﻧْذَارِ اﻟْﻣُﺑَﻛﱢرِ": {
+    "source": "ﻧِظَﺎمُ اﻹِﻧْذَارِ اﻟْﻣُﺑَﻛﱢرِ",
+    "target": "Early Warning System",
+    "source_abbr": null,
+    "target_abbr": null
+  },
+  "ﺻَﺎرُوخٌ ﯾُطْﻠَقُ ﻣِنَ اﻟْﻐَوﱠاﺻَﺔِ": {
+    "source": "ﺻَﺎرُوخٌ ﯾُطْﻠَقُ ﻣِنَ اﻟْﻐَوﱠاﺻَﺔِ",
+    "target": "Underwater-launched missile",
+    "source_abbr": null,
+    "target_abbr": null
+  }
+}
