@@ -76,3 +76,4 @@ def debug_arabic_pdf():
 if __name__ == "__main__":
     debug_arabic_pdf()
 
+

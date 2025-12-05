@@ -1,0 +1,73 @@
+{
+  "elements": {
+    "H": "Hydrogen",
+    "He": "Helium",
+    "Li": "Lithium",
+    "Be": "Beryllium",
+    "B": "Boron",
+    "C": "Carbon",
+    "N": "Nitrogen",
+    "O": "Oxygen",
+    "F": "Fluorine",
+    "Ne": "Neon",
+    "Na": "Sodium",
+    "Mg": "Magnesium",
+    "Al": "Aluminum",
+    "Si": "Silicon",
+    "P": "Phosphorus",
+    "S": "Sulfur",
+    "Cl": "Chlorine",
+    "Ar": "Argon",
+    "K": "Potassium",
+    "Ca": "Calcium",
+    "Fe": "Iron",
+    "Cu": "Copper",
+    "Zn": "Zinc",
+    "Br": "Bromine",
+    "I": "Iodine"
+  },
+  "common_compounds": {
+    "H2O": "Water",
+    "CO2": "Carbon dioxide",
+    "CO": "Carbon monoxide",
+    "NH3": "Ammonia",
+    "CH4": "Methane",
+    "C2H6": "Ethane",
+    "C3H8": "Propane",
+    "N2O": "Nitrous oxide",
+    "N2O4": "Dinitrogen tetroxide",
+    "NO2": "Nitrogen dioxide",
+    "SO2": "Sulfur dioxide",
+    "H2SO4": "Sulfuric acid",
+    "HNO3": "Nitric acid",
+    "HCl": "Hydrochloric acid",
+    "NaOH": "Sodium hydroxide",
+    "CaCO3": "Calcium carbonate",
+    "NaCl": "Sodium chloride"
+  },
+  "rocket_fuels": {
+    "RP-1": "Rocket Propellant-1",
+    "LOX": "Liquid Oxygen",
+    "LH2": "Liquid Hydrogen",
+    "CH4": "Methane",
+    "MMH": "Monomethylhydrazine",
+    "UDMH": "Unsymmetrical dimethylhydrazine",
+    "N2O4": "Dinitrogen tetroxide",
+    "N2H4": "Hydrazine",
+    "H2O2": "Hydrogen peroxide"
+  },
+  "fuel_combinations": {
+    "RP-1/LOX": "RP-1 and Liquid Oxygen",
+    "LH2/LOX": "Liquid Hydrogen and Liquid Oxygen",
+    "CH4/LOX": "Methane and Liquid Oxygen",
+    "MMH/N2O4": "Monomethylhydrazine and Dinitrogen tetroxide",
+    "UDMH/N2O4": "Unsymmetrical dimethylhydrazine and Dinitrogen tetroxide",
+    "N2H4/N2O4": "Hydrazine and Dinitrogen tetroxide"
+  },
+  "patterns": {
+    "element_with_number": "^([A-Z][a-z]?)(\\d+)$",
+    "compound_pattern": "^([A-Z][a-z]?\\d*)+$",
+    "fuel_pattern": "^([A-Z][A-Z]?\\d*|RP-\\d+)/LOX$"
+  }
+}
+

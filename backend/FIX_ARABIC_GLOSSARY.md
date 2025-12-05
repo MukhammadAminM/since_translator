@@ -88,3 +88,4 @@ python test_arabic_pdf.py
 4. Пересобрать глоссарий
 
 
+

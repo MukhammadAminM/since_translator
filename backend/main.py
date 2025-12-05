@@ -5,8 +5,14 @@ from pydantic import BaseModel
 from typing import Literal
 import os
 import tempfile
+import traceback
+import logging
 from pathlib import Path
 from dotenv import load_dotenv
+
+# Настройка логирования
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # Загружаем переменные окружения из .env файла
 load_dotenv()
@@ -104,6 +110,13 @@ async def translate_file(
     Переводит содержимое файла на английский и возвращает ссылку на .docx файл
     """
     try:
+        logger.info(f"Получен запрос на перевод файла: {file.filename}, тип: {file.content_type}, язык: {sourceLang}, модель: {model}")
+        
+        # Проверяем наличие имени файла
+        if not file.filename:
+            logger.warning("Файл без имени")
+            raise HTTPException(status_code=400, detail="Имя файла не указано")
+        
         # Проверяем тип файла
         allowed_types = [
             "application/pdf",
@@ -112,43 +125,94 @@ async def translate_file(
             "text/plain"
         ]
         
-        if file.content_type not in allowed_types:
+        # Также проверяем расширение файла, если content_type не определен
+        file_ext = Path(file.filename).suffix.lower()
+        allowed_extensions = [".pdf", ".doc", ".docx", ".txt"]
+        
+        if file.content_type not in allowed_types and file_ext not in allowed_extensions:
+            logger.warning(f"Неподдерживаемый тип файла: {file.content_type}, расширение: {file_ext}")
             raise HTTPException(
                 status_code=400,
-                detail="Неподдерживаемый тип файла. Разрешены: PDF, DOC, DOCX, TXT"
+                detail=f"Неподдерживаемый тип файла. Разрешены: PDF, DOC, DOCX, TXT. Получен: {file.content_type or file_ext}"
             )
 
         # Сохраняем загруженный файл
         file_path = UPLOAD_DIR / file.filename
-        with open(file_path, "wb") as f:
-            content = await file.read()
-            f.write(content)
+        try:
+            with open(file_path, "wb") as f:
+                content = await file.read()
+                if not content:
+                    raise HTTPException(status_code=400, detail="Файл пустой")
+                f.write(content)
+            logger.info(f"Файл сохранен: {file_path}, размер: {len(content)} байт")
+        except Exception as e:
+            logger.error(f"Ошибка при сохранении файла: {str(e)}")
+            raise HTTPException(status_code=400, detail=f"Ошибка при сохранении файла: {str(e)}")
 
         # Извлекаем текст из файла
-        extracted_text = await translator_service.extract_text_from_file(str(file_path))
+        try:
+            extracted_text = await translator_service.extract_text_from_file(
+                str(file_path),
+                source_lang=sourceLang  # Передаем язык для OCR
+            )
+            logger.info(f"Текст извлечен, длина: {len(extracted_text)} символов")
+        except Exception as e:
+            logger.error(f"Ошибка при извлечении текста: {str(e)}")
+            logger.error(traceback.format_exc())
+            if file_path.exists():
+                file_path.unlink()
+            raise HTTPException(status_code=400, detail=f"Не удалось извлечь текст из файла: {str(e)}")
         
-        if not extracted_text.strip():
-            raise HTTPException(status_code=400, detail="Не удалось извлечь текст из файла")
+        if not extracted_text or not extracted_text.strip():
+            logger.warning("Извлеченный текст пустой")
+            if file_path.exists():
+                file_path.unlink()
+            raise HTTPException(status_code=400, detail="Не удалось извлечь текст из файла (текст пустой)")
 
         # Переводим текст
-        translated_text = await translator_service.translate(
-            text=extracted_text,
-            source_lang=sourceLang,
-            target_lang="en",
-            model=model
-        )
+        try:
+            translated_text = await translator_service.translate(
+                text=extracted_text,
+                source_lang=sourceLang,
+                target_lang="en",
+                model=model
+            )
+            logger.info(f"Текст переведен, длина: {len(translated_text)} символов")
+        except Exception as e:
+            logger.error(f"Ошибка при переводе: {str(e)}")
+            logger.error(traceback.format_exc())
+            if file_path.exists():
+                file_path.unlink()
+            raise HTTPException(status_code=500, detail=f"Ошибка при переводе: {str(e)}")
 
         # Генерируем .docx файл
-        output_filename = docx_generator.create_docx(
-            translated_text=translated_text,
-            source_lang=sourceLang,
-            model=model,
-            original_filename=file.filename,
-            original_text=extracted_text  # Передаем оригинальный текст для сохранения структуры
-        )
+        try:
+            # Получаем информацию об изображениях страниц (если есть)
+            page_images = getattr(translator_service, '_page_images', {})
+            
+            output_filename = docx_generator.create_docx(
+                translated_text=translated_text,
+                source_lang=sourceLang,
+                model=model,
+                original_filename=file.filename,
+                original_text=extracted_text,  # Передаем оригинальный текст для сохранения структуры
+                page_images=page_images  # Передаем изображения страниц для вставки
+            )
+            logger.info(f"DOCX файл создан: {output_filename}")
+        except Exception as e:
+            logger.error(f"Ошибка при создании DOCX: {str(e)}")
+            logger.error(traceback.format_exc())
+            if file_path.exists():
+                file_path.unlink()
+            raise HTTPException(status_code=500, detail=f"Ошибка при создании DOCX файла: {str(e)}")
 
         # Удаляем временный загруженный файл
-        file_path.unlink()
+        try:
+            if file_path.exists():
+                file_path.unlink()
+                logger.info(f"Временный файл удален: {file_path}")
+        except Exception as e:
+            logger.warning(f"Не удалось удалить временный файл: {str(e)}")
 
         # Возвращаем URL для скачивания
         download_url = f"/api/download/{output_filename}"
@@ -161,6 +225,8 @@ async def translate_file(
     except HTTPException:
         raise
     except Exception as e:
+        logger.error(f"Неожиданная ошибка: {str(e)}")
+        logger.error(traceback.format_exc())
         raise HTTPException(status_code=500, detail=f"Ошибка при переводе файла: {str(e)}")
 
 

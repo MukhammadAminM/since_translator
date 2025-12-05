@@ -126,3 +126,4 @@ Launch vehicle with universal rocket module URM-1 launched into orbit.
 Термины "Ракета-носитель", "Универсальный ракетный модуль" и "УРМ-1" будут переведены точно согласно глоссарию.
 
 
+

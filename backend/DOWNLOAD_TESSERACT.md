@@ -75,3 +75,4 @@ Remove-Item "$env:TEMP\tesseract-installer.exe"
 - **GitHub Releases**: https://github.com/UB-Mannheim/tesseract/releases
 
 
+
