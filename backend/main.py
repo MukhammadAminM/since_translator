@@ -1,6 +1,6 @@
-from fastapi import FastAPI, File, UploadFile, Form, HTTPException
+from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, Response
 from pydantic import BaseModel
 from typing import Literal
 import os
@@ -9,6 +9,7 @@ import traceback
 import logging
 from pathlib import Path
 from dotenv import load_dotenv
+from starlette.middleware.base import BaseHTTPMiddleware
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
@@ -23,13 +24,64 @@ from services.docx_generator import DocxGenerator
 app = FastAPI(title="Since Translator API", version="0.1.0")
 
 # CORS настройки для работы с frontend
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000", "http://127.0.0.1:5173", "http://89.110.95.15:5173"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+# Добавляем все возможные origins для разработки
+cors_origins = [
+    "http://localhost:5173", 
+    "http://localhost:3000", 
+    "http://127.0.0.1:5173", 
+    "http://89.110.95.15:5173",
+    "http://89.110.95.15:5174",  # Добавлен порт 5174
+    "https://89.110.95.15:5174",  # HTTPS вариант
+]
+
+# Middleware для обработки CORS (включая ngrok)
+# Этот middleware должен быть ПЕРЕД CORSMiddleware
+@app.middleware("http")
+async def cors_middleware(request: Request, call_next):
+    """
+    Обрабатывает CORS заголовки, включая поддержку ngrok и любых origins
+    """
+    # Обрабатываем preflight запросы (OPTIONS)
+    if request.method == "OPTIONS":
+        origin = request.headers.get("origin")
+        response = Response()
+        if origin:
+            response.headers["Access-Control-Allow-Origin"] = origin
+            response.headers["Access-Control-Allow-Credentials"] = "true"
+            response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, DELETE, OPTIONS, PATCH"
+            response.headers["Access-Control-Allow-Headers"] = "*"
+            response.headers["Access-Control-Max-Age"] = "3600"
+        return response
+    
+    # Обрабатываем обычные запросы
+    response = await call_next(request)
+    
+    # Добавляем CORS заголовки к ответу
+    origin = request.headers.get("origin")
+    if origin:
+        # Разрешаем все origins для разработки (можно ограничить в продакшене)
+        response.headers["Access-Control-Allow-Origin"] = origin
+        response.headers["Access-Control-Allow-Credentials"] = "true"
+        response.headers["Access-Control-Expose-Headers"] = "*"
+    
+    return response
+
+# Дополнительный CORSMiddleware для совместимости
+# В режиме разработки разрешаем все origins
+allow_all_origins = os.getenv("ALLOW_ALL_CORS", "true").lower() == "true"  # По умолчанию true для разработки
+
+if allow_all_origins:
+    logger.info("⚠️  CORS: Разрешены все origins через middleware (режим разработки)")
+    # Не добавляем CORSMiddleware, так как используем кастомный middleware выше
+else:
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=cors_origins,
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+        expose_headers=["*"],
+    )
 
 # Инициализация сервисов
 translator_service = TranslationService()
@@ -189,6 +241,7 @@ async def translate_file(
         try:
             # Получаем информацию об изображениях страниц (если есть)
             page_images = getattr(translator_service, '_page_images', {})
+            logger.info(f"Получены изображения страниц: {len(page_images)} шт.")
             
             output_filename = docx_generator.create_docx(
                 translated_text=translated_text,
@@ -217,10 +270,15 @@ async def translate_file(
         # Возвращаем URL для скачивания
         download_url = f"/api/download/{output_filename}"
         
-        return TranslateResponse(
+        logger.info(f"Возвращаем ответ: downloadUrl={download_url}, message=Файл переведен успешно")
+        
+        response = TranslateResponse(
             downloadUrl=download_url,
             message=f"Файл переведен успешно. Модель: {model}"
         )
+        
+        logger.info(f"Ответ сформирован, возвращаем клиенту")
+        return response
     
     except HTTPException:
         raise

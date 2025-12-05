@@ -216,10 +216,21 @@ export default function App() {
       formData.append("sourceLang", sourceLang);
       formData.append("model", model);
 
+      console.log("Отправка запроса на перевод файла...");
+      
+      // Создаем AbortController для таймаута (5 минут)
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 300000); // 5 минут
+      
       const res = await fetch(`${API_BASE_URL}/api/translate-file`, {
         method: "POST",
         body: formData,
+        signal: controller.signal,
       });
+      
+      clearTimeout(timeoutId);
+
+      console.log("Получен ответ от сервера:", res.status, res.statusText);
 
       if (!res.ok) {
         const errorData = await res.json().catch(() => ({ detail: res.statusText }));
@@ -227,16 +238,18 @@ export default function App() {
       }
 
       const data = await res.json();
+      console.log("Данные ответа:", data);
       
       // Формируем полный URL для скачивания
       const downloadUrl = data.downloadUrl.startsWith("http") 
         ? data.downloadUrl 
         : `${API_BASE_URL || window.location.origin}${data.downloadUrl}`;
       
+      console.log("URL для скачивания:", downloadUrl);
       setFileResult(downloadUrl);
       setIsFileTranslating(false);
     } catch (err) {
-      console.error(err);
+      console.error("Ошибка при переводе файла:", err);
       const errorMessage = err instanceof Error 
         ? `Error: ${err.message}` 
         : "Error while translating file. Please check your server.";

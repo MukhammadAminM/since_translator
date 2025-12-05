@@ -50,6 +50,9 @@ class TranslationService:
             "scientific": "gpt-4o"         # Для научных текстов
         }
         
+        # Инициализируем словарь для хранения изображений страниц (для вставки в Word)
+        self._page_images = {}
+        
         # Инициализация OpenAI клиента
         if OPENAI_AVAILABLE:
             api_key = os.getenv("OPENAI_API_KEY")
